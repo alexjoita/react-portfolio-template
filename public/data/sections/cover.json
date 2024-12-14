@@ -4,28 +4,35 @@
             "title": "Welcome!",
             "title_menu": "About me",
             "title_long_prefix": "Hello...",
-            "title_long": "I'm **Mark Choi!**"
-        },
-
-        "es": {
-            "title": "¡Saludos!",
-            "title_menu": "Sobre mí",
-            "title_long_prefix": "Hola...",
-            "title_long": "Soy **Mark Choi!**"
+            "title_long": "I'm **Alex Joita!**"
         },
 
         "fr": {
             "title": "Salut !",
             "title_menu": "À propos",
             "title_long_prefix": "Salut...",
-            "title_long": "Je suis **Mark Choi!**"
+            "title_long": "Je suis **Alex Joita!**"
         },
 
-        "ko": {
-            "title": "환영합니다!",
-            "title_menu": "소개",
-            "title_long_prefix": "안녕하세요...",
-            "title_long": "저는 **Mark Choi** 입니다!"
+        "it": {
+            "title": "Prego!",
+            "title_menu": "Un po' di me",
+            "title_long_prefix": "Ciao...",
+            "title_long": "Io sono **Alex Joita**!"
+        },
+
+        "es": {
+            "title": "¡Saludos!",
+            "title_menu": "Sobre mí",
+            "title_long_prefix": "Hola...",
+            "title_long": "Soy **Alex Joita!**"
+        },
+
+        "ro": {
+            "title": "¡Salut!",
+            "title_menu": "Despre mine",
+            "title_long_prefix": "Salutare...",
+            "title_long": "Sunt **Alex Joita!**"
         }
     },
 
@@ -41,12 +48,13 @@
                 "en": {},
                 "es": {},
                 "fr": {},
-                "ko": {}
+                "it": {},
+                "ro": {}
             },
 
             "items": [
                 {
-                    "value": "Cupertino – CA",
+                    "value": "Romania - Bucharest – Italy - Bergamo",
                     "links": [
                         {"href": null}
                     ],
@@ -57,9 +65,9 @@
                     }
                 },
                 {
-                    "value": "mark.choi@dev.com",
+                    "value": "alexjoita@alexjoita.com",
                     "links": [
-                        {"href": "mailto:mark.choi@dev.com"}
+                        {"href": "mailto:alexjoita@alexjoita.com"}
                     ],
                     "icon": {
                         "img": null,
@@ -70,7 +78,7 @@
                 {
                     "value": "@ryanbalieiro",
                     "links": [
-                        {"href": "https://github.com/ryanbalieiro"}
+                        {"href": "https://github.com/alexjoita"}
                     ],
                     "icon": {
                         "img": null,
@@ -100,10 +108,10 @@
                         "faColors": {"bg": null, "fill": null}
                     },
                     "locales": {
-                        "en": {"text": "<p>I’m a PHP developer with <b>over a decade</b> of experience, specializing in backend development with some frontend work as well. I also have hands-on experience with C++, C#, Go, and Python in production environments.</p><p>This diverse background gives me the flexibility to adapt to a wide range of project needs.</p><p>I look forward to collaborating <b>with you!</b>"},
-                        "es": {"text": "<p>Soy un desarrollador de PHP con <b>más de una década</b> de experiencia, especializado en desarrollo backend y con algo de experiencia en frontend. También tengo experiencia práctica en entornos de producción con C++, C#, Go y Python.</p><p>Este variado historial me permite adaptarme a una amplia gama de necesidades de proyectos.</p><p>¡Espero con interés colaborar <b>contigo!</b></p>"},
-                        "fr": {"text": "<p>Je suis développeur PHP avec <b>plus d'une décennie</b> d'expérience, spécialisé dans le développement backend avec un peu de travail en frontend également. J'ai aussi de l'expérience en production avec les technologies C++, C#, Go et Python.</p><p>Ce parcours diversifié me permet de m'adapter à une large gamme de besoins de projets.</p><p>Je suis impatient de collaborer <b>avec vous !</b></p>"},
-                        "ko": {"text": "<p>저는 백엔드 개발을 전문으로 하고, 프론트엔드 작업도 일부 수행해온 <b>10년 이상의</b> 경력을 가진 PHP 개발자입니다. 또한 C++, C#, Go, Python 스택을 사용한 프로덕션 경험도 있습니다.</p><p>이 다양한 배경 덕분에 프로젝트의 다양한 요구에 유연하게 대처할 수 있습니다.</p><p><b>당신과 협업</b>하기를 기대하고 있습니다!</p>"}
+                        "en": {"text":"<p>Hi, I’m Alex! -  web developer, designer, and photographer with a passion for creating and learning. I’m a self-taught tech enthusiast, constantly expanding my knowledge to stay ahead in the industry.</p><p> I take pride in developing and delivering high-quality products that merge creativity with functionality. </p><p>Let’s build something <b>amazing together!</b>"},
+                        "es": {"text": "<p>¡Hola! Soy Alex, desarrollador web, diseñador y fotógrafo, apasionado por la creación y el aprendizaje. Soy autodidacta y un entusiasta de la tecnología, siempre ampliando mis conocimientos para mantenerme a la vanguardia de la industria.</p><p> Me enorgullece desarrollar y entregar productos de alta calidad que combinan creatividad y funcionalidad.</p><p> ¡Construyamos algo <b>increíble juntos!</b></p>"},
+                        "fr": {"text": "<p>Bonjour, je suis Alex ! Développeur web, designer et photographe, passionné par la création et l'apprentissage. Autodidacte et passionné de technologie, j'élargis constamment mes connaissances pour rester à la pointe de l'industrie.</p><p>Je suis fier de développer et de livrer des produits de haute qualité qui allient créativité et fonctionnalité.</p><p> Construisons quelque chose <b>d'incroyable ensemble !!</b></p>"},
+                        "it": {"text": "<p>Ciao, sono Alex! Sviluppatore web, designer e fotografo, appassionato di creatività e apprendimento. Sono un autodidatta e un entusiasta della tecnologia, sempre impegnato ad ampliare le mie conoscenze per rimanere al passo con il settore.</p><p> Sono orgoglioso di sviluppare e consegnare prodotti di alta qualità che uniscono creatività e funzionalità.</p><p> Costruiamo qualcosa <b>di straordinario insieme!</b></p>"}
                     }
                 }
             ]

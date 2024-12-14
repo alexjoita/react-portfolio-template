@@ -21,11 +21,18 @@
             "title_long": "Mes **Réalisations**"
         },
 
-        "ko": {
-            "title": "경력 성과",
-            "title_menu": "경력 성과",
-            "title_long_prefix": "다음은",
-            "title_long": "**경력 성과**입니다"
+        "it": {
+            "title": "Premi",
+            "title_menu": "Risultati",
+            "title_long_prefix": "Ecco i",
+            "title_long": "Miei **successi di carriera**"
+        },
+
+        "ro": {
+            "title": "Pregatire Profesionala",
+            "title_menu": "Pregatire Profesionala",
+            "title_long_prefix": "Aici este",
+            "title_long": "o parte din  **progresul meu**"
         }
     },
 
@@ -38,7 +45,8 @@
                 "en": { "title": "Certifications" },
                 "es": { "title": "Certificaciones" },
                 "fr": { "title": "Certifications" },
-                "ko": { "title": "인증서" }
+                "it": { "title": "Certificazioni" },
+                "ro": { "title": "Certificari" }
             },
 
             "items": [
