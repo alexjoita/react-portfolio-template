@@ -7,7 +7,7 @@ import ExternalLink from "/src/components/generic/ExternalLink.jsx"
 
 function Testimonial({quote, avatar, fallbackIcon, fallbackIconColors, author, role, href}) {
     const utils = useUtils()
-    quote = utils.limitTextSize(quote, 230)
+    quote = utils.limitTextSize(quote, 800)
 
     return (
         <div className={`testimonial`}>
