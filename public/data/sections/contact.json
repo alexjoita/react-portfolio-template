@@ -26,8 +26,8 @@
 
         "ro": {
             "title": "Contact",
-            "title_long_prefix": "Nu ezitati sa ",
-            "title_long": "ma **contactati** "
+            "title_long_prefix": "Nu ezitați să ",
+            "title_long": "mă **contactați** "
         }
 
     },
@@ -59,7 +59,7 @@
                 "es": {"title": "O si **prefieres**..."},
                 "fr": {"title": "Ou si vous **préférez**..."},
                 "it": {"title": "O se **preferisci**"},
-                "ro": {"title": "Sau daca **preferi**..."}
+                "ro": {"title": "Sau dacă **preferi**..."}
             },
 
             "items": [

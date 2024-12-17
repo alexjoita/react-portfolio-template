@@ -33,7 +33,7 @@
             "es": {"message": "¡Disponible para freelance!"},
             "fr": {"message": "Disponible pour freelance !"},
             "it": {"message": "Disponibile per lavoro autonomo"},
-            "ro": {"message": "Disponibil pentru freelance"}
+            "ro": {"message": "Disponibil pentru freelance!"}
         }
     },
 
@@ -78,7 +78,7 @@
         },
 
         {
-            "name": "Romana",
+            "name": "Română",
             "id": "ro",
             "flagUrl": "images/flags/ro.png"
         }

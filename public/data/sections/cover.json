@@ -29,7 +29,7 @@
         },
 
         "ro": {
-            "title": "¡Salut!",
+            "title": "Salut!",
             "title_menu": "Despre mine",
             "title_long_prefix": "Salutare...",
             "title_long": "Sunt **Alex Joita!**"
@@ -54,7 +54,7 @@
 
             "items": [
                 {
-                    "value": "Romania - Bucharest – Italy - Bergamo",
+                    "value": "Romania - Bucharest & Italy - Bergamo",
                     "links": [
                         {"href": null}
                     ],
@@ -97,7 +97,7 @@
                 "en": {"title": "**A little bit** about me..."},
                 "es": {"title": "**Un poco** sobre mí..."},
                 "fr": {"title": "**Un peu** à propos de moi..."},
-                "ro": {"title": "**Putin** despre mine..."},
+                "ro": {"title": "**Puțin** despre mine..."},
                 "it": {"title": "**Un po'** di me..."}
             },
 
@@ -127,7 +127,7 @@
                 "en": {"title": "Client **testimonials**"},
                 "es": {"title": "Testimonios de **clientes**"},
                 "fr": {"title": "Témoignages de **clients**"},
-                "ro": {"title": "Ce spun **clienții**"},
+                "ro": {"title": "Testimoniale **clienți**"},
                 "it": {"title": "Testimonianze **dei clienti**"}
             },
 
@@ -381,26 +381,30 @@
                 {
                     "icon": {
                         "img": null,
-                        "fa": "fa-regular fa-bullseye-arrow",
+                        "fa": "fa-solid fa-bullseye",
                         "faColors": null
                     },
                     "value": null,
                     "locales": {
                         "en": {
-                            "title": "Investing",
-                            "info": "Learning the basics of stocks and personal finance."
+                            "title": "Archery",
+                            "info": " I enjoy archery (compound) and whenever I have the chance, I go outdoors to train myself."
                         },
                         "es": {
-                            "title": "Invertir",
-                            "info": "Aprendiendo los conceptos básicos de acciones y finanzas personales."
+                            "title": "Tiro con arco",
+                            "info": "Me gusta hacer tiro con arco (compound) y siempre que tengo la oportunidad, salgo al aire libre a entrenar."
                         },
                         "fr": {
-                            "title": "Investir",
-                            "info": "Apprendre les bases des actions et des finances personnelles."
+                            "title": "Tir à l'arc",
+                            "info": "J'aime faire du tir à l'arc (compound) et chaque fois que j'en ai l'occasion, je vais m'entraîner en plein air."
                         },
-                        "ko": {
-                            "title": "투자",
-                            "info": "주식과 개인 재정의 기초 배우기."
+                        "ro": {
+                            "title": "Tir cu arcul",
+                            "info": "Îmi place să fac tir cu arcul (compound) și ori de câte ori am ocazia, merg în aer liber să mă antrenez."
+                        },
+                        "it": {
+                            "title": "Tiro con l'arco",
+                            "info": "Mi piace fare tiro con l'arco (compound) e ogni volta che ne ho l'occasione, vado ad allenarmi all'aperto."
                         }
                     }
                 },
@@ -408,26 +412,30 @@
                 {
                     "icon": {
                         "img": null,
-                        "fa": "fa-solid fa-pencil-alt",
+                        "fa": "fa-solid fa-motorcycle",
                         "faColors": null
                     },
                     "value": null,
                     "locales": {
                         "en": {
-                            "title": "UX design",
-                            "info": "Studying user experience principles."
+                            "title": "Motorcycling",
+                            "info": "I'm passionate about almost anything with an engine :) but especially two-wheeled motorcycles."
                         },
                         "es": {
-                            "title": "Diseño UX",
-                            "info": "Estudiando los principios de la experiencia del usuario."
+                            "title": " Motociclismo",
+                            "info": "Me apasiona casi todo lo que tiene motor :) pero especialmente las motocicletas de dos ruedas."
                         },
                         "fr": {
-                            "title": "Conception UX",
-                            "info": "Étudier les principes de l'expérience utilisateur."
+                            "title": "Motocyclisme",
+                            "info": "Je suis passionné par presque tout ce qui a un moteur :) mais surtout les motos à deux roues."
                         },
-                        "ko": {
-                            "title": "UX 디자인",
-                            "info": "사용자 경험 원칙을 공부하기."
+                        "ro": {
+                            "title": "Motociclism",
+                            "info": "Mă pasionează cam tot ce are motor :) dar în mod special motoarele pe 2 roți."
+                        },
+                        "it": {
+                            "title": "Motociclismo",
+                            "info": "Mi appassiona quasi tutto ciò che ha un motore :) ma in particolare le moto a due ruote."
                         }
                     }
                 },
@@ -441,20 +449,24 @@
                     "value": null,
                     "locales": {
                         "en": {
-                            "title": "Photo editing",
-                            "info": "Enhancing photos through creative editing techniques."
+                            "title": "Photography",
+                            "info": " I love to capture places, events, people. I create memories."
                         },
                         "es": {
-                            "title": "Edición de fotos",
-                            "info": "Mejorando fotos a través de técnicas creativas de edición."
+                            "title": "Fotografía ",
+                            "info": "Me gusta capturar lugares, eventos, personas. Creo recuerdos."
                         },
                         "fr": {
-                            "title": "Retouche photo",
-                            "info": "Améliorer des photos avec des techniques de montage créatives."
+                            "title": "La photographie ",
+                            "info": "J'aime immortaliser des lieux, des événements, des personnes. Je crée des souvenirs."
                         },
-                        "ko": {
-                            "title": "사진 편집",
-                            "info": "창의적인 편집 기술을 통해 사진을 향상시키기."
+                        "ro": {
+                            "title": "Fotografia",
+                            "info": "îmi place să imortalizez locuri, evenimente, oameni. Creez amintiri."
+                        },
+                        "it": {
+                            "title": "Fotografia",
+                            "info": "Mi piace immortalare luoghi, eventi, persone. Creo ricordi."
                         }
                     }
                 }
