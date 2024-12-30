@@ -18,10 +18,16 @@
             "title_long": "Mes **Compétences**"
         },
 
-        "ko": {
-            "title": "스킬",
-            "title_long_prefix": "이것은 내",
-            "title_long": "**스킬**입니다"
+        "ro": {
+            "title": "Skills",
+            "title_long_prefix": "Explorează",
+            "title_long": "Mele **Competenţele**"
+        },
+
+        "it": {
+            "title": "Competenze",
+            "title_long_prefix": "Esplorare",
+            "title_long": "le mie **Competenze**"
         }
     },
 
@@ -52,9 +58,13 @@
                             "title": "Conception de **sites web**",
                             "text": "Je peux donner vie à vos meilleures idées !"
                         },
-                        "ko": {
-                            "title": "**웹사이트** 디자인",
-                            "text": "당신의 최고의 아이디어를 실현시킬 수 있습니다!"
+                        "ro": {
+                            "title": "Design **site web**",
+                            "text": "Pot transforma cele mai bune idei ale tale în realitate!"
+                        },
+                        "it": {
+                            "title": "Design di **siti web** !",
+                            "text": "Posso dare vita alle tue migliori idee."
                         }
                     }
                 },
@@ -78,10 +88,17 @@
                             "title": "Gestion de **bases de données**",
                             "text": "Je peux gérer vos données efficacement !"
                         },
-                        "ko": {
-                            "title": "**데이터베이스** 관리",
-                            "text": "데이터를 효과적으로 처리할 수 있습니다!"
+
+                        "ro": {
+                            "title": "Gestionarea **bazelor de date**",
+                            "text": "Pot gestiona eficient datele tale !"
+                        },
+
+                        "it": {
+                            "title": "Gestione del **database**",
+                            "text": "Posso gestire i tuoi dati in modo efficace !"
                         }
+                      
                     }
                 },
 
@@ -104,9 +121,15 @@
                             "title": "Création d'**applications**",
                             "text": "Je peux créer des applications créatives et innovantes !"
                         },
-                        "ko": {
-                            "title": "**앱** 제작",
-                            "text": "창의적이고 혁신적인 앱을 만들 수 있습니다!"
+                        
+                        "ro": {
+                            "title": "Crearea de **aplicaţii**",
+                            "text": "Pot crea aplicaţii creative şi inovative !"
+                        },
+
+                        "it": {
+                            "title": "Creazione di **app**",
+                            "text": "Posso creare app creative e innovative !"
                         }
                     }
                 },
@@ -130,9 +153,15 @@
                             "title": "APIs **REST**",
                             "text": "Je peux créer des services API !"
                         },
-                        "ko": {
+                        
+                        "ro": {
                             "title": "REST **API**",
-                            "text": "API 서비스를 구축할 수 있습니다!"
+                            "text": "Pot construi servicii API !"
+                        },
+
+                        "it": {
+                            "title": "REST **API**",
+                            "text": "Posso costruire servizi API !"
                         }
                     }
                 },
@@ -156,9 +185,15 @@
                             "title": "**Sécurité** de l'information",
                             "text": "La sécurité est mon deuxième prénom !"
                         },
-                        "ko": {
-                            "title": "정보 **보안**",
-                            "text": "보안은 제 전문 분야입니다!"
+                        
+                        "ro": {
+                            "title": "**Securitate** Informatică",
+                            "text": "SECURITATE este al doilea meu nume :P !"
+                        },
+
+                        "it": {
+                            "title": "**Sicurezza** Informatica ",
+                            "text": "La sicurezza è il mio secondo nome !"
                         }
                     }
                 }
@@ -198,9 +233,9 @@
                         "fa": "fa-brands fa-java",
                         "faColors": {"bg": "#007396", "fill": "#EEE"}
                     },
-                    "value": 90,
+                    "value": 60,
                     "dates": {
-                        "start": "03/10/2019"
+                        "start": "03/10/2023"
                     },
                     "locales": {
                         "en": {
@@ -215,9 +250,9 @@
                         "fa": "fa-brands fa-python",
                         "faColors": {"bg": "#306998", "fill": "#EEE"}
                     },
-                    "value": 85,
+                    "value": 75,
                     "dates": {
-                        "start": "06/20/2020"
+                        "start": "06/20/2022"
                     },
                     "locales": {
                         "en": {
@@ -232,9 +267,9 @@
                         "fa": "fa-solid fa-gem",
                         "faColors": {"bg": "#CC0000", "fill": "#EEE"}
                     },
-                    "value": 80,
+                    "value": 30,
                     "dates": {
-                        "start": "08/30/2020"
+                        "start": "08/30/2023"
                     },
                     "locales": {
                         "en": {
@@ -249,9 +284,9 @@
                         "fa": "fa-solid fa-database",
                         "faColors": {"bg": "#4479A1", "fill": "#EEE"}
                     },
-                    "value": 90,
+                    "value": 70,
                     "dates": {
-                        "start": "10/10/2020"
+                        "start": "10/10/2022"
                     },
                     "locales": {
                         "en": {
@@ -268,7 +303,7 @@
                     },
                     "value": 60,
                     "dates": {
-                        "start": "04/15/2021"
+                        "start": "04/15/2022"
                     },
                     "locales": {
                         "en": {
@@ -283,9 +318,9 @@
                         "fa": "fa-brands fa-php",
                         "faColors": {"bg": "#FFD700", "fill": "#111"}
                     },
-                    "value": 100,
+                    "value": 75,
                     "dates": {
-                        "start": "09/01/2018"
+                        "start": "09/01/2022"
                     },
                     "locales": {
                         "en": {
@@ -300,9 +335,9 @@
                         "fa": "fa-solid fa-life-ring",
                         "faColors": {"bg": "#326CE5", "fill": "#EEE"}
                     },
-                    "value": 80,
+                    "value": 55,
                     "dates": {
-                        "start": "07/10/2021"
+                        "start": "07/10/2023"
                     },
                     "locales": {
                         "en": {
@@ -363,7 +398,7 @@
                         "fa": "fa-brands fa-html5",
                         "faColors": {"bg": "#E34F26", "fill": "#EEE"}
                     },
-                    "value": 100,
+                    "value": 90,
                     "dates": {
                         "start": "09/01/2018"
                     },
@@ -380,9 +415,9 @@
                         "fa": "fa-brands fa-css3",
                         "faColors": {"bg": "#1572B6", "fill": "#EEE"}
                     },
-                    "value": 65,
+                    "value": 85,
                     "dates": {
-                        "start": "01/15/2019"
+                        "start": "01/15/2018"
                     },
                     "locales": {
                         "en": {
@@ -397,9 +432,9 @@
                         "fa": "fa-brands fa-js",
                         "faColors": {"bg": "#F7DF1E", "fill": "#111"}
                     },
-                    "value": 90,
+                    "value": 70,
                     "dates": {
-                        "start": "03/10/2020"
+                        "start": "03/10/2022"
                     },
                     "locales": {
                         "en": {
@@ -414,9 +449,9 @@
                         "fa": "fa-brands fa-react",
                         "faColors": {"bg": "#61DAFB", "fill": "#111"}
                     },
-                    "value": 95,
+                    "value": 75,
                     "dates": {
-                        "start": "06/20/2020"
+                        "start": "06/20/2022"
                     },
                     "locales": {
                         "en": {
@@ -431,9 +466,9 @@
                         "fa": "fa-brands fa-vuejs",
                         "faColors": {"bg": "#4FC08D", "fill": "#111"}
                     },
-                    "value": 40,
+                    "value": 80,
                     "dates": {
-                        "start": "08/30/2023"
+                        "start": "08/30/2021"
                     },
                     "locales": {
                         "en": {
@@ -448,7 +483,7 @@
                         "fa": "fa-brands fa-bootstrap",
                         "faColors": {"bg": "#7952B3", "fill": "#EEE"}
                     },
-                    "value": 90,
+                    "value": 80,
                     "dates": {
                         "start": "02/10/2021"
                     },
@@ -470,10 +505,48 @@
                 "en": { "title": "Languages" },
                 "es": { "title": "Idiomas" },
                 "fr": { "title": "Langues" },
-                "ko": { "title": "언어" }
+                "ro": { "title": "Limbi străine" },
+                "it": { "title": "Lingue" }
             },
 
             "items": [
+                {
+                    "icon": {
+                        "img": "images/flags/ro.png",
+                        "fa": null,
+                        "faColors": { "bg": null, "fill": null }
+                    },
+                    "value": null,
+                    "dates": { "start": null },
+                    "locales": {
+                        "en": {
+                            "title": "Romanian",
+                            "info": "Exceptional skills both in writing and speaking. I can understand and express high-complexity ideas.",
+                            "tags": ["Native"]
+                        },
+                        "es": {
+                            "title": "Rumano",
+                            "info": "Habilidades excepcionales tanto en escritura como en habla. Puedo comprender y expresar ideas de alta complejidad.",
+                            "tags": ["Nativo"]
+                        },
+                        "fr": {
+                            "title": "Roumaine",
+                            "info": "Compétences exceptionnelles à l'écrit comme à l'oral. Je peux comprendre et exprimer des idées de grande complexité.",
+                            "tags": ["Native"]
+                        },
+                        "ro": {
+                            "title": "Română",
+                            "info": "Competenţe excepţionale atât în scris cât şi în vorbit. Pot înţelege şi emite idei de complexitate ridicată.",
+                            "tags": ["Nativ"]
+                        },
+                        "it": {
+                            "title": "Rumena",
+                            "info": "Competenze eccezionali sia nella scrittura che nel parlato. Posso comprendere ed esprimere idee di alta complessità.",
+                            "tags": ["Nativo"]
+                        }
+                    }
+                },
+
                 {
                     "icon": {
                         "img": "images/flags/en.png",
@@ -485,23 +558,30 @@
                     "locales": {
                         "en": {
                             "title": "English",
-                            "info": "Native speaker with excellent communication and writing skills.",
-                            "tags": ["Native"]
+                            "info": "Fluent in both spoken and written English; confident in professional communication.",
+                            "tags": ["Fluent"]
                         },
                         "es": {
                             "title": "Inglés",
-                            "info": "Hablante nativo con excelentes habilidades de comunicación y escritura.",
-                            "tags": ["Nativo"]
+                            "info": "Fluido en inglés hablado y escrito; seguro en la comunicación profesional.",
+                            "tags": ["Fluido"]
                         },
                         "fr": {
                             "title": "Anglais",
-                            "info": "Locuteur natif avec d'excellentes compétences en communication et en rédaction.",
-                            "tags": ["Natif"]
+                            "info": "Fluent à l'oral et à l'écrit; confiant dans la communication professionnelle.",
+                            "tags": ["Courant"]
                         },
-                        "ko": {
-                            "title": "영어",
-                            "info": "모국어 수준의 의사소통 및 글쓰기 능력을 보유.",
-                            "tags": ["모국어"]
+
+                        "ro": {
+                            "title": "Engleză",
+                            "info": "Fluent în engleză vorbită și scrisă; încrezător în comunicarea profesională.",
+                            "tags": ["Fluent"]
+                        },
+
+                        "it": {
+                            "title": "Inglese",
+                            "info": "Fluido in inglese parlato e scritto; sicuro nella comunicazione professionale.",
+                            "tags": ["Fluido"]
                         }
                     }
                 },
@@ -530,17 +610,22 @@
                             "info": "Fluent à l'oral et à l'écrit; confiant dans la communication professionnelle.",
                             "tags": ["Courant"]
                         },
-                        "ko": {
-                            "title": "프랑스어",
-                            "info": "구어 및 문어에 유창하며, 전문적인 소통에 자신감이 있음.",
-                            "tags": ["유창"]
+                        "ro": {
+                            "title": "Français",
+                            "info": "Fluent în franceză vorbită și scrisă; încrezător în comunicarea profesională.",
+                            "tags": ["Courant"]
+                        },
+                        "it": {
+                            "title": "Francese",
+                            "info": "Fluido in francese parlato e scritto; sicuro nella comunicazione professionale.",
+                            "tags": ["Fluido"]
                         }
                     }
                 },
 
                 {
                     "icon": {
-                        "img": "images/flags/vn.png",
+                        "img": "images/flags/it.png",
                         "fa": null,
                         "faColors": { "bg": null, "fill": null }
                     },
@@ -548,31 +633,36 @@
                     "dates": { "start": null },
                     "locales": {
                         "en": {
-                            "title": "Vietnamese",
-                            "info": "Intermediate proficiency in Vietnamese language; can hold conversations and understand written text.",
+                            "title": "Italian",
+                            "info": "I can understand both written and spoken language and actively participate in conversations.",
                             "tags": ["Intermediate"]
                         },
                         "es": {
-                            "title": "Vietnamita",
-                            "info": "Competencia intermedia en el idioma vietnamita; puede mantener conversaciones y entender textos escritos.",
+                            "title": "Italiano",
+                            "info": "Puedo entender tanto lo escrito como lo hablado y participar activamente en conversaciones.",
                             "tags": ["Intermedio"]
                         },
                         "fr": {
-                            "title": "Vietnamien",
-                            "info": "Compétence intermédiaire en vietnamien; peut tenir des conversations et comprendre des textes écrits.",
-                            "tags": ["Intermédiaire"]
+                            "title": "Italien",
+                            "info": "Je peux comprendre aussi bien l'écrit que l'oral et participer activement aux conversations.",
+                            "tags": ["intermédiaire"]
                         },
-                        "ko": {
-                            "title": "베트남어",
-                            "info": "중간 수준의 베트남어 실력; 대화 가능 및 글을 이해할 수 있음.",
-                            "tags": ["중급"]
+                        "ro": {
+                            "title": "Italiană",
+                            "info": "Pot înţelege atât scris cât şi oral şi pot participa activ la discuţii în limba italiană.",
+                            "tags": ["Intermediar"]
+                        },
+                        "it": {
+                            "title": "Italiano",
+                            "info": "Posso comprendere sia lo scritto che l'orale e partecipare attivamente alle conversazioni.",
+                            "tags": ["Intermedio"]
                         }
                     }
                 },
 
                 {
                     "icon": {
-                        "img": "images/flags/ko.png",
+                        "img": "images/flags/es.png",
                         "fa": null,
                         "faColors": { "bg": null, "fill": null }
                     },
@@ -580,24 +670,29 @@
                     "dates": { "start": null },
                     "locales": {
                         "en": {
-                            "title": "Korean",
-                            "info": "Basic understanding of Korean; learning and improving.",
-                            "tags": ["Basic"]
+                            "title": "Spanish",
+                            "info": "Basic knowledge of Spanish. I can hold conversations at a low level of difficulty.",
+                            "tags": ["Beginner"]
                         },
                         "es": {
-                            "title": "Coreano",
-                            "info": "Comprensión básica del coreano; aprendiendo y mejorando.",
-                            "tags": ["Básico"]
+                            "title": "Español",
+                            "info": "Conocimientos básicos de español. Puedo mantener conversaciones con un nivel de dificultad bajo.",
+                            "tags": ["Principiante"]
                         },
                         "fr": {
-                            "title": "Coréen",
-                            "info": "Compréhension de base du coréen; en apprentissage et amélioration.",
-                            "tags": ["Basique"]
+                            "title": "Roumaine",
+                            "info": "Connaissances de base en espagnol. Je peux tenir des conversations à un niveau de difficulté faible.",
+                            "tags": ["Native"]
                         },
-                        "ko": {
-                            "title": "한국어",
-                            "info": "기초적인 한국어 이해; 배우는 중이며 향상 중.",
-                            "tags": ["기초"]
+                        "ro": {
+                            "title": "Spaniolă",
+                            "info": "Cunoştiinţe de bază în limba spaniolă. Pot susţine conversaţii cu nivel de dificultate scăzut.",
+                            "tags": ["Începător"]
+                        },
+                        "it": {
+                            "title": "Spagnolo",
+                            "info": "Conoscenze di base in spagnolo. Posso sostenere conversazioni con un livello di difficoltà basso.",
+                            "tags": ["Principiante"]
                         }
                     }
                 }
