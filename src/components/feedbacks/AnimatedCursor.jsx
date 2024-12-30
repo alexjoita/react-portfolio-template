@@ -4,7 +4,7 @@ import FaIcon from "/src/components/generic/FaIcon.jsx"
 import Tooltip from "/src/components/generic/Tooltip.jsx"
 import {useUtils} from "/src/helpers/utils.js"
 
-const CIRCLE_SIZE_IN_PIXELS = 75
+const CIRCLE_SIZE_IN_PIXELS = 120
 const MIN_OPACITY = 0.1
 const MAX_OPACITY = 0.6
 const MIN_SCALE = 1

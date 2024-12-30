@@ -10,8 +10,8 @@
 
 .animated-cursor-circle {
     position: absolute;
-    width: 75px;
-    height: 75px;
+    width: 120px;
+    height: 120px;
     border-radius: 100%;
     background-color: var(--theme-secondary);
     pointer-events: none;
@@ -28,7 +28,7 @@
     .fa-icon {
         transition: 0.2s all ease-in;
         &-hidden {
-            scale: 0;
+            scale: 1;
         }
     }
 }
