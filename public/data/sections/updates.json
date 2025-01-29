@@ -21,11 +21,19 @@
             "title_long": "Dernières **Mises à Jour**"
         },
 
-        "ko": {
-            "title": "최근의 삶",
-            "title_menu": "업데이트",
-            "title_long_prefix": "내 최근",
-            "title_long": "**업데이트**를 확인해 보세요"
+        
+        "ro": {
+            "title": "Viaţa recentă",
+            "title_menu": "Actualizări",
+            "title_long_prefix": "Descoperă",
+            "title_long": "Ultimele **Actualizări**"
+        },
+
+        "it": {
+            "title": "Vita recente",
+            "title_menu": "Aggiornamenti",
+            "title_long_prefix": "Scopri gli",
+            "title_long": "ultimi "
         }
     },
 
@@ -56,7 +64,11 @@
                             "title": "03",
                             "info": "Applications publiées"
                         },
-                        "ko": {
+                        "ro": {
+                            "title": "03",
+                            "info": "Applications publiées"
+                        },
+                        "it": {
                             "title": "03",
                             "info": "출시된 앱"
                         }
@@ -81,7 +93,12 @@
                             "title": "100+",
                             "info": "Étoiles sur GitHub"
                         },
-                        "ko": {
+
+                        "ro": {
+                            "title": "100+",
+                            "info": "Étoiles sur GitHub"
+                        },
+                        "it": {
                             "title": "100+",
                             "info": "GitHub 별"
                         }
@@ -95,20 +112,26 @@
                     },
                     "locales": {
                         "en": {
-                            "title": "12",
+                            "title": "14",
                             "info": "Countries visited"
                         },
                         "es": {
-                            "title": "12",
+                            "title": "14",
                             "info": "Países visitados"
                         },
                         "fr": {
-                            "title": "12",
+                            "title": "14",
                             "info": "Pays visités"
                         },
-                        "ko": {
-                            "title": "12",
-                            "info": "방문한 나라"
+
+                        "ro": {
+                            "title": "14",
+                            "info": "Ţări vizitate"
+                        },
+
+                        "it": {
+                            "title": "14",
+                            "info": "Paesi visitati"
                         }
                     }
                 },
@@ -120,20 +143,26 @@
                     },
                     "locales": {
                         "en": {
-                            "title": "07",
+                            "title": "03",
                             "info": "Open-source projects"
                         },
                         "es": {
-                            "title": "07",
+                            "title": "03",
                             "info": "Proyectos de código abierto"
                         },
                         "fr": {
-                            "title": "07",
+                            "title": "03",
                             "info": "Projets open-source"
                         },
-                        "ko": {
-                            "title": "07",
-                            "info": "오픈 소스 프로젝트"
+
+                        "ro": {
+                            "title": "03",
+                            "info": "Proiecte open-source"
+                        },
+
+                        "it": {
+                            "title": "03",
+                            "info": "Progetti open source"
                         }
                     }
                 },
@@ -156,9 +185,15 @@
                             "title": "20,000",
                             "info": "Cafés consommés"
                         },
-                        "ko": {
+
+                        "ro": {
                             "title": "20,000",
-                            "info": "마신 커피"
+                            "info": "Cafele consumate"
+                        },
+
+                        "it": {
+                            "title": "20,000",
+                            "info": "Caffè consumati"
                         }
                     }
                 }
@@ -174,39 +209,44 @@
                 "en": { "title": "Quick **Facts**" },
                 "es": { "title": "Feed de **Noticias**" },
                 "fr": { "title": "Fil d'**Actualités**" },
-                "ko": { "title": "**뉴스** 피드" }
+                "ro": { "title": "Scurte **Info**" },
+                "it": { "title": "Brevi **informazioni**" }
             },
 
             "items": [
                 {
                     "dates": {
-                        "start": "09/01/2022",
+                        "start": "04/15/2017",
                         "end": null
                     },
                     "links": [],
                     "locales": {
                         "en": {
-                            "title": "Relocated to **California!**",
-                            "text": "Successfully transitioned to California to explore new career opportunities in the tech industry, leveraging the vibrant local ecosystem to enhance my professional growth."
+                            "title": "**Professional** conversion",
+                            "text": "After 10 years of working as a police officer within the Ministry of Internal Affairs in Romania, I started working in the I.T. field, with my first freelancing projects being logo design."
                         },
                         "es": {
-                            "title": "¡Me mudé a **California!**",
-                            "text": "Transición exitosa a California para explorar nuevas oportunidades profesionales en la industria tecnológica, aprovechando el vibrante ecosistema local para mejorar mi crecimiento profesional."
+                            "title": "Conversión **profesional**",
+                            "text": "Después de 10 años de trabajo como oficial de policía en el Ministerio del Interior de Rumanía, comencé a trabajar en el campo de la tecnología de la información, siendo mis primeros proyectos freelance el diseño de logotipos."
                         },
                         "fr": {
-                            "title": "Déménagement en **Californie !**",
-                            "text": "Transition réussie en Californie pour explorer de nouvelles opportunités de carrière dans l'industrie technologique, tirant parti de l'écosystème local dynamique pour améliorer ma croissance professionnelle."
+                            "title": "Reconversion **professionnelle**",
+                            "text": "Après 10 ans de travail en tant qu'officier de police au sein du ministère de l'Intérieur en Roumanie, j'ai commencé à travailler dans le domaine de l'informatique, mes premiers projets en freelance étant la création de logos."
                         },
-                        "ko": {
-                            "title": "**캘리포니아로 이사했습니다!**",
-                            "text": "기술 산업의 새로운 직업 기회를 탐색하기 위해 캘리포니아로 성공적으로 이주하였으며, 지역 생태계를 활용하여 전문성을 향상시키고 있습니다."
+                        "ro": {
+                            "title": "Reconversie **Profesională**",
+                            "text": "După 10 ani de muncă fiind ofiţer de poliţie în cadrul Ministerul de Interne din România, am început să activez în domeniul I.T., primele proiecte de freelancing fiind de creare logo."
+                        },
+                        "it": {
+                            "title": "Conversione **Professionale**",
+                            "text": "Dopo 10 anni di lavoro come ufficiale di polizia all'interno del Ministero degli Interni della Romania, ho iniziato a lavorare nel campo dell'informatica, con i miei primi progetti freelance che riguardavano la creazione di loghi."
                         }
                     }
                 },
 
                 {
                     "dates": {
-                        "start": "05/12/2023",
+                        "start": "04/02/2008",
                         "end": null
                     },
                     "links": [
@@ -225,7 +265,11 @@
                             "title": "Création de ma propre **chaîne YouTube** !",
                             "text": "Lancement d'une chaîne YouTube axée sur des tutoriels de programmation, partageant des idées et des techniques sur diverses technologies, et interagissant avec une communauté de développeurs en herbe."
                         },
-                        "ko": {
+                        "ro": {
+                            "title": "Création de ma propre **chaîne YouTube** !",
+                            "text": "Lancement d'une chaîne YouTube axée sur des tutoriels de programmation, partageant des idées et des techniques sur diverses technologies, et interagissant avec une communauté de développeurs en herbe."
+                        },
+                        "it": {
                             "title": "자신의 **유튜브 채널을** 시작했습니다!",
                             "text": "프로그래밍 튜토리얼에 초점을 맞춘 유튜브 채널을 시작하여 다양한 기술에 대한 통찰력과 기법을 공유하고, 개발자 지망생 커뮤니티와 소통하고 있습니다."
                         }
@@ -251,7 +295,11 @@
                             "title": "Travail sur un nouveau **projet mobile** !",
                             "text": "Actuellement en train de développer une application mobile qui intègre des fonctionnalités innovantes et un design convivial, visant à améliorer l'expérience utilisateur et à répondre à des besoins spécifiques du marché."
                         },
-                        "ko": {
+                        "ro": {
+                            "title": "Travail sur un nouveau **projet mobile** !",
+                            "text": "Actuellement en train de développer une application mobile qui intègre des fonctionnalités innovantes et un design convivial, visant à améliorer l'expérience utilisateur et à répondre à des besoins spécifiques du marché."
+                        },
+                        "it": {
                             "title": "새 **모바일 프로젝트** 작업 중!",
                             "text": "혁신적인 기능과 사용자 친화적인 디자인을 통합한 모바일 애플리케이션을 현재 개발 중이며, 사용자 경험을 향상하고 특정 시장의 요구를 충족하는 것을 목표로 하고 있습니다."
                         }
@@ -279,7 +327,11 @@
                             "title": "Lancement de mon **site web personnel** !",
                             "text": "Création d'un site web personnel pour présenter mes projets, partager mon parcours en programmation et fournir des ressources pour d'autres développeurs."
                         },
-                        "ko": {
+                        "ro": {
+                            "title": "Lancement de mon **site web personnel** !",
+                            "text": "Création d'un site web personnel pour présenter mes projets, partager mon parcours en programmation et fournir des ressources pour d'autres développeurs."
+                        },
+                        "it": {
                             "title": "**개인 웹사이트**를 시작했습니다!",
                             "text": "내 프로젝트를 소개하고 프로그래밍 여정을 공유하며 다른 개발자들을 위한 리소스를 제공하기 위해 개인 웹사이트를 만들었습니다."
                         }
