@@ -198,6 +198,42 @@
                     }
                 },
 
+
+
+                {
+                    "categoryId": "logo",
+                    "icon": {
+                        "img": "images/pictures/project-logo-7.png",
+                        "fa": "",
+                        "faColors": {"bg": null, "fill": null}
+                    },
+
+                    "links": [
+                    ],
+
+                    "media": {
+                        "youtubeVideo": "",
+                        "screenshots": {
+                            "aspectRatio": "9:16",
+                            "images": [
+                                "images/pictures/project-screenshot-1.webp",
+                                "images/pictures/project-screenshot-2.webp",
+                                "images/pictures/project-screenshot-3.webp",
+                                "images/pictures/project-screenshot-4.webp",
+                                "images/pictures/project-screenshot-5.webp"
+                            ]
+                        }
+                    },
+
+                    "locales": {
+                        "en": {
+                            "title": "Logo / Vectorial Design",
+                            "text": "A cross-platform email client built with <b>Flutter</b>, providing efficient communication with an intuitive UI for <b>managing emails</b>.",
+                            "tags": ["Flutter", "E-mail", "Communication"]
+                        }
+                    }
+                },
+
                 {
                     "categoryId": "apps",
                     "icon": {
