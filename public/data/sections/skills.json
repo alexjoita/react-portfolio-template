@@ -200,7 +200,6 @@
             ]
 
         },
-
         {
             "id": "backend_programming",
             "component": "ArticleList",
@@ -216,9 +215,9 @@
                         "fa": "fa-brands fa-node-js",
                         "faColors": {"bg": "#339933", "fill": "#EEE"}
                     },
-                    "value": 95,
+                    "value": 40,
                     "dates": {
-                        "start": "01/15/2019"
+                        "start": "01/15/2022"
                     },
                     "locales": {
                         "en": {
@@ -227,30 +226,14 @@
                         }
                     }
                 },
-                {
-                    "icon": {
-                        "img": null,
-                        "fa": "fa-brands fa-java",
-                        "faColors": {"bg": "#007396", "fill": "#EEE"}
-                    },
-                    "value": 60,
-                    "dates": {
-                        "start": "03/10/2023"
-                    },
-                    "locales": {
-                        "en": {
-                            "title": "Java 11+",
-                            "info": null
-                        }
-                    }
-                },
+           
                 {
                     "icon": {
                         "img": null,
                         "fa": "fa-brands fa-python",
                         "faColors": {"bg": "#306998", "fill": "#EEE"}
                     },
-                    "value": 75,
+                    "value": 55,
                     "dates": {
                         "start": "06/20/2022"
                     },
@@ -261,30 +244,14 @@
                         }
                     }
                 },
-                {
-                    "icon": {
-                        "img": null,
-                        "fa": "fa-solid fa-gem",
-                        "faColors": {"bg": "#CC0000", "fill": "#EEE"}
-                    },
-                    "value": 30,
-                    "dates": {
-                        "start": "08/30/2023"
-                    },
-                    "locales": {
-                        "en": {
-                            "title": "Ruby on Rails",
-                            "info": null
-                        }
-                    }
-                },
+            
                 {
                     "icon": {
                         "img": null,
                         "fa": "fa-solid fa-database",
                         "faColors": {"bg": "#4479A1", "fill": "#EEE"}
                     },
-                    "value": 70,
+                    "value": 50,
                     "dates": {
                         "start": "10/10/2022"
                     },
@@ -312,49 +279,16 @@
                         }
                     }
                 },
-                {
-                    "icon": {
-                        "img": null,
-                        "fa": "fa-brands fa-php",
-                        "faColors": {"bg": "#FFD700", "fill": "#111"}
-                    },
-                    "value": 75,
-                    "dates": {
-                        "start": "09/01/2022"
-                    },
-                    "locales": {
-                        "en": {
-                            "title": "PHP 8.0+",
-                            "info": null
-                        }
-                    }
-                },
-                {
-                    "icon": {
-                        "img": null,
-                        "fa": "fa-solid fa-life-ring",
-                        "faColors": {"bg": "#326CE5", "fill": "#EEE"}
-                    },
-                    "value": 55,
-                    "dates": {
-                        "start": "07/10/2023"
-                    },
-                    "locales": {
-                        "en": {
-                            "title": "Kubernetes",
-                            "info": null
-                        }
-                    }
-                },
+           
                 {
                     "icon": {
                         "img": null,
                         "fa": "fa-solid fa-server",
                         "faColors": {"bg": "#47A248", "fill": "#EEE"}
                     },
-                    "value": 50,
+                    "value": 40,
                     "dates": {
-                        "start": "05/20/2024"
+                        "start": "05/20/2021"
                     },
                     "locales": {
                         "en": {
@@ -369,9 +303,9 @@
                         "fa": "fa-brands fa-git",
                         "faColors": {"bg": "#F05032", "fill": "#111"}
                     },
-                    "value": 95,
+                    "value": 70,
                     "dates": {
-                        "start": "01/01/2018"
+                        "start": "01/01/2020"
                     },
                     "locales": {
                         "en": {
@@ -398,7 +332,7 @@
                         "fa": "fa-brands fa-html5",
                         "faColors": {"bg": "#E34F26", "fill": "#EEE"}
                     },
-                    "value": 90,
+                    "value": 75,
                     "dates": {
                         "start": "09/01/2018"
                     },
@@ -432,7 +366,7 @@
                         "fa": "fa-brands fa-js",
                         "faColors": {"bg": "#F7DF1E", "fill": "#111"}
                     },
-                    "value": 70,
+                    "value": 65,
                     "dates": {
                         "start": "03/10/2022"
                     },
@@ -449,7 +383,7 @@
                         "fa": "fa-brands fa-react",
                         "faColors": {"bg": "#61DAFB", "fill": "#111"}
                     },
-                    "value": 75,
+                    "value": 60,
                     "dates": {
                         "start": "06/20/2022"
                     },
@@ -466,7 +400,7 @@
                         "fa": "fa-brands fa-vuejs",
                         "faColors": {"bg": "#4FC08D", "fill": "#111"}
                     },
-                    "value": 80,
+                    "value": 70,
                     "dates": {
                         "start": "08/30/2021"
                     },
@@ -480,10 +414,61 @@
                 {
                     "icon": {
                         "img": null,
+                        "fa": "fa-brands fa-wordpress",
+                        "faColors": {"bg": "cyan", "fill": "#111"}
+                    },
+                    "value": 70,
+                    "dates": {
+                        "start": "08/30/2018"
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "WordPress",
+                            "info": null
+                        }
+                    }
+                },
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-brands fa-figma",
+                        "faColors": {"bg": "purple", "fill": "#111"}
+                    },
+                    "value": 40,
+                    "dates": {
+                        "start": "08/30/2023"
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "Figma",
+                            "info": null
+                        }
+                    }
+                },
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-brands fa-shopify",
+                        "faColors": {"bg": "#4FC08D", "fill": "#111"}
+                    },
+                    "value": 50,
+                    "dates": {
+                        "start": "08/30/2023"
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "Shopify",
+                            "info": null
+                        }
+                    }
+                },
+                {
+                    "icon": {
+                        "img": null,
                         "fa": "fa-brands fa-bootstrap",
                         "faColors": {"bg": "#7952B3", "fill": "#EEE"}
                     },
-                    "value": 80,
+                    "value": 70,
                     "dates": {
                         "start": "02/10/2021"
                     },
@@ -496,6 +481,180 @@
                 }
             ]
         },
+
+        {
+            "id": "video_skills",
+            "component": "ArticleList",
+            "config": {},
+            "locales": {
+                "en": {"title": "Photo/Video"}
+            },
+
+            "items": [
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-solid fa-camera",
+                        "faColors": {"bg": "yellow", "fill": "black"}
+                    },
+                    "value": 75,
+                    "dates": {
+                        "start": "09/01/2022"
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "Adobe Lightroom",
+                            "info": null
+                        }
+                    }
+                },
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-solid fa-wand-magic-sparkles",
+                        "faColors": {"bg": "yellow", "fill": "black"}
+                    },
+                    "value": 75,
+                    "dates": {
+                        "start": "09/01/2018"
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "Adobe Photoshop",
+                            "info": null
+                        }
+                    }
+                },
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-solid fa-image-portrait",
+                        "faColors": {"bg": "yellow", "fill": "black"}
+                    },
+                    "value": 80,
+                    "dates": {
+                        "start": "09/01/2021"
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "Affinity Photo",
+                            "info": null
+                        }
+                    }
+                },
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-solid fa-expand",
+                        "faColors": {"bg": "#E34F26", "fill": "#EEE"}
+                    },
+                    "value": 80,
+                    "dates": {
+                        "start": "09/01/2018"
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "Adobe Premiere",
+                            "info": null
+                        }
+                    }
+                },
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-solid fa-film",
+                        "faColors": {"bg": "#E34F26", "fill": "#EEE"}
+                    },
+                    "value": 75,
+                    "dates": {
+                        "start": "09/01/2023"
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "DaVinci Resolve",
+                            "info": null
+                        }
+                    }
+                }
+                ]
+                },
+
+                {
+                    "id": "graphic_design_skills",
+                    "component": "ArticleList",
+                    "config": {},
+                    "locales": {
+                        "en": {"title": "Graphic Design"}
+                    },
+        
+                    "items": [
+                        {
+                            "icon": {
+                                "img": null,
+                                "fa": "fa-solid fa-crop-simple",
+                                "faColors": {"bg": "blue", "fill": "#EEE"}
+                            },
+                            "value": 90,
+                            "dates": {
+                                "start": "09/01/2018"
+                            },
+                            "locales": {
+                                "en": {
+                                    "title": "Affinity Designer",
+                                    "info": null
+                                }
+                            }
+                        },
+                        {
+                            "icon": {
+                                "img": null,
+                                "fa": "fa-solid fa-paintbrush",
+                                "faColors": {"bg": "blue", "fill": "#EEE"}
+                            },
+                            "value": 70,
+                            "dates": {
+                                "start": "09/01/2018"
+                            },
+                            "locales": {
+                                "en": {
+                                    "title": "Adobe Illustrator",
+                                    "info": null
+                                }
+                            }
+                        },
+                        {
+                            "icon": {
+                                "img": null,
+                                "fa": "fa-solid fa-wand-magic-sparkles",
+                                "faColors": {"bg": "blue", "fill": "#EEE"}
+                            },
+                            "value": 70,
+                            "dates": {
+                                "start": "09/01/2018"
+                            },
+                            "locales": {
+                                "en": {
+                                    "title": "Adobe Photoshop",
+                                    "info": null
+                                }
+                            }
+                        }
+                        ]
+                        },
+
+
+
+
+
+
+
+
+                
+
+
+
+
+
 
         {
             "id": "languages",
