@@ -216,7 +216,25 @@
                         "screenshots": {
                             "aspectRatio": "9:16",
                             "images": [
-                                "images/pictures/logo/logo2.webp"
+                                "images/pictures/logo/logo2.webp",
+                                "images/pictures/logo/logo3.webp",
+                                "images/pictures/logo/logo4.webp",
+                                "images/pictures/logo/logo5.webp",
+                                "images/pictures/logo/logo6.webp",
+                                "images/pictures/logo/logo7.webp",
+                                "images/pictures/logo/logo8.webp",
+                                "images/pictures/logo/logo9.webp",
+                                "images/pictures/logo/logo10.webp",
+                                "images/pictures/logo/logo11.webp",
+                                "images/pictures/logo/logo12.webp",
+                                "images/pictures/logo/logo13.webp",
+                                "images/pictures/logo/logo14.webp",
+                                "images/pictures/logo/logo15.webp",
+                                "images/pictures/logo/logo16.webp",
+                                "images/pictures/logo/logo17.webp",
+                                "images/pictures/logo/logo18.webp",
+                                "images/pictures/logo/logo19.webp",
+                                "images/pictures/logo/logo20.webp"
                                
                             ]
                         }
@@ -225,9 +243,30 @@
                     "locales": {
                         "en": {
                             "title": "Logo / Vectorial Design",
-                            "text": "A cross-platform email client built with <b>Flutter</b>, providing efficient communication with an intuitive UI for <b>managing emails</b>.",
-                            "tags": ["Flutter", "E-mail", "Communication"]
+                            "text": " Logo and branding are essential elements of a company’s identity. <b>A logo </b> is a unique visual symbol that represents the company and its values, often acting as the first point of recognition for customers. Branding, on the other hand, includes the entire visual and emotional identity of a company, including colors, typography, tone of voice, and overall style, all of which work together to create a memorable and consistent image in the minds of consumers.",
+                            "tags": ["Marketing", "Visual Identity", "Communication", "Business", "Branding"]
+                        },
+                        "es": {
+                            "title": "Logo / Vectorial Design",
+                            "text": ": El logotipo y la marca son elementos esenciales de la identidad de una empresa. Un logotipo es un símbolo visual único que representa a la empresa y sus valores, actuando a menudo como el primer punto de reconocimiento para los clientes. La marca, por otro lado, incluye toda la identidad visual y emocional de una empresa, que abarca colores, tipografía, tono de voz y estilo general, todos los cuales trabajan juntos para crear una imagen memorable y coherente en la mente de los consumidores.",
+                            "tags": ["Marketing", "Identidad Visual", "Comunicación","Negocios","Branding"]
+                        },
+                        "fr": {
+                            "title": "Logo / Vectorial Design",
+                            "text": "Le logo et la marque sont des éléments essentiels de l'identité d'une entreprise. Un logo est un symbole visuel unique qui représente l'entreprise et ses valeurs, agissant souvent comme le premier point de reconnaissance pour les clients. Le branding, quant à lui, inclut l'ensemble de l'identité visuelle et émotionnelle d'une entreprise, y compris les couleurs, la typographie, le ton de voix et le style général, tous ces éléments travaillant ensemble pour créer une image mémorable et cohérente dans l'esprit des consommateurs.",
+                            "tags": ["Marketing", "Identité Visuelle", "Communication","Affaires","Branding"]
+                        },
+                        "it": {
+                            "title": "Logo / Vectorial Design",
+                            "text": " Il logo e il branding sono elementi essenziali dell'identità di un'azienda. Un logo è un simbolo visivo unico che rappresenta l'azienda e i suoi valori, agendo spesso come il primo punto di riconoscimento per i clienti. Il branding, d'altra parte, comprende l'intera identità visiva ed emotiva di un'azienda, inclusi colori, tipografia, tono di voce e stile generale, tutti elementi che lavorano insieme per creare un'immagine memorabile e coerente nella mente dei consumatori.",
+                            "tags": ["Marketing", "Identità Visiva", "Comunicazione","Affari","Branding"]
+                        },
+                        "ro": {
+                            "title": "Logo / Vectorial Design",
+                            "text": " Logo-ul și branding-ul sunt elemente esențiale ale identității unei companii. Un logo este un simbol vizual unic care reprezintă compania și valorile sale, acționând adesea ca primul punct de recunoaștere pentru clienți. Branding-ul, pe de altă parte, include întreaga identitate vizuală și emoțională a unei companii, incluzând culorile, tipografia, tonul vocii și stilul general, toate acestea lucrând împreună pentru a crea o imagine memorabilă și consistentă în mintea consumatorilor.",
+                            "tags": ["Marketing", "Identitate Vizuală", "Comunicare","Afaceri","Branding"]
                         }
+
                     }
                 },
 
