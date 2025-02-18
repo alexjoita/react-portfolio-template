@@ -332,10 +332,12 @@
                     ],
 
                     "media": {
-                        "youtubeVideo": "https://www.youtube.com/watch?v=MQe_MoJ7Iww",
+                        "youtubeVideo": "",
                         "screenshots": {
-                            "aspectRatio": null,
-                            "images": []
+                            "aspectRatio": "9:16",
+                            "images": [ "images/pictures/screenshot7.png",
+                                        "images/pictures/screenshot8.png",
+                                        "images/pictures/screenshot9.png"]
                         }
                     },
 
@@ -343,30 +345,80 @@
                         "en": {
                             "title": "RamFiscal",
                             "text": "An e-commerce website built using <b>Wordpress</b> and <b>WooCommerce</b> plugin, allowing users to <b>place order</b> for their favourite products.",
-                            "tags": ["Wordpress", "WooCommerce", "SEO", "Logo"]
+                            "tags": ["Wordpress", "WooCommerce", "SEO"]
                         },
                         "es": {
                             "title": "RamFiscal",
                             "text": "Un sitio web de comercio electrónico creado con Wordpress y el plugin WooCommerce, que permite a los usuarios realizar pedidos de sus productos favoritos.",
-                            "tags": ["Wordpress", "WooCommerce", "SEO", "Logo"]
+                            "tags": ["Wordpress", "WooCommerce", "SEO"]
                         },
                         "fr": {
                             "title": "RamFiscal",
                             "text": "Un site de commerce électronique construit avec Wordpress et le plugin WooCommerce, permettant aux utilisateurs de passer commande pour leurs produits préférés.",
-                            "tags": ["Wordpress", "WooCommerce", "SEO", "Logo"]
+                            "tags": ["Wordpress", "WooCommerce", "SEO"]
                         },
                         "ro": {
                             "title": "RamFiscal",
                             "text": "Un site de comerț electronic creat cu Wordpress și pluginul WooCommerce, care permite utilizatorilor să plaseze comenzi pentru produsele lor preferate.",
-                            "tags": ["Wordpress", "WooCommerce", "SEO", "Logo"]
+                            "tags": ["Wordpress", "WooCommerce", "SEO"]
                         },
                         "it": {
                             "title": "RamFiscal",
                             "text": "Un sito di e-commerce costruito con Wordpress e il plugin WooCommerce, che consente agli utenti di effettuare ordini per i loro prodotti preferiti.",
-                            "tags": ["Wordpress", "WooCommerce", "SEO", "Logo"]
+                            "tags": ["Wordpress", "WooCommerce", "SEO"]
                         }
                     }
                 },
+
+                {
+                    "categoryId": "websites",
+                    "icon": {
+                        "img": "images/pictures/avatar.jpg",
+                        "fa": "",
+                        "faColors": {"bg": null, "fill": null}
+                    },
+
+                    "links": [
+                        {"faIcon": "fa-solid fa-link", "href": "https://alexjoita.com/#contact/"}
+                    ],
+
+                    "media": {
+                        "youtubeVideo": "",
+                        "screenshots": {
+                            "aspectRatio": "9:16",
+                            "images": [ ]
+                        }
+                    },
+
+                    "locales": {
+                        "en": {
+                            "title": "alexjoita.com",
+                            "text": "This website is a showcase (portfolio) site created using React. It is basically a web application with a minimalist style, combining functionality with design. Do you want a website like this? Contact me! ;)",
+                            "tags": ["React", "Bootstrap","Javascrip"]
+                        },
+                        "es": {
+                            "title": "alexjoita.com",
+                            "text": "Este sitio web es un sitio de presentación (portafolio) creado utilizando React. Básicamente, es una aplicación web con un estilo minimalista que combina funcionalidad con diseño. ¿Quieres un sitio como este? ¡Contáctame! ;)",
+                            "tags": ["React", "Bootstrap","Javascrip"]
+                        },
+                        "fr": {
+                            "title": "alexjoita.com",
+                            "text": "Ce site web est un site de présentation (portfolio) créé avec React. C'est essentiellement une application web au style minimaliste qui allie fonctionnalité et design. Tu veux un site comme celui-ci ? Contacte-moi ! ;)",
+                            "tags": ["React", "Bootstrap","Javascrip"]
+                        },
+                        "ro": {
+                            "title": "alexjoita.com",
+                            "text": "Acest site este un site de prezentare (portofoliu) creat utilizând React. Practic, este o aplicație web cu un stil minimalist care combină funcționalitatea cu designul. Vrei și tu un site ca acesta? Contactează-mă! ;)",
+                            "tags": ["React", "Bootstrap","Javascrip"]
+                        },
+                        "it": {
+                            "title": "alexjoita.com",
+                            "text": "Questo sito web è un sito vetrina (portfolio) creato utilizzando React. È fondamentalmente un'applicazione web con uno stile minimalista che unisce funzionalità e design. Vuoi anche tu un sito come questo? Contattami! ;)",
+                            "tags": ["React", "Bootstrap","Javascrip"]
+                        }
+                    }
+                },
+
 
                 {
                     "categoryId": "apps",
@@ -417,86 +469,54 @@
                     "categoryId": "websites",
                     "icon": {
                         "img": "images/pictures/project-logo-5.png",
-                        "fa": "",
-                        "faColors": {"bg": null, "fill": null}
-                    },
-
-                    "links": [
-                        {"faIcon": "fa-solid fa-link", "href": "https://sweetscoops.com"}
-                    ],
-
-                    "media": {
-                        "youtubeVideo": null,
-                        "screenshots": {
-                            "aspectRatio": null,
-                            "images": []
-                        }
-                    },
-
-                    "locales": {
-                        "en": {
-                            "title": "Sweet Scoops",
-                            "text": "A recipe website built with <b>WordPress</b> and WooCommerce, featuring a rich collection of <b>dessert recipes</b> and an integrated e-commerce platform.",
-                            "tags": ["WooCommerce", "Food", "Desserts"]
-                        },
-                        "es": {
-                            "title": "Sweet Scoops",
-                            "text": "Un sitio web de recetas construido con <b>WordPress</b> y WooCommerce, con una rica colección de <b>recetas de postres</b> y una plataforma de comercio electrónico integrada.",
-                            "tags": ["WooCommerce", "Comida", "Postres"]
-                        },
-                        "fr": {
-                            "title": "Sweet Scoops",
-                            "text": "Un site de recettes construit avec <b>WordPress</b> et WooCommerce, présentant une riche collection de <b>recettes de desserts</b> et une plateforme de commerce électronique intégrée.",
-                            "tags": ["WooCommerce", "Cuisine", "Desserts"]
-                        },
-                        "it": {
-                            "title": "Sweet Scoops",
-                            "text": "<b>WordPress</b>와 WooCommerce로 구축된 레시피 웹사이트로, 풍부한 <b>디저트 레시피</b> 모음과 통합된 전자상거래 플랫폼을 제공합니다.",
-                            "tags": ["WooCommerce", "음식", "디저트"]
-                        }
-                    }
-                },
-
-                {
-                    "categoryId": "websites",
-                    "icon": {
-                        "img": null,
                         "fa": "fa-solid fa-guitar",
                         "faColors": {"bg": "#111", "fill": "#EEE"}
                     },
 
                     "links": [
-                        {"faIcon": "fa-solid fa-link", "href": "https://rockverse.com"}
+                        {"faIcon": "fa-solid fa-link", "href": "https://speak-out.ro"}
                     ],
 
                     "media": {
                         "youtubeVideo": "",
                         "screenshots": {
-                            "aspectRatio": null,
-                            "images": []
+                            "aspectRatio": "9:16",
+                            "images": [
+                                "images/pictures/screenshot1.png",
+                                "images/pictures/screenshot2.png",
+                                "images/pictures/screenshot3.png",
+                                "images/pictures/screenshot4.png",
+                                "images/pictures/screenshot5.png",
+                                "images/pictures/screenshot6.png"
+                                
+                            ]
                         }
                     },
 
                     "locales": {
                         "en": {
-                            "title": "RockVerse",
-                            "text": "A dynamic music and entertainment website developed with <b>Django</b>, showcasing rock music news, events, and <b>streaming content</b>.",
-                            "tags": ["Django", "Music", "Rock"]
+                            "title": "Speak-OUT!",
+                            "text": "A website of a company that organizes foreign language courses and provides various services in the field of translation and interpretation.",
+                            "tags": ["Wordpress", "Responsive", "SEO"]
                         },
                         "es": {
-                            "title": "RockVerse",
-                            "text": "Un sitio web dinámico de música y entretenimiento desarrollado con <b>Django</b>, que muestra noticias de música rock, eventos y <b>contenido en streaming</b>.",
-                            "tags": ["Django", "Música", "Rock"]
+                            "title": "Speak-OUT!",
+                            "text": "Un sitio web de una empresa que organiza cursos de idiomas extranjeros y ofrece diversos servicios en el área de traducción e interpretación.",
+                            "tags": ["Wordpress", "Responsive", "SEO"]
                         },
                         "fr": {
-                            "title": "RockVerse",
-                            "text": "Un site web de musique et de divertissement dynamique développé avec <b>Django</b>, mettant en avant des nouvelles, événements et <b>contenu en streaming</b> sur le rock.",
-                            "tags": ["Django", "Musique", "Rock"]
+                            "title": "Speak-OUT!",
+                            "text": "Un site web d'une entreprise qui organise des cours de langues étrangères et offre divers services dans le domaine de la traduction et de l'interprétation.",
+                            "tags": ["Wordpress", "Responsive", "SEO"]
                         },
                         "it": {
-                            "title": "RockVerse",
-                            "text": "<b>Django</b>로 개발된 동적인 음악 및 엔터테인먼트 웹사이트로, 록 음악 뉴스, 이벤트 및 <b>스트리밍 콘텐츠</b>를 제공합니다.",
-                            "tags": ["Django", "음악", "록"]
+                            "title": "Speak-OUT!",
+                            "text": "Un sito web di un'azienda che organizza corsi di lingue straniere e fornisce vari servizi nel campo della traduzione e interpretariato.",
+                            "tags": ["Wordpress", "Responsive", "SEO"]
+                        },"ro": {
+                            "title": "Speak-OUT!",
+                            "text": "Un website depre o companie care organizează cursuri de limbi străine şi prestează diferite servicii în zona de traduceri şi translaţii.  ",
+                            "tags": ["Wordpress", "Responsive", "SEO"]
                         }
                     }
                 },
