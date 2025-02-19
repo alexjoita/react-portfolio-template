@@ -80,7 +80,7 @@
                     }
                 },
                 {
-                    "id": "foto",
+                    "id": "photo",
                     "locales": {
                         "en": {"singular": "Photography", "plural": "Photo"},
                         "es": {"singular": "Foto", "plural": "Foto"},
@@ -103,7 +103,7 @@
 
             "items": [
                 {
-                    "categoryId": "utilities",
+                    "categoryId": "apps",
                     "icon": {
                         "img": "images/pictures/project-python2.png",
                         "fa": "",
@@ -158,52 +158,48 @@
                 },
 
                 {
-                    "categoryId": "apps",
+                    "categoryId": "video",
                     "icon": {
                         "img": "images/pictures/project-logo-7.png",
                         "fa": "",
                         "faColors": {"bg": null, "fill": null}
                     },
 
-                    "links": [
-                        {"faIcon": "fa-brands fa-apple", "href": "https://apple.com"},
-                        {"faIcon": "fa-brands fa-google-play", "href": "https://google.com"}
-                    ],
+                    "links": [],
 
                     "media": {
-                        "youtubeVideo": "https://www.youtube.com/watch?v=TfgBHC5gvTI",
+                        "youtubeVideo": "https://www.youtube.com/watch?v=_sAI6xwc96M",
                         "screenshots": {
                             "aspectRatio": "9:16",
-                            "images": [
-                                "images/pictures/project-screenshot-1.webp",
-                                "images/pictures/project-screenshot-2.webp",
-                                "images/pictures/project-screenshot-3.webp",
-                                "images/pictures/project-screenshot-4.webp",
-                                "images/pictures/project-screenshot-5.webp"
-                            ]
+                            "images": []
                         }
                     },
 
                     "locales": {
                         "en": {
-                            "title": "MailM8",
-                            "text": "A cross-platform email client built with <b>Flutter</b>, providing efficient communication with an intuitive UI for <b>managing emails</b>.",
-                            "tags": ["Flutter", "E-mail", "Communication"]
+                            "title": "Real Estate Video",
+                            "text": "This video was made using a drone at the request of a real estate client. The footage was captured at an exclusive location, and then the video editing was done in Adobe Premiere Pro.",
+                            "tags": ["Drone", "Adobee Premiere Pro", "Real Estate"]
                         },
                         "es": {
-                            "title": "MailM8",
-                            "text": "Un cliente de correo electrónico multiplataforma construido con <b>Flutter</b>, que ofrece comunicación eficiente y una interfaz intuitiva para la <b>gestión de correos electrónicos</b>.",
-                            "tags": ["Flutter", "Correo", "Comunicación"]
+                            "title": "Real Estate Video",
+                            "text": "Este video fue realizado utilizando un dron a solicitud de un cliente de bienes raíces. La filmación se hizo en una ubicación exclusiva, y luego se realizó la edición del video en Adobe Premiere Pro.",
+                            "tags": ["Drone", "Adobee Premiere Pro", "Real Estate"]
                         },
                         "fr": {
-                            "title": "MailM8",
-                            "text": "Un client de messagerie multiplateforme construit avec <b>Flutter</b>, offrant une communication efficace et une interface intuitive pour <b>gérer les e-mails</b>.",
-                            "tags": ["Flutter", "E-mail", "Communication"]
+                            "title": "Real Estate Video",
+                            "text": "Cette vidéo a été réalisée à l'aide d'un drone à la demande d'un client immobilier. Le tournage a eu lieu dans un endroit exclusif, puis le montage vidéo a été effectué dans Adobe Premiere Pro.",
+                            "tags": ["Drone", "Adobee Premiere Pro", "Real Estate"]
+                        },
+                        "ro": {
+                            "title": "Real Estate Video",
+                            "text": "Acest video a fost realizat folosind o dronă la cererea unui client din domeniul imobiliar. Filmarea a fost realizată într-o locație exclusivistă, iar apoi editarea video a fost făcută în Adobe Premiere Pro.",
+                            "tags": ["Drone", "Adobee Premiere Pro", "Real Estate"]
                         },
                         "it": {
-                            "title": "MailM8",
-                            "text": "<b>Flutter</b>로 구축된 크로스플랫폼 이메일 클라이언트로, 이메일 <b>관리</b>를 위한 직관적인 UI를 통해 효율적인 소통을 제공합니다.",
-                            "tags": ["Flutter", "이메일", "소통"]
+                            "title": "Real Estate Video",
+                            "text": "Questo video è stato realizzato utilizzando un drone su richiesta di un cliente nel settore immobiliare. Le riprese sono state effettuate in una location esclusiva, successivamente il montaggio video è stato fatto in Adobe Premiere Pro.",
+                            "tags": ["Drone", "Adobee Premiere Pro", "Real Estate"]
                         }
                     }
                 },
@@ -574,47 +570,69 @@
                 },
 
                 {
-                    "categoryId": "apps",
+                    "categoryId": "photo",
                     "icon": {
-                        "img": "",
+                        "img": "images/pictures/project-logo-2.png",
                         "fa": "fa-solid fa-truck-fast",
                         "faColors": {"bg": "#007396", "fill": "#EEE"}
                     },
 
                     "links": [
-                        {"faIcon": "fa-brands fa-apple", "href": "https://apple.com"},
-                        {"faIcon": "fa-brands fa-google-play", "href": "https://google.com"},
-                        {"faIcon": "fa-brands fa-windows", "href": "https://windows.com"}
+                        {"faIcon": "fa-solid fa-link", "href": "http://photo.alexjoita.com"}
                     ],
 
                     "media": {
                         "youtubeVideo": null,
                         "screenshots": {
-                            "aspectRatio": null,
-                            "images": []
+                            "aspectRatio": "2:2",
+                            "images": ["images/pictures/photo1.jpg",
+                                    "images/pictures/photo2.jpg",
+                                    "images/pictures/photo3.jpg",
+                                    "images/pictures/photo4.jpg",
+                                    "images/pictures/photo5.jpg",
+                                    "images/pictures/photo6.jpg",
+                                    "images/pictures/photo7.jpg",
+                                    "images/pictures/photo8.jpg",
+                                    "images/pictures/photo9.jpg",
+                                    "images/pictures/photo10.jpg",
+                                    "images/pictures/photo11.jpg",
+                                    "images/pictures/photo12.jpg",
+                                    "images/pictures/photo13.jpg",
+                                    "images/pictures/photo14.jpg",
+                                    "images/pictures/photo15.jpg",
+                                    "images/pictures/photo16.jpg",
+                                    "images/pictures/photo17.jpg",
+                                    "images/pictures/photo18.jpg",
+                                    "images/pictures/photo19.jpg",
+                                    "images/pictures/photo20.jpg"]
                         }
                     },
 
                     "locales": {
                         "en": {
-                            "title": "QuickDrop",
-                            "text": "A cross-platform delivery app built with <b>React Native</b> and a <b>Node.js backend</b>, featuring <b>real-time tracking</b> and seamless integration with multiple platforms.",
-                            "tags": ["React Native", "Delivery", "Real-Time Tracking"]
+                            "title": "Photos",
+                            "text": "Here are some of the photographs taken by me using various styles (portrait, street, nature, animals). The photos are taken with a professional camera (Nikon Z6ii) along with premium lenses. View the gallery containing some of the photos or visit the PHOTO website for more details.",
+                            "tags": ["Photography", "RAW", "Photo Editing"]
                         },
                         "es": {
-                            "title": "QuickDrop",
-                            "text": "Una app de entregas multiplataforma construida con <b>React Native</b> y un backend de <b>Node.js</b>, con <b>seguimiento en tiempo real</b> e integración perfecta en múltiples plataformas.",
-                            "tags": ["React Native", "Entrega", "Seguimiento"]
+                            "title": "Fotografías",
+                            "text": "Aquí están algunas de las fotografías tomadas por mí utilizando diversos estilos (retrato, calle, naturaleza, animales). Las fotos están tomadas con una cámara profesional (Nikon Z6ii) junto con lentes premium. Visualiza la galería que contiene algunas de las fotos o accede al sitio web FOTO para más detalles.",
+                            "tags": ["Photography", "RAW", "Photo Editing"]
                         },
                         "fr": {
-                            "title": "QuickDrop",
-                            "text": "Une application de livraison multiplateforme construite avec <b>React Native</b> et un backend <b>Node.js</b>, avec <b>suivi en temps réel</b> et intégration fluide sur plusieurs plateformes.",
-                            "tags": ["React Native", "Livraison", "Suivi"]
+                            "title": "Photographies",
+                            "text": "Voici quelques-unes des photographies prises par moi en utilisant divers styles (portrait, rue, nature, animaux). Les photos ont été prises avec un appareil photo professionnel (Nikon Z6ii) accompagné d'objectifs premium. Consultez la galerie contenant certaines photos ou visitez le site PHOTO pour plus de détails.",
+                            "tags": ["Photography", "RAW", "Photo Editing"]
                         },
                         "it": {
-                            "title": "QuickDrop",
-                            "text": "<b>React Native</b>와 <b>Node.js</b> 백엔드로 구축된 크로스플랫폼 배송 앱으로, <b>실시간 추적</b> 및 여러 플랫폼과의 원활한 통합을 제공합니다.",
-                            "tags": ["React Native", "배송", "실시간 추적"]
+                            "title": "Fotografie",
+                            "text": "Ecco alcune delle fotografie scattate da me utilizzando vari stili (ritratto, strada, natura, animali). Le foto sono state scattate con una fotocamera professionale (Nikon Z6ii) insieme a obiettivi premium. Visualizza la galleria che contiene alcune delle foto o accedi al sito FOTO per maggiori dettagli.",
+                            "tags": ["Photography", "RAW", "Photo Editing"]
+                        },
+                        "ro": {
+                            "title": "Fotografie",
+                            "text": "Aici sunt o parte din fotografiile realizate de mine folosind diverse stiluri (portret, stradă, natură, animale). Fotografiile sunt realizate cu o cameră profesională (Nikon Z6ii) împreună cu obiective premium. Vizualizează galeria ce conține o parte din fotografii sau accesează site-ul FOTO pentru mai multe detalii.",
+                            "tags": ["Photography", "RAW", "Photo Editing"]
                         }
                     }
                 }
