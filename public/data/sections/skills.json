@@ -21,7 +21,7 @@
         "ro": {
             "title": "Skills",
             "title_long_prefix": "Explorează",
-            "title_long": "Mele **Competenţele**"
+            "title_long": " **Competenţele** Mele"
         },
 
         "it": {
@@ -770,7 +770,7 @@
                             "tags": ["Courant"]
                         },
                         "ro": {
-                            "title": "Français",
+                            "title": "Franceză",
                             "info": "Fluent în franceză vorbită și scrisă; încrezător în comunicarea profesională.",
                             "tags": ["Courant"]
                         },

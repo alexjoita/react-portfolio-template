@@ -17,8 +17,14 @@
             "title_long_prefix": "C'est mon",
             "title_long": "**Contexte** Éducatif"
         },
+       
+        "ro": {
+            "title": "Educaţie",
+            "title_long_prefix": "Educaţie",
+            "title_long": "**Profesională**"
+        },
 
-        "ko": {
+        "it": {
             "title": "교육",
             "title_long_prefix": "이것은 내",
             "title_long": "**교육적** 배경"
@@ -35,83 +41,96 @@
             "items": [
                 {
                     "icon": {
-                        "img": "images/pictures/place-5.png",
+                        "img": "images/pictures/logo-lthc.png",
                         "fa": "",
                         "faColors": {"bg": null, "fill": null}
                     },
                     "dates": {
-                        "start": "01/01/2015",
-                        "end": "12/01/2019"
+                        "start": "09/09/2003",
+                        "end": "07/07/2007"
                     },
                     "locales": {
                         "en": {
-                            "title": "**Bachelor** in Computer Science",
-                            "info": "MIT",
-                            "text": "Earned a Bachelor's degree in Computer Science, focusing on algorithms, data structures, software engineering, and web development. Gained hands-on experience through various programming projects and boot camps.",
-                            "tags": []
+                            "title": "Baccalaureate",
+                            "info": "Henri Coandă Theoretical High School, Craiova - Romania",
+                            "text": "I graduated from Henri Coandă Theoretical High School, Craiova - Romania, with a focus on Social Sciences - French Bilingual.",
+                            "tags": ["Social Science", "French Bilingual"]
                         },
                         "es": {
-                            "title": "**Licenciatura** en Ciencias de la Computación",
-                            "info": "MIT",
-                            "text": "Obtuve una licenciatura en Ciencias de la Computación, con un enfoque en algoritmos, estructuras de datos, ingeniería de software y desarrollo web. Adquirí experiencia práctica a través de varios proyectos de programación y campamentos de entrenamiento.",
-                            "tags": null
+                            "title": "Bachillerato",
+                            "info": "Liceo Teórico Henri Coanda, Craiova - Rumanía",
+                            "text": "Me gradué del Liceo Teórico Henri Coanda, Craiova - Rumanía, con la especialidad en Ciencias Sociales - Bilingüe en Francés.",
+                            "tags": ["Social Science", "French Bilingual"]
                         },
                         "fr": {
-                            "title": "**Licence** en Informatique",
-                            "info": "MIT",
-                            "text": "Obtenu une licence en Informatique, avec un accent sur les algorithmes, les structures de données, l'ingénierie logicielle et le développement web. Acquis une expérience pratique à travers divers projets de programmation et camps de formation.",
-                            "tags": null
+                            "title": "Baccalauréat",
+                            "info": "Lycée Théorique Henri Coanda, Craiova - Roumanie",
+                            "text": "J'ai obtenu mon diplôme du Lycée Théorique Henri Coanda, Craiova - Roumanie, avec une spécialisation en Sciences Sociales - Bilingue en Français.",
+                            "tags": ["Social Science", "French Bilingual"]
                         },
-                        "ko": {
-                            "title": "**학사** 컴퓨터 과학",
-                            "info": "MIT",
-                            "text": "알고리즘, 데이터 구조, 소프트웨어 공학 및 웹 개발에 중점을 둔 컴퓨터 과학 학사 학위를 취득했습니다. 다양한 프로그래밍 프로젝트와 부트캠프를 통해 실무 경험을 쌓았습니다.",
-                            "tags": null
+                        "ro": {
+                            "title": "Bacalaureat",
+                            "info": "Liceul Teoretic Henri Coanda, Craiova - România",
+                            "text": "Am absolvit Liceul Teoretic Henri Coanda, Craiova - România, profil Științe Sociale - Bilingv Franceză.",
+                            "tags": ["Social Science", "French Bilingual"]
+                        },
+                        "it": {
+                            "title": "Maturità",
+                            "info": "Liceo Teorico Henri Coanda, Craiova - Romania",
+                            "text": "Mi sono diplomato al Liceo Teorico Henri Coanda, Craiova - Romania, con indirizzo Scienze Sociali - Bilingue Francese.",
+                            "tags": ["Social Science", "French Bilingual"]
                         }
                     }
                 },
 
                 {
                     "icon": {
-                        "img": "images/pictures/place-2.png",
+                        "img": "images/pictures/logo-militaryschool.png",
                         "fa": "",
                         "faColors": {"bg": null, "fill": null}
                     },
                     "dates": {
-                        "start": "01/01/2014",
-                        "end": "06/01/2014"
+                        "start": "09/09/2007",
+                        "end": "12/12/2009"
                     },
                     "locales": {
                         "en": {
-                            "title": "PHP Development **Nanodegree**",
-                            "info": "Udacity",
-                            "text": "Completed an intensive Nanodegree program focused on PHP development, covering essential skills like backend programming, database management, and web application deployment. This course provided a solid foundation in modern PHP practices.",
-                            "tags": ["PHP 8+", "Laravel", "MongoDB"]
+                            "title": "Sergeant Major",
+                            "info": "Military School, Ministry of Internal Affairs, Romania ",
+                            "text": "I attended the G.A. Ghica School of Non-Commissioned Officers of the Gendarmerie in Drăgășani, Romania, where I acquired knowledge about military rules and regulations, law, and the protection and security of people, property, values, and information.",
+                            "tags": ["Law", "Military", "Security"]
                         },
                         "es": {
-                            "title": "Nanogrado en **Desarrollo PHP**",
-                            "info": "Udacity",
-                            "text": "Completé un programa intensivo de Nanogrado centrado en el desarrollo de PHP, cubriendo habilidades esenciales como la programación backend, la gestión de bases de datos y el despliegue de aplicaciones web. Este curso proporcionó una base sólida en las prácticas modernas de PHP.",
-                            "tags": null
+                            "title": "Sargento Mayor",
+                            "info": "Escuela Militar, Ministerio de Asuntos Internos, Rumania",
+                            "text": "Asistí a la Escuela de Suboficiales de la Gendarmería G.A. Ghica en Drăgășani, Rumanía, donde adquirí conocimientos sobre las reglas y regulaciones militares, derecho, y la protección y seguridad de las personas, bienes, valores e información.",
+                            "tags": ["Law", "Military", "Security"]
                         },
                         "fr": {
-                            "title": "Nanodiplôme en **Développement PHP**",
-                            "info": "Udacity",
-                            "text": "Terminé un programme intensif de Nanodiplôme axé sur le développement PHP, couvrant des compétences essentielles telles que la programmation backend, la gestion de bases de données et le déploiement d'applications web. Ce cours a fourni une base solide dans les pratiques modernes de PHP.",
-                            "tags": null
+                            "title": "Sergent-Major",
+                            "info": "École Militaire,Ministère des Affaires Intérieures, Roumanie ",
+                            "text": "J'ai suivi les cours de l'École des Sous-Officiers de Gendarmerie G.A. Ghica à Drăgășani, en Roumanie, où j'ai acquis des connaissances sur les règles et les rigueurs militaires, le droit, ainsi que sur la protection et la sécurité des personnes, des biens, des valeurs et des informations.",
+                            "tags": ["Law", "Military", "Security"]
                         },
-                        "ko": {
-                            "title": "PHP 개발 **나노디그리**",
-                            "info": "Udacity",
-                            "text": "PHP 개발에 중점을 둔 집중 나노디그리 프로그램을 완료하여 백엔드 프로그래밍, 데이터베이스 관리 및 웹 애플리케이션 배포와 같은 필수 기술을 배웠습니다. 이 과정은 현대 PHP 실무에 대한 탄탄한 기초를 제공했습니다.",
-                            "tags": null
+                        "it": {
+                            "title": "Scuola Militare",
+                            "info": "Sergente Maggiore,Ministero degli Affari Interni, Romania ",
+                            "text": "Ho frequentato la Scuola di Sottufficiali della Gendarmeria G.A. Ghica a Drăgășani, Romania, dove ho acquisito conoscenze sulle regole e rigori militari, sul diritto e sulla protezione e sicurezza delle persone, dei beni, dei valori e delle informazioni.",
+                            "tags": ["Law", "Military", "Security"]
+                        },
+                        "ro": {
+                            "title": "Sergeant Major",
+                            "info": "Școala Militară, Ministerul Afacerilor Interne, România ",
+                            "text": "Am urmat cursurile Școlii de Subofițeri de Jandarmi G.A. Ghica din Drăgășani, România, unde am dobândit cunoștințe despre regulile și rigorile militare, drept, protecția și securitatea oamenilor, bunurilor, valorilor și informațiilor.",
+                            "tags": ["Law", "Military", "Security"]
                         }
+                        
                     }
                 },
 
                 {
                     "icon": {
-                        "img": "images/pictures/place-6.png",
+                        "img": "images/pictures/un-logo.png",
                         "fa": "",
                         "faColors": {"bg": null, "fill": null}
                     },
@@ -149,7 +168,7 @@
 
                 {
                     "icon": {
-                        "img": "images/pictures/place-4.png",
+                        "img": "images/pictures/logo-jandarmeria.png",
                         "fa": "",
                         "faColors": {"bg": null, "fill": null}
                     },
