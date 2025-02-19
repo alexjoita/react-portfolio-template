@@ -276,33 +276,26 @@
                 },
 
                 {
-                    "categoryId": "apps",
+                    "categoryId": "video",
                     "icon": {
                         "img": "images/pictures/project-logo-6.png",
                         "fa": "",
                         "faColors": {"bg": null, "fill": null}
                     },
 
-                    "links": [
-                        {"faIcon": "fa-brands fa-apple", "href": "https://apple.com"},
-                        {"faIcon": "fa-brands fa-google-play", "href": "https://google.com"}
-                    ],
+                    "links": [],
 
                     "media": {
-                        "youtubeVideo": null,
+                        "youtubeVideo": "https://www.youtube.com/watch?v=JHAtg1fm0xA",
                         "screenshots": {
                             "aspectRatio": "16:9",
-                            "images": [
-                                "images/pictures/project-screenshot-6.png",
-                                "images/pictures/project-screenshot-7.png",
-                                "images/pictures/project-screenshot-8.png"
-                            ]
+                            "images": []
                         }
                     },
 
                     "locales": {
                         "en": {
-                            "title": "Stackers",
+                            "title": "Galbenu Lake",
                             "text": "A fully-featured productivity app developed with <b>React Native</b>, enabling users to organize tasks, notes, and projects across multiple devices. It offers <b>cloud sync</b>, intuitive UI, and collaboration features.",
                             "tags": ["React", "Organization", "Notes"]
                         },
@@ -426,7 +419,7 @@
 
 
                 {
-                    "categoryId": "apps",
+                    "categoryId": "video",
                     "icon": {
                         "img": "images/pictures/project-logo-2.png",
                         "fa": "",
@@ -434,21 +427,20 @@
                     },
 
                     "links": [
-                        {"faIcon": "fa-brands fa-apple", "href": "https://apple.com"},
-                        {"faIcon": "fa-brands fa-google-play", "href": "https://google.com"}
+                      
                     ],
 
                     "media": {
-                        "youtubeVideo": null,
+                        "youtubeVideo": "https://www.youtube.com/watch?v=4Neva_kD8L4",
                         "screenshots": {
-                            "aspectRatio": null,
+                            "aspectRatio": "16:9",
                             "images": []
                         }
                     },
 
                     "locales": {
                         "en": {
-                            "title": "Snappy",
+                            "title": "Tura Moto",
                             "text": "A powerful photography app designed with <b>Swift</b> for iOS and Android, featuring <b>advanced camera controls</b>, editing tools, and AI-powered filters for quick photo enhancements.",
                             "tags": ["Swift", "Photography", "Camera"]
                         },
