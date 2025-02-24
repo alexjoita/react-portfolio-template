@@ -21,12 +21,6 @@
             "faIcon": "fa-solid fa-tools"
         },
 
-        {
-            "id": "experience",
-            "categoryId": "background",
-            "jsonPath": "/data/sections/experience.json",
-            "faIcon": "fa-solid fa-briefcase"
-        },
 
         {
             "id": "portfolio",
@@ -35,12 +29,7 @@
             "faIcon": "fa-solid fa-folder-open"
         },
 
-        {
-            "id": "achievements",
-            "categoryId": "showcase",
-            "jsonPath": "/data/sections/achievements.json",
-            "faIcon": "fa-solid fa-award"
-        },
+       
 
         {
             "id": "updates",
