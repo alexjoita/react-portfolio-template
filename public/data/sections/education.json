@@ -51,25 +51,25 @@
                     },
                     "locales": {
                         "en": {
-                            "title": "Baccalaureate",
+                            "title": "**Baccalaureate**",
                             "info": "Henri Coandă Theoretical High School, Craiova - Romania",
                             "text": "I graduated from Henri Coandă Theoretical High School, Craiova - Romania, with a focus on Social Sciences - French Bilingual.",
                             "tags": ["Social Science", "French Bilingual"]
                         },
                         "es": {
-                            "title": "Bachillerato",
+                            "title": "**Bachillerato**",
                             "info": "Liceo Teórico Henri Coanda, Craiova - Rumanía",
                             "text": "Me gradué del Liceo Teórico Henri Coanda, Craiova - Rumanía, con la especialidad en Ciencias Sociales - Bilingüe en Francés.",
                             "tags": ["Social Science", "French Bilingual"]
                         },
                         "fr": {
-                            "title": "Baccalauréat",
+                            "title": "**Baccalauréat**",
                             "info": "Lycée Théorique Henri Coanda, Craiova - Roumanie",
                             "text": "J'ai obtenu mon diplôme du Lycée Théorique Henri Coanda, Craiova - Roumanie, avec une spécialisation en Sciences Sociales - Bilingue en Français.",
                             "tags": ["Social Science", "French Bilingual"]
                         },
                         "ro": {
-                            "title": "Bacalaureat",
+                            "title": "**Bacalaureat**",
                             "info": "Liceul Teoretic Henri Coanda, Craiova - România",
                             "text": "Am absolvit Liceul Teoretic Henri Coanda, Craiova - România, profil Științe Sociale - Bilingv Franceză.",
                             "tags": ["Social Science", "French Bilingual"]
@@ -95,31 +95,31 @@
                     },
                     "locales": {
                         "en": {
-                            "title": "Sergeant Major",
+                            "title": "**Sergeant Major**",
                             "info": "Military School, Ministry of Internal Affairs, Romania ",
                             "text": "I attended the G.A. Ghica School of Non-Commissioned Officers of the Gendarmerie in Drăgășani, Romania, where I acquired knowledge about military rules and regulations, law, and the protection and security of people, property, values, and information.",
                             "tags": ["Law", "Military", "Security"]
                         },
                         "es": {
-                            "title": "Sargento Mayor",
+                            "title": "**Sargento Mayor**",
                             "info": "Escuela Militar, Ministerio de Asuntos Internos, Rumania",
                             "text": "Asistí a la Escuela de Suboficiales de la Gendarmería G.A. Ghica en Drăgășani, Rumanía, donde adquirí conocimientos sobre las reglas y regulaciones militares, derecho, y la protección y seguridad de las personas, bienes, valores e información.",
                             "tags": ["Law", "Military", "Security"]
                         },
                         "fr": {
-                            "title": "Sergent-Major",
+                            "title": "**Sergent-Major**",
                             "info": "École Militaire,Ministère des Affaires Intérieures, Roumanie ",
                             "text": "J'ai suivi les cours de l'École des Sous-Officiers de Gendarmerie G.A. Ghica à Drăgășani, en Roumanie, où j'ai acquis des connaissances sur les règles et les rigueurs militaires, le droit, ainsi que sur la protection et la sécurité des personnes, des biens, des valeurs et des informations.",
                             "tags": ["Law", "Military", "Security"]
                         },
                         "it": {
-                            "title": "Scuola Militare",
-                            "info": "Sergente Maggiore,Ministero degli Affari Interni, Romania ",
+                            "title": "**Sergente Maggiore**",
+                            "info": "Scuola Militare, Ministero degli Affari Interni, Romania ",
                             "text": "Ho frequentato la Scuola di Sottufficiali della Gendarmeria G.A. Ghica a Drăgășani, Romania, dove ho acquisito conoscenze sulle regole e rigori militari, sul diritto e sulla protezione e sicurezza delle persone, dei beni, dei valori e delle informazioni.",
                             "tags": ["Law", "Military", "Security"]
                         },
                         "ro": {
-                            "title": "Sergeant Major",
+                            "title": "**Sergeant-Major**",
                             "info": "Școala Militară, Ministerul Afacerilor Interne, România ",
                             "text": "Am urmat cursurile Școlii de Subofițeri de Jandarmi G.A. Ghica din Drăgășani, România, unde am dobândit cunoștințe despre regulile și rigorile militare, drept, protecția și securitatea oamenilor, bunurilor, valorilor și informațiilor.",
                             "tags": ["Law", "Military", "Security"]
@@ -135,40 +135,40 @@
                         "faColors": {"bg": null, "fill": null}
                     },
                     "dates": {
-                        "start": "09/01/2020",
-                        "end": "06/01/2022"
+                        "start": "03/01/2015",
+                        "end": "04/01/2015"
                     },
                     "locales": {
                         "en": {
-                            "title": "**Master's** in Artificial Intelligence",
-                            "info": "University of Paris",
+                            "title": "International UN **Police Officer**",
+                            "info": "Ministry of Internal Affairs, Romania",
                             "text": "I followed and graduated from UN courses through the Ministry of Internal Affairs, Romania, thus becoming a UN international police officer, which gave me the opportunity to participate in peacekeeping missions in areas of interest to the UN.",
-                            "tags": []
+                            "tags": ["International Law", "Military", "Peace Keeping"]
                         },
                         "es": {
-                            "title": "**Máster** en Inteligencia Artificial",
-                            "info": "Universidad de París",
+                            "title": "**Oficial de Policía** de la ONU",
+                            "info": "Ministerio del Interior, Rumania",
                             "text": "Seguí y completé cursos de la ONU a través del Ministerio del Interior de Rumania, convirtiéndome así en un policía internacional de la ONU, lo que me dio la oportunidad de participar en misiones de mantenimiento de la paz en áreas de interés para la ONU.",
-                            "tags": []
+                            "tags": ["International Law", "Military", "Peace Keeping"]
                         },
                         "fr": {
-                            "title": "**Master** en Intelligence Artificielle",
+                            "title": "**Officier de Police** de l’ONU",
                             "info": "Université de Paris",
                             "text": "J’ai suivi et terminé des cours de l’ONU par le biais du Ministère des Affaires intérieures de Roumanie, devenant ainsi un policier international de l’ONU, ce qui m’a offert la possibilité de participer à des missions de maintien de la paix dans des zones d’intérêt pour l’ONU.",
-                            "tags": []
+                            "tags": ["International Law", "Military", "Peace Keeping"]
                         },
                         "it": {
-                            "title": "**Master** en Intelligence Artificielle",
+                            "title": "**Ufficiale di Polizia** dell’ONU",
                             "info": "Université de Paris",
                             "text": "Ho seguito e completato corsi ONU attraverso il Ministero degli Affari Interni della Romania, diventando così un poliziotto internazionale dell’ONU, il che mi ha dato l’opportunità di partecipare a missioni di mantenimento della pace in aree di interesse per l’ONU.",
-                            "tags": []
+                            "tags": ["International Law", "Military", "Peace Keeping"]
                         },
                         "ro": {
                             "title": "**Politist International** O.N.U.",
-                            "info": "Centru de pre",
+                            "info": "Ministerul Afacerilor Interne, România",
                             "text": "Am urmat și absolvit cursuri ONU prin Ministerul Afacerilor Interne, România, astfel devenind polițist internațional ONU, oferindu-mi posibilitatea de a participa la misiuni de menținere a păcii în zone care sunt de interes ONU.",
-                            "tags": []
-                        },
+                            "tags": ["International Law", "Military", "Peace Keeping"]
+                        }
                         
                         
                         
@@ -204,12 +204,20 @@
                             "text": "<p>En cours de doctorat avec un accent sur l'apprentissage profond et ses applications pratiques, notamment dans:</p> <ul><li>Vision par Ordinateur</li><li>Recherche IA innovante</li><li>Développement de nouveaux algorithmes de reconnaissance d'images</li></ul> <p class='mt-3'>Impliqué dans des recherches de pointe et contribuant à l'avancement de l'IA par des publications dans des conférences de renom.</p>",
                             "tags": ["Apprentissage Profond", "Vision par Ordinateur", "Recherche IA", "Algorithmes"]
                         },
-                        "ko": {
-                            "title": "컴퓨터 과학 **박사**",
-                            "info": "하버드 대학교",
-                            "text": "<p>딥러닝과 그 실제 응용 분야에 중점을 둔 박사 과정을 수행 중입니다. 특히 다음에 초점을 맞추고 있습니다:</p> <ul><li>컴퓨터 비전</li><li>혁신적인 AI 연구</li><li>이미지 인식을 위한 새로운 알고리즘 개발</li></ul> <p class='mt-3'>최첨단 연구에 참여하고, 유명 학회에서 발표하여 AI 기술 발전에 기여하고 있습니다.</p>",
-                            "tags": ["딥러닝", "컴퓨터 비전", "AI 연구", "알고리즘"]
+                        "ro": {
+                            "title": "**Doctorat** en Informatique",
+                            "info": "Université de Harvard",
+                            "text": "<p>En cours de doctorat avec un accent sur l'apprentissage profond et ses applications pratiques, notamment dans:</p> <ul><li>Vision par Ordinateur</li><li>Recherche IA innovante</li><li>Développement de nouveaux algorithmes de reconnaissance d'images</li></ul> <p class='mt-3'>Impliqué dans des recherches de pointe et contribuant à l'avancement de l'IA par des publications dans des conférences de renom.</p>",
+                            "tags": ["Apprentissage Profond", "Vision par Ordinateur", "Recherche IA", "Algorithmes"]
+                        },
+                        "it": {
+                            "title": "**Doctorat** en Informatique",
+                            "info": "Université de Harvard",
+                            "text": "<p>En cours de doctorat avec un accent sur l'apprentissage profond et ses applications pratiques, notamment dans:</p> <ul><li>Vision par Ordinateur</li><li>Recherche IA innovante</li><li>Développement de nouveaux algorithmes de reconnaissance d'images</li></ul> <p class='mt-3'>Impliqué dans des recherches de pointe et contribuant à l'avancement de l'IA par des publications dans des conférences de renom.</p>",
+                            "tags": ["Apprentissage Profond", "Vision par Ordinateur", "Recherche IA", "Algorithmes"]
                         }
+                        
+                        
                     }
                 }
             ]
