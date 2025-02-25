@@ -2,6 +2,7 @@ import "./NavSidebarGroup.scss"
 import React from 'react'
 import {useUtils} from "/src/helpers/utils.js"
 
+
 function NavSidebarGroup({ children, className, direction, shrink, fillSpace }) {
     const utils = useUtils()
 
@@ -13,7 +14,7 @@ function NavSidebarGroup({ children, className, direction, shrink, fillSpace }) 
             ${utils.strIf(fillSpace, `nav-sidebar-group-fill`)}
             ${className}
         `}>
-            {children}
+            {children} 
         </div>
     )
 }
