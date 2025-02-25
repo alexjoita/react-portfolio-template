@@ -8,8 +8,8 @@
 
 .status-circle {
     background-color: var(--theme-white);
-    width: 16px;
-    height: 16px;
+    width: 20px;
+    height: 20px;
     border-radius: 100%;
     position: relative;
     z-index: 2;
@@ -18,8 +18,8 @@
 
     &-pulse {
         background-color: var(--theme-white);
-        width: 40px;
-        height: 40px;
+        width: 80px;
+        height: 80px;
         border-radius: 100%;
         position: absolute;
         top: 50%;
@@ -32,7 +32,7 @@
 }
 
 .status-circle-active {
-    background-color: var(--theme-highlight)!important;
+    background-color: #afffa0 ;
     border: 2px solid var(--theme-dark-opacity);
     &-pulse {
         background-color: var(--theme-highlight-3)!important;
