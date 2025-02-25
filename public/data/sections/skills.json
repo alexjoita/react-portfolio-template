@@ -431,6 +431,23 @@
                 {
                     "icon": {
                         "img": null,
+                        "fa": "fa-solid fa-credit-card",
+                        "faColors": {"bg": "#7952B3", "fill": "#EEE"}
+                    },
+                    "value": 85,
+                    "dates": {
+                        "start": "08/01/2020"
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "WooCommerce",
+                            "info": null
+                        }
+                    }
+                },
+                {
+                    "icon": {
+                        "img": null,
                         "fa": "fa-brands fa-figma",
                         "faColors": {"bg": "purple", "fill": "#111"}
                     },
@@ -478,7 +495,25 @@
                             "info": null
                         }
                     }
+                },
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-solid fa-terminal",
+                        "faColors": {"bg": "#7952B3", "fill": "#EEE"}
+                    },
+                    "value": 70,
+                    "dates": {
+                        "start": "08/01/2022"
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "Hugo",
+                            "info": "(static websites)"
+                        }
+                    }
                 }
+              
             ]
         },
 
