@@ -54,7 +54,7 @@
 
             "items": [
                 {
-                    "value": "Romania - Bucharest & Italy - Bergamo",
+                    "value": "Craiova - RO & Bergamo - IT",
                     "links": [
                         {"href": null}
                     ],
@@ -104,7 +104,7 @@
             "items": [
                 {
                     "icon": {
-                        "img": "images/svg/logo.svg",
+                        "img": "images/pictures/aj-logo-profile.png",
                         "fa": null,
                         "faColors": {"bg": null, "fill": null}
                     },
@@ -135,7 +135,7 @@
                 {
                     "value": "Ana-Maria Birsan",
                     "links": [
-                        {"href": "https://linkedin.com"}
+                       {"href": "https://linkedin.com"}
                     ],
                     "icon": {
                         "img": "images/pictures/person-1.png",

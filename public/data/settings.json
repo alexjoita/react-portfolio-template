@@ -13,7 +13,7 @@
         "name": "Alex Joita",
         "stylizedName": "<strong>Alex **Joita**</strong>",
         "logoUrl": "images/svg/logo.svg",
-        "profilePictureUrl": "images/pictures/avatar.jpg",
+        "profilePictureUrl": "images/pictures/logo-logo.jpg",
 
         "locales": {
             "en": {"role": "Web Developer"},
@@ -85,8 +85,8 @@
     ],
 
     "emailjs": {
-        "publicKey": "tzObcsmOwHvPy6Rhp",
-        "serviceId": "service_4h8g7vb",
-        "templateId": "template_seyjkzn"
+        "publicKey": "CLNO3AKosbBJVZLop",
+        "serviceId": "service_zqrzcwg",
+        "templateId": "template_rk6a4cr"
     }
 }
