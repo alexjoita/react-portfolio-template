@@ -243,11 +243,21 @@ Open `vite.config.js` and set the base directory for your application. This sett
 
 ```js
 export default defineConfig({
-  base: '/react-portfolio-template/',
+  base: '/https://yourwebsite.com/',
   plugins: [react()],
 })
-```
+In case of development on Cpanel, in the public_html directory, add a .htaccess file and write this code: 
 
+```js
+{
+<IfModule mod_rewrite.c>
+
+RewriteEngine On RewriteBase / RewriteRule index.html$ - [L] RewriteCond %{REQUEST_FILENAME} !-f RewriteCond %{REQUEST_FILENAME} !-d RewriteCond %{REQUEST_FILENAME} !-l RewriteRule . /index.html [L]
+
+</IfModule>
+}
+
+```
 In simple terms, if you consider GitHub hosting the GitHub Pages site for this repo at the URL `https://ryanbalieiro.github.io/react-portfolio-template/`, the correct base directory to set is `/react-portfolio-template/`.
 
 If you're deploying to Netlify or your own custom domain where your website is located at the root, you can leave the `base` setting as `'/'`.
