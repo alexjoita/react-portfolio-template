@@ -11,7 +11,7 @@
             "id": "education",
             "categoryId": "background",
             "jsonPath": "/data/sections/education.json",
-            "faIcon": "fa-solid fa-graduation-cap"
+            "faIcon": "fa-solid fa-user-graduate"
         },
 
         {
@@ -42,41 +42,44 @@
             "id": "contact",
             "categoryId": "more",
             "jsonPath": "/data/sections/contact.json",
-            "faIcon": "fa-solid fa-pen-to-square"
+            "faIcon": "fa-solid fa-phone"
         }
     ],
 
     "categories": [
         {
             "id": "home",
-            "faIcon": "fa-solid fa-home",
+            "faIcon": "fa-solid fa-address-card",
             "locales": {
-                "en": {"title": "Home"},
-                "es": {"title": "Inicio"},
-                "fr": {"title": "Accueil"},
-                "ro": {"title": "Acasă"}
+                "en": {"title": "About Me"},
+                "es": {"title": "Acerca de mí"},
+                "fr": {"title": "Sur moi"},
+                "it": {"title": "Su di me"},
+                "ro": {"title": "Despre Mine"}
             }
         },
 
         {
             "id": "background",
-            "faIcon": "fa-solid fa-clock",
+            "faIcon": "fa-solid fa-user-graduate",
             "locales": {
-                "en": {"title": "History"},
-                "es": {"title": "Trayectoria"},
-                "fr": {"title": "Parcours"},
-                "ro": {"title": "Istoric"}
+                "en": {"title": "Education"},
+                "es": {"title": "Educación"},
+                "fr": {"title": "Éducation"},
+                "it": {"title": "Istruzione"},
+                "ro": {"title": "Educaţie"}
             }
         },
 
         {
             "id": "showcase",
-            "faIcon": "fa-solid fa-images",
+            "faIcon": "fa-solid fa-keyboard",
             "locales": {
-                "en": {"title": "Showcase"},
-                "es": {"title": "Vitrina"},
-                "fr": {"title": "Vitrine"},
-                "ro": {"title": "Galerie"}
+                "en": {"title": "Skills & Portfolio"},
+                "es": {"title": "Habilidades & Portafolio"},
+                "fr": {"title": "Compétences & Portefeuille"},
+                "it": {"title": "Competenze & Portafoglio"},
+                "ro": {"title": "Competenţe & Portofoliu"}
             }
         },
 
