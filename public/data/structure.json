@@ -9,14 +9,14 @@
 
         {
             "id": "education",
-            "categoryId": "background",
+            "categoryId": "more",
             "jsonPath": "/data/sections/education.json",
             "faIcon": "fa-solid fa-user-graduate"
         },
 
         {
             "id": "skills",
-            "categoryId": "showcase",
+            "categoryId": "more",
             "jsonPath": "/data/sections/skills.json",
             "faIcon": "fa-solid fa-tools"
         },
@@ -24,7 +24,7 @@
 
         {
             "id": "portfolio",
-            "categoryId": "showcase",
+            "categoryId": "portfolio",
             "jsonPath": "/data/sections/portfolio.json",
             "faIcon": "fa-solid fa-folder-open"
         },
@@ -38,12 +38,21 @@
             "faIcon": "fa-solid fa-rss"
         },
 
+       
         {
             "id": "contact",
-            "categoryId": "more",
+            "categoryId": "contact",
             "jsonPath": "/data/sections/contact.json",
             "faIcon": "fa-solid fa-phone"
+        },
+       
+        {
+            "id": "external",
+            "categoryId": "more",
+            "jsonPath": "/data/sections/external.json",
+            "faIcon": "fa-solid fa-link"
         }
+        
     ],
 
     "categories": [
@@ -72,14 +81,38 @@
         },
 
         {
-            "id": "showcase",
+            "id": "portfolio",
+            "faIcon": "fa-solid fa-book-open",
+            "locales": {
+                "en": {"title": "Portfolio"},
+                "es": {"title": "Portafolio"},
+                "fr": {"title": "Portefeuille"},
+                "it": {"title": "Portafoglio"},
+                "ro": {"title": "Portofoliu"}
+            }
+        },
+
+        {
+            "id": "skills",
             "faIcon": "fa-solid fa-keyboard",
             "locales": {
-                "en": {"title": "Skills & Portfolio"},
-                "es": {"title": "Habilidades & Portafolio"},
-                "fr": {"title": "Compétences & Portefeuille"},
-                "it": {"title": "Competenze & Portafoglio"},
-                "ro": {"title": "Competenţe & Portofoliu"}
+                "en": {"title": "Skills"},
+                "es": {"title": "Habilidades"},
+                "fr": {"title": "Compétences"},
+                "it": {"title": "Competenze"},
+                "ro": {"title": "Competenţe"}
+            }
+        },
+
+        {
+            "id": "contact",
+            "faIcon": "fa-solid fa-phone",
+            "locales": {
+                "en": {"title": "Contact"},
+                "es": {"title": "Contacto"},
+                "fr": {"title": "Contact"},
+                "it": {"title": "Contatto"},
+                "ro": {"title": "Contact"}
             }
         },
 
@@ -88,6 +121,18 @@
             "faIcon": "fa-solid fa-plus",
             "locales": {
                 "en": {"title": "More"},
+                "es": {"title": "Más"},
+                "fr": {"title": "Plus"},
+                "ro": {"title": "Mai mult"},
+                "it": {"title": "Di piu"}
+            }
+        },
+
+        {
+            "id": "external",
+            "faIcon": "fa-solid fa-up-right-from-square",
+            "locales": {
+                "en": {"title": "External"},
                 "es": {"title": "Más"},
                 "fr": {"title": "Plus"},
                 "ro": {"title": "Mai mult"},
