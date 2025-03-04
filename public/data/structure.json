@@ -16,7 +16,7 @@
 
         {
             "id": "skills",
-            "categoryId": "more",
+            "categoryId": "skills",
             "jsonPath": "/data/sections/skills.json",
             "faIcon": "fa-solid fa-tools"
         },

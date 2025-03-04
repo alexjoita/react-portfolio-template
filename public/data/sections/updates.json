@@ -82,24 +82,24 @@
                     },
                     "locales": {
                         "en": {
-                            "title": "100+",
+                            "title": "10+",
                             "info": "Stars on GitHub"
                         },
                         "es": {
-                            "title": "100+",
+                            "title": "10+",
                             "info": "Estrellas en GitHub"
                         },
                         "fr": {
-                            "title": "100+",
+                            "title": "10+",
                             "info": "Étoiles sur GitHub"
                         },
 
                         "ro": {
-                            "title": "100+",
+                            "title": "10+",
                             "info": "Étoiles sur GitHub"
                         },
                         "it": {
-                            "title": "100+",
+                            "title": "10+",
                             "info": "GitHub stelle"
                         }
                     }
@@ -222,7 +222,7 @@
                     "links": [],
                     "locales": {
                         "en": {
-                            "title": "**Professional conversion** and launching **my personal website**.",
+                            "title": "**Professional conversion**.",
                             "text": "After 10 years of working as a police officer within the Ministry of Internal Affairs in Romania, I started working in the I.T. field, with my first freelancing projects being logo design."
                         },
                         "es": {
@@ -309,7 +309,7 @@
 
                 {
                     "dates": {
-                        "start": "12/12/2021",
+                        "start": "12/12/2017",
                         "end": null
                     },
                     "links": [],
@@ -331,8 +331,8 @@
                             "text": "Création d'un site web personnel pour présenter mes projets, partager mon parcours en programmation et fournir des ressources pour d'autres développeurs."
                         },
                         "it": {
-                            "title": "**개인 웹사이트**를 시작했습니다!",
-                            "text": "내 프로젝트를 소개하고 프로그래밍 여정을 공유하며 다른 개발자들을 위한 리소스를 제공하기 위해 개인 웹사이트를 만들었습니다."
+                            "title": "Ho lanciato il mio **sito web personale**.",
+                            "text": "Ho creato un sito web personale per mostrare i miei progetti, condividere il mio percorso nella programmazione e fornire risorse per altri sviluppatori."
                         }
                     }
                 }

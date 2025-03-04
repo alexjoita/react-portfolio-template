@@ -7,27 +7,27 @@
         },
 
         "es": {
-            "title": "Portafolio",
-            "title_long_prefix": "Explora",
-            "title_long": "Mi **Portafolio**"
+            "title": "Enlace externo",
+            "title_long_prefix": "Visita también",
+            "title_long": "Mi **Blog** o mi **sitio web de Fotografía**"
         },
 
         "fr": {
-            "title": "Portfolio",
-            "title_long_prefix": "Découvrez",
-            "title_long": "Mon **Portfolio**"
+            "title": "Lien externe",
+            "title_long_prefix": "A visiter également",
+            "title_long": "Mon **blog** ou mon **site de photographie**"
         },
 
         "ro": {
-            "title": "Portofoliu",
+            "title": "Legături externe",
             "title_long_prefix": "Descoperă",
-            "title_long": "**Portfoliul** Meu "
+            "title_long": "**Blog**-ul sau **site-ul meu de fotografie**"
         },
 
         "it": {
-            "title": "Portfolio",
-            "title_long_prefix": "Scopri",
-            "title_long": "il mio **Portfolio**"
+            "title": "Collegamento esterno",
+            "title_long_prefix": "Visita anche",
+            "title_long": "Il mio **blog** o il mio **sito di fotografia**"
         }
     },
 
@@ -40,41 +40,37 @@
 
             "categories": [
                 {
-                    "id": "blog",
+                    "id": "external",
                     "locales": {
-                        "en": {"singular": "Blog", "plural": "Web"},
-                        "es": {"singular": "Blog", "plural": "Web"},
-                        "fr": {"singular": "Blog", "plural": "Web"},
-                        "ro": {"singular": "Blog", "plural": "Web"},
-                        "it": {"singular": "Blog", "plural": "Web"}
-                    }
+                        "en": {"singular": "external", "plural": "external"},
+                        "es": {"singular": "external", "plural": "external"},
+                        "fr": {"singular": "external", "plural": "external"},
+                        "ro": {"singular": "external", "plural": "external"},
+                        "it": {"singular": "external", "plural": "external"}
+                    }   
                 }
                
             ],
 
             "items": [
                 {
-                    "categoryId": "blog",
+                    "categoryId": "external",
                     "icon": {
-                        "img": "images/pictures/project-python2.png",
+                        "img": "images/pictures/logo/logo1.jpg",
                         "fa": "",
                         "faColors": {"bg": null, "fill": null}
                     },
 
                     "links": [
-                        {"faIcon": "fa-solid fa-hand-pointer", "href": "https://blog.alexjoita.com"}
+                        {"faIcon": "fa-solid fa-arrow-pointer", "href": "https://blog.alexjoita.com"}
                        
                     ],
 
                     "media": {
                         "youtubeVideo": "",
                         "screenshots": {
-                            "aspectRatio": "9:16",
-                            "images": ["images/pictures/project-python1.png",
-                                        "images/pictures/project-python2.png",
-                                       "images/pictures/project-python3.png",
-                                        "images/pictures/project-python4.png",
-                                        "images/pictures/project-python5.png"]
+                            "aspectRatio": "null"
+                            
                             
                         }
                     },
@@ -82,36 +78,36 @@
                     "locales": {
                         "en": {
                             "title": "BLOG - blog.alexjoita.com",
-                            "text": "This is a small application created with Python that can generate QR codes with different styles. Also, to assist the user, I created a simple graphical interface through which the data to be integrated into the QR code can be entered, and at the same time, the final product can be customized.",
-                            "tags": ["API", "Python", "Backend"]
+                            "text": "See the latest posted articles",
+                            "tags": ["Blog", "WordPress"]
                         },
                         "es": {
-                            "title": "QR Code Generator",
-                            "text": "Esta es una pequeña aplicación realizada con Python que puede generar códigos QR con diferentes estilos. Además, para ayudar al usuario, creé una interfaz gráfica simple mediante la cual se pueden introducir los datos que se integrarán en el código QR y, al mismo tiempo, se puede personalizar el producto final.",
-                            "tags": ["API", "Python", "Backend"]
+                            "title": "BLOG - blog.alexjoita.com",
+                            "text": "Ver los últimos artículos publicados",
+                            "tags": ["Blog", "WordPress"]
                         },
                         "fr": {
-                            "title": "QR Code Generator",
-                            "text": "C'est une petite application réalisée avec Python qui permet de générer des codes QR avec différents styles. De plus, pour aider l'utilisateur, j'ai créé une interface graphique simple dans laquelle les données à intégrer dans le code QR peuvent être saisies, et en même temps, le produit final peut être personnalisé.",
-                            "tags": ["API", "Python", "Backend"]
+                            "title": "BLOG - blog.alexjoita.com",
+                            "text": "Voir les derniers articles publiés",
+                            "tags": ["Blog", "WordPress"]
                         },
                         "it": {
-                            "title": "QR Code Generator",
-                            "text": "Questa è una piccola applicazione realizzata con Python che permette di generare codici QR con stili diversi. Inoltre, per supportare l'utente, ho creato un'interfaccia grafica semplice tramite la quale è possibile inserire i dati che verranno integrati nel codice QR e, allo stesso tempo, personalizzare il prodotto finale.",
-                            "tags": ["API", "Python", "Backend"]
+                            "title": "BLOG - blog.alexjoita.com",
+                            "text": "Vedi gli ultimi articoli pubblicati",
+                            "tags": ["Blog", "WordPress"]
                         },
                         "ro": {
-                            "title": "QR Code Generator",
-                            "text": "Este o mică aplicație realizată cu Python prin care se pot genera coduri QR cu diferite stiluri. De asemenea, pentru a veni în sprijinul utilizatorului, am creat o interfață grafică simplă prin care se pot introduce datele care urmează să fie integrate în codul QR și, în același timp, produsul final poate fi personalizat.",
-                            "tags": ["API", "Python", "Backend"]
+                            "title": "BLOG - blog.alexjoita.com",
+                            "text": "Vezi ultimele articole postate.",
+                            "tags": ["Blog", "WordPress"]
                         }
                     }
                 },
 
                 {
-                    "categoryId": "blog",
+                    "categoryId": "external",
                     "icon": {
-                        "img": "images/pictures/project-logo-7.png",
+                        "img": "images/pictures/camera.png",
                         "fa": "",
                         "faColors": {"bg": null, "fill": null}
                     },
@@ -129,28 +125,28 @@
                     "locales": {
                         "en": {
                             "title": "Photo - photo.alexjoita.com",
-                            "text": "This video was made using a drone at the request of a real estate client. The footage was captured at an exclusive location, and then the video editing was done in Adobe Premiere Pro.",
-                            "tags": ["Drone", "Adobee Premiere Pro", "Real Estate"]
+                            "text": "View the photo gallery with some of the photos taken by me",
+                            "tags": ["RAW", "event photo", "portrait"]
                         },
                         "es": {
-                            "title": "Real Estate Video",
-                            "text": "Este video fue realizado utilizando un dron a solicitud de un cliente de bienes raíces. La filmación se hizo en una ubicación exclusiva, y luego se realizó la edición del video en Adobe Premiere Pro.",
-                            "tags": ["Drone", "Adobee Premiere Pro", "Real Estate"]
+                            "title": "Photo - photo.alexjoita.com",
+                            "text": "Ver la galería de fotos con algunas de las fotos tomadas por mí",
+                            "tags": ["RAW", "event photo", "portrait"]
                         },
                         "fr": {
-                            "title": "Real Estate Video",
-                            "text": "Cette vidéo a été réalisée à l'aide d'un drone à la demande d'un client immobilier. Le tournage a eu lieu dans un endroit exclusif, puis le montage vidéo a été effectué dans Adobe Premiere Pro.",
-                            "tags": ["Drone", "Adobee Premiere Pro", "Real Estate"]
+                            "title": "Photo - photo.alexjoita.com",
+                            "text": "Voir la galerie photo avec quelques-unes des photos prises par moi",
+                            "tags": ["RAW", "event photo", "portrait"]
                         },
                         "ro": {
-                            "title": "Real Estate Video",
-                            "text": "Acest video a fost realizat folosind o dronă la cererea unui client din domeniul imobiliar. Filmarea a fost realizată într-o locație exclusivistă, iar apoi editarea video a fost făcută în Adobe Premiere Pro.",
-                            "tags": ["Drone", "Adobee Premiere Pro", "Real Estate"]
+                            "title": "Photo - photo.alexjoita.com",
+                            "text": "Vezi galeria foto cu unele dintre fotografiile realizate de mine",
+                            "tags": ["RAW", "event photo", "portrait"]
                         },
                         "it": {
-                            "title": "Real Estate Video",
-                            "text": "Questo video è stato realizzato utilizzando un drone su richiesta di un cliente nel settore immobiliare. Le riprese sono state effettuate in una location esclusiva, successivamente il montaggio video è stato fatto in Adobe Premiere Pro.",
-                            "tags": ["Drone", "Adobee Premiere Pro", "Real Estate"]
+                            "title": "Photo - photo.alexjoita.com",
+                            "text": "Guarda la galleria fotografica con alcune delle foto scattate da me",
+                            "tags": ["RAW", "event photo", "portrait"]
                         }
                     }
                 }
