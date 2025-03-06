@@ -133,39 +133,6 @@
                         }
                     }
                 },
-
-                {
-                    "icon": {
-                        "img": null,
-                        "fa": "fa-solid fa-window-restore",
-                        "faColors": {"bg": null, "fill": null}
-                    },
-                    "locales": {
-                        "en": {
-                            "title": "REST **APIs**",
-                            "text": "I can build API services!"
-                        },
-                        "es": {
-                            "title": "APIs **REST**",
-                            "text": "¡Puedo crear servicios API!"
-                        },
-                        "fr": {
-                            "title": "APIs **REST**",
-                            "text": "Je peux créer des services API !"
-                        },
-                        
-                        "ro": {
-                            "title": "REST **API**",
-                            "text": "Pot construi servicii API !"
-                        },
-
-                        "it": {
-                            "title": "REST **API**",
-                            "text": "Posso costruire servizi API !"
-                        }
-                    }
-                },
-
                 {
                     "icon": {
                         "img": null,

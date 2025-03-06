@@ -85,7 +85,7 @@
 
                 {
                     "icon": {
-                        "img": "images/pictures/logo-militaryschool.png",
+                        "img": "images/pictures/logo-jro.png",
                         "fa": "",
                         "faColors": {"bg": null, "fill": null}
                     },
@@ -95,33 +95,33 @@
                     },
                     "locales": {
                         "en": {
-                            "title": "**Sergeant Major**",
-                            "info": "Military School, Ministry of Internal Affairs, Romania ",
-                            "text": "I attended the G.A. Ghica School of Non-Commissioned Officers of the Gendarmerie in Drăgășani, Romania, where I acquired knowledge about military rules and regulations, law, and the protection and security of people, property, values, and information.",
+                            "title": "**Active Officer** & **Negotiator**",
+                            "info": "Romanian Gendarmerie, Ministry of Internal Affairs, Romania",
+                            "text": "I became an active officer of the Romanian Gendarmerie, thus acquiring knowledge of law, the protection and security of people, goods, valuables, and information.",
                             "tags": ["Law", "Military", "Security"]
                         },
                         "es": {
-                            "title": "**Sargento Mayor**",
-                            "info": "Escuela Militar, Ministerio de Asuntos Internos, Rumania",
-                            "text": "Asistí a la Escuela de Suboficiales de la Gendarmería G.A. Ghica en Drăgășani, Rumanía, donde adquirí conocimientos sobre las reglas y regulaciones militares, derecho, y la protección y seguridad de las personas, bienes, valores e información.",
+                            "title": "**Oficial Activo** & **Negociador**",
+                            "info": "Gendarmería Rumana, Ministerio de Asuntos Internos, Rumanía",
+                            "text": "Me convertí en oficial activo de la Gendarmería Rumana, adquiriendo así conocimientos sobre derecho, protección y seguridad de las personas, bienes, valores e información.",
                             "tags": ["Law", "Military", "Security"]
                         },
                         "fr": {
-                            "title": "**Sergent-Major**",
-                            "info": "École Militaire,Ministère des Affaires Intérieures, Roumanie ",
-                            "text": "J'ai suivi les cours de l'École des Sous-Officiers de Gendarmerie G.A. Ghica à Drăgășani, en Roumanie, où j'ai acquis des connaissances sur les règles et les rigueurs militaires, le droit, ainsi que sur la protection et la sécurité des personnes, des biens, des valeurs et des informations.",
+                            "title": "**Officier Actif** & **Négociateur**",
+                            "info": "Gendarmerie Roumaine, Ministère des Affaires Intérieures, Roumanie",
+                            "text": "Je suis devenu officier actif de la Gendarmerie Roumaine, acquérant ainsi des connaissances en droit, en protection et en sécurité des personnes, des biens, des valeurs et des informations.",
                             "tags": ["Law", "Military", "Security"]
                         },
                         "it": {
-                            "title": "**Sergente Maggiore**",
-                            "info": "Scuola Militare, Ministero degli Affari Interni, Romania ",
-                            "text": "Ho frequentato la Scuola di Sottufficiali della Gendarmeria G.A. Ghica a Drăgășani, Romania, dove ho acquisito conoscenze sulle regole e rigori militari, sul diritto e sulla protezione e sicurezza delle persone, dei beni, dei valori e delle informazioni.",
+                            "title": "**Ufficiale Attivo** & **Negoziatore**",
+                            "info": "Gendarmeria Romena, Ministero degli Affari Interni, Romania",
+                            "text": "Sono diventato un ufficiale attivo della Gendarmeria Rumena, acquisendo così conoscenze di diritto, protezione e sicurezza delle persone, dei beni, dei valori e delle informazioni.",
                             "tags": ["Law", "Military", "Security"]
                         },
                         "ro": {
-                            "title": "**Sergeant-Major**",
-                            "info": "Școala Militară, Ministerul Afacerilor Interne, România ",
-                            "text": "Am urmat cursurile Școlii de Subofițeri de Jandarmi G.A. Ghica din Drăgășani, România, unde am dobândit cunoștințe despre regulile și rigorile militare, drept, protecția și securitatea oamenilor, bunurilor, valorilor și informațiilor.",
+                            "title": "**Ofiţer Activ** & **Negociator**",
+                            "info": "Jandarmeria Română, Ministerul Afacerilor Interne, România",
+                            "text": "Am devenit ofițer activ al Jandarmeriei Române, dobândind astfel cunoștințe de drept, protecția și securitatea oamenilor, bunurilor, valorilor și informațiilor.",
                             "tags": ["Law", "Military", "Security"]
                         }
                         
