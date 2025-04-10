@@ -416,6 +416,57 @@
                         }
                     }
                 },
+                {
+                    "categoryId": "websites",
+                    "icon": {
+                        "img": "images/pictures/daune360_logo.png",
+                        "fa": "",
+                        "faColors": {"bg": null, "fill": null}
+                    },
+
+                    "links": [
+                        {"faIcon": "fa-solid fa-link", "href": "https://daune360.ro"}
+                    ],
+
+                    "media": {
+                        "youtubeVideo": "",
+                        "screenshots": {
+                            "aspectRatio": "9:16",
+                            "images": [ "images/pictures/screenshot10.png",
+                            "images/pictures/screenshot11.png",
+                            "images/pictures/screenshot12.png",
+                        "images/pictures/screenshot13.png"] 
+                        }
+                    },
+
+                    "locales": {
+                        "en": {
+                            "title": "daune360.ro",
+                            "text": "This website is a presentation site for a business in the automotive industry. The site was created with WordPress, optimized and prepared for SEO. I also created and optimized functions for Google Search Console, Google Analytics, and SEO using the YOAST SEO plugin.",
+                            "tags": ["Wordpress", "SEO","Google Analytics"]
+                        },
+                        "es": {
+                            "title": "daune360.ro",
+                            "text": "Este sitio web es una página de presentación para un negocio en la industria automotriz. El sitio fue creado con WordPress, optimizado y preparado para SEO. También creé y optimicé funciones para Google Search Console, Google Analytics y SEO utilizando el plugin YOAST SEO.",
+                            "tags": ["Wordpress", "SEO","Google Analytics"]
+                        },
+                        "fr": {
+                            "title": "daune360.ro",
+                            "text": "Ce site web est un site de présentation pour une entreprise dans l'industrie automobile. Le site a été créé avec WordPress, optimisé et préparé pour le SEO. J'ai également créé et optimisé les fonctions pour Google Search Console, Google Analytics et le SEO en utilisant le plugin YOAST SEO.",
+                            "tags": ["Wordpress", "SEO","Google Analytics"]
+                        },
+                        "ro": {
+                            "title": "daune360.ro",
+                            "text": "Acest website este unul de prezentare al unui business în industria auto. Site-ul a fost realizat cu WordPress, optimizat și pregătit pentru SEO. De asemenea, am creat și optimizat funcțiile pentru Google Search Console, Google Analytics și SEO folosind pluginul YOAST SEO.",
+                            "tags": ["Wordpress", "SEO","Google Analytics"]
+                        },
+                        "it": {
+                            "title": "daune360.ro",
+                            "text": "Questo sito web è un sito di presentazione per un'azienda nel settore automobilistico. Il sito è stato realizzato con WordPress, ottimizzato e preparato per la SEO. Ho anche creato e ottimizzato le funzioni per Google Search Console, Google Analytics e la SEO utilizzando il plugin YOAST SEO.",
+                            "tags": ["Wordpress", "SEO","Google Analytics"]
+                        }
+                    }
+                },
 
 
                 {
