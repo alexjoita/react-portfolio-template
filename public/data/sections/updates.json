@@ -66,7 +66,7 @@
                         },
                         "ro": {
                             "title": "03",
-                            "info": "Applications publiées"
+                            "info": "Applicaţii publicate"
                         },
                         "it": {
                             "title": "03",
@@ -96,7 +96,7 @@
 
                         "ro": {
                             "title": "10+",
-                            "info": "Étoiles sur GitHub"
+                            "info": "Stele primite pe  GitHub"
                         },
                         "it": {
                             "title": "10+",
@@ -266,10 +266,10 @@
                             "text": "J'ai lancé ma propre chaîne YouTube où j'ai publié mes premières vidéos de moi pratiquant divers loisirs (danse, voitures, etc.) et plus tard, j'ai ajouté des sketchs drôles, des tutoriels, ainsi que divers tutoriels de conseils et astuces et des photos des endroits où j'ai voyagé et que j'ai appréciés."
                         },
                         "ro": {
-                            "title": "Création de ma propre **chaîne YouTube** !",
+                            "title": "Crearea propriului **canal de YouTube** !",
                             "text": "Mi-am lansat propriul canal de YouTube unde am publicat primele video-uri cu mine în timp ce practicam diverse hobby-uri (dans, mașini, etc.) și mai târziu am adăugat sketch-uri amuzante, tutoriale, dar și diverse tutoriale cu tips & tricks și imagini cu locurile prin care am călătorit și care mi-au plăcut."
                         },
-                       "ro": {
+                       "it": {
                             "title": "Ho aperto il mio  **canale YouTube** !",
                             "text": "Ho lanciato il mio canale YouTube dove ho pubblicato i miei primi video in cui praticavo vari hobby (danza, auto, ecc.) e successivamente ho aggiunto sketch divertenti, tutorial, oltre a vari tutorial con consigli e trucchi e immagini dei luoghi che ho visitato e che mi sono piaciuti."
                         }
@@ -327,8 +327,8 @@
                             "text": "Création d'un site web personnel pour présenter mes projets, partager mon parcours en programmation et fournir des ressources pour d'autres développeurs."
                         },
                         "ro": {
-                            "title": "Lancement de mon **site web personnel** !",
-                            "text": "Création d'un site web personnel pour présenter mes projets, partager mon parcours en programmation et fournir des ressources pour d'autres développeurs."
+                            "title": "Lansarea **site-ului web personal** !",
+                            "text": "Am creat un site personal pentru a arăta proiectele şi pentru a împărtăşi părerile în ceea ce priveşte programarea dar şi pentru a oferi resurse celorlalţi dezvoltatori din branşă."
                         },
                         "it": {
                             "title": "Ho lanciato il mio **sito web personale**.",
