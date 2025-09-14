@@ -17,11 +17,17 @@
             "title_long_prefix": "C'est mon",
             "title_long": "**Contexte** Éducatif"
         },
+       
+        "ro": {
+            "title": "Educaţie",
+            "title_long_prefix": "Educaţie",
+            "title_long": "**Profesională**"
+        },
 
-        "ko": {
-            "title": "교육",
-            "title_long_prefix": "이것은 내",
-            "title_long": "**교육적** 배경"
+        "it": {
+            "title": "Istruzione",
+            "title_long_prefix": "Istruzione",
+            "title_long": "Contesto Educativo"
         }
     },
 
@@ -35,153 +41,182 @@
             "items": [
                 {
                     "icon": {
-                        "img": "images/pictures/place-5.png",
+                        "img": "images/pictures/logo-lthc.png",
                         "fa": "",
                         "faColors": {"bg": null, "fill": null}
                     },
                     "dates": {
-                        "start": "01/01/2015",
-                        "end": "12/01/2019"
+                        "start": "09/09/2003",
+                        "end": "07/07/2007"
                     },
                     "locales": {
                         "en": {
-                            "title": "**Bachelor** in Computer Science",
-                            "info": "MIT",
-                            "text": "Earned a Bachelor's degree in Computer Science, focusing on algorithms, data structures, software engineering, and web development. Gained hands-on experience through various programming projects and boot camps.",
-                            "tags": []
+                            "title": "**Baccalaureate**",
+                            "info": "Henri Coandă Theoretical High School, Craiova - Romania",
+                            "text": "I graduated from Henri Coandă Theoretical High School, Craiova - Romania, with a focus on Social Sciences - French Bilingual.",
+                            "tags": ["Social Science", "French Bilingual"]
                         },
                         "es": {
-                            "title": "**Licenciatura** en Ciencias de la Computación",
-                            "info": "MIT",
-                            "text": "Obtuve una licenciatura en Ciencias de la Computación, con un enfoque en algoritmos, estructuras de datos, ingeniería de software y desarrollo web. Adquirí experiencia práctica a través de varios proyectos de programación y campamentos de entrenamiento.",
-                            "tags": null
+                            "title": "**Bachillerato**",
+                            "info": "Liceo Teórico Henri Coanda, Craiova - Rumanía",
+                            "text": "Me gradué del Liceo Teórico Henri Coanda, Craiova - Rumanía, con la especialidad en Ciencias Sociales - Bilingüe en Francés.",
+                            "tags": ["Social Science", "French Bilingual"]
                         },
                         "fr": {
-                            "title": "**Licence** en Informatique",
-                            "info": "MIT",
-                            "text": "Obtenu une licence en Informatique, avec un accent sur les algorithmes, les structures de données, l'ingénierie logicielle et le développement web. Acquis une expérience pratique à travers divers projets de programmation et camps de formation.",
-                            "tags": null
+                            "title": "**Baccalauréat**",
+                            "info": "Lycée Théorique Henri Coanda, Craiova - Roumanie",
+                            "text": "J'ai obtenu mon diplôme du Lycée Théorique Henri Coanda, Craiova - Roumanie, avec une spécialisation en Sciences Sociales - Bilingue en Français.",
+                            "tags": ["Social Science", "French Bilingual"]
                         },
-                        "ko": {
-                            "title": "**학사** 컴퓨터 과학",
-                            "info": "MIT",
-                            "text": "알고리즘, 데이터 구조, 소프트웨어 공학 및 웹 개발에 중점을 둔 컴퓨터 과학 학사 학위를 취득했습니다. 다양한 프로그래밍 프로젝트와 부트캠프를 통해 실무 경험을 쌓았습니다.",
-                            "tags": null
+                        "ro": {
+                            "title": "**Bacalaureat**",
+                            "info": "Liceul Teoretic Henri Coanda, Craiova - România",
+                            "text": "Am absolvit Liceul Teoretic Henri Coanda, Craiova - România, profil Științe Sociale - Bilingv Franceză.",
+                            "tags": ["Social Science", "French Bilingual"]
+                        },
+                        "it": {
+                            "title": "Maturità",
+                            "info": "Liceo Teorico Henri Coanda, Craiova - Romania",
+                            "text": "Mi sono diplomato al Liceo Teorico Henri Coanda, Craiova - Romania, con indirizzo Scienze Sociali - Bilingue Francese.",
+                            "tags": ["Social Science", "French Bilingual"]
                         }
                     }
                 },
 
                 {
                     "icon": {
-                        "img": "images/pictures/place-2.png",
+                        "img": "images/pictures/logo-jro.png",
                         "fa": "",
                         "faColors": {"bg": null, "fill": null}
                     },
                     "dates": {
-                        "start": "01/01/2014",
-                        "end": "06/01/2014"
+                        "start": "09/09/2007",
+                        "end": "12/12/2009"
                     },
                     "locales": {
                         "en": {
-                            "title": "PHP Development **Nanodegree**",
-                            "info": "Udacity",
-                            "text": "Completed an intensive Nanodegree program focused on PHP development, covering essential skills like backend programming, database management, and web application deployment. This course provided a solid foundation in modern PHP practices.",
-                            "tags": ["PHP 8+", "Laravel", "MongoDB"]
+                            "title": "**Active Officer** & **Negotiator**",
+                            "info": "Romanian Gendarmerie, Ministry of Internal Affairs, Romania",
+                            "text": "I became an active officer of the Romanian Gendarmerie, thus acquiring knowledge of law, the protection and security of people, goods, valuables, and information.",
+                            "tags": ["Law", "Military", "Security"]
                         },
                         "es": {
-                            "title": "Nanogrado en **Desarrollo PHP**",
-                            "info": "Udacity",
-                            "text": "Completé un programa intensivo de Nanogrado centrado en el desarrollo de PHP, cubriendo habilidades esenciales como la programación backend, la gestión de bases de datos y el despliegue de aplicaciones web. Este curso proporcionó una base sólida en las prácticas modernas de PHP.",
-                            "tags": null
+                            "title": "**Oficial Activo** & **Negociador**",
+                            "info": "Gendarmería Rumana, Ministerio de Asuntos Internos, Rumanía",
+                            "text": "Me convertí en oficial activo de la Gendarmería Rumana, adquiriendo así conocimientos sobre derecho, protección y seguridad de las personas, bienes, valores e información.",
+                            "tags": ["Law", "Military", "Security"]
                         },
                         "fr": {
-                            "title": "Nanodiplôme en **Développement PHP**",
-                            "info": "Udacity",
-                            "text": "Terminé un programme intensif de Nanodiplôme axé sur le développement PHP, couvrant des compétences essentielles telles que la programmation backend, la gestion de bases de données et le déploiement d'applications web. Ce cours a fourni une base solide dans les pratiques modernes de PHP.",
-                            "tags": null
+                            "title": "**Officier Actif** & **Négociateur**",
+                            "info": "Gendarmerie Roumaine, Ministère des Affaires Intérieures, Roumanie",
+                            "text": "Je suis devenu officier actif de la Gendarmerie Roumaine, acquérant ainsi des connaissances en droit, en protection et en sécurité des personnes, des biens, des valeurs et des informations.",
+                            "tags": ["Law", "Military", "Security"]
                         },
-                        "ko": {
-                            "title": "PHP 개발 **나노디그리**",
-                            "info": "Udacity",
-                            "text": "PHP 개발에 중점을 둔 집중 나노디그리 프로그램을 완료하여 백엔드 프로그래밍, 데이터베이스 관리 및 웹 애플리케이션 배포와 같은 필수 기술을 배웠습니다. 이 과정은 현대 PHP 실무에 대한 탄탄한 기초를 제공했습니다.",
-                            "tags": null
+                        "it": {
+                            "title": "**Ufficiale Attivo** & **Negoziatore**",
+                            "info": "Gendarmeria Romena, Ministero degli Affari Interni, Romania",
+                            "text": "Sono diventato un ufficiale attivo della Gendarmeria Rumena, acquisendo così conoscenze di diritto, protezione e sicurezza delle persone, dei beni, dei valori e delle informazioni.",
+                            "tags": ["Law", "Military", "Security"]
+                        },
+                        "ro": {
+                            "title": "**Ofiţer Activ** & **Negociator**",
+                            "info": "Jandarmeria Română, Ministerul Afacerilor Interne, România",
+                            "text": "Am devenit ofițer activ al Jandarmeriei Române, dobândind astfel cunoștințe de drept, protecția și securitatea oamenilor, bunurilor, valorilor și informațiilor.",
+                            "tags": ["Law", "Military", "Security"]
                         }
+                        
                     }
                 },
 
                 {
                     "icon": {
-                        "img": "images/pictures/place-6.png",
+                        "img": "images/pictures/un-logo.png",
                         "fa": "",
                         "faColors": {"bg": null, "fill": null}
                     },
                     "dates": {
-                        "start": "09/01/2020",
-                        "end": "06/01/2022"
+                        "start": "03/01/2015",
+                        "end": "04/01/2015"
                     },
                     "locales": {
                         "en": {
-                            "title": "**Master's** in Artificial Intelligence",
-                            "info": "University of Paris",
-                            "text": "<p>Completed a comprehensive Master's program focused on cutting-edge AI topics, including:</p> <ul><li>Machine Learning</li><li>Natural Language Processing (NLP)</li><li>Neural Networks</li></ul> <p class='mt-3'>Applied research and theory to develop practical AI-driven solutions, combining academic excellence with real-world innovation.</p>",
-                            "tags": []
+                            "title": "International UN **Police Officer**",
+                            "info": "Ministry of Internal Affairs, Romania",
+                            "text": "I followed and graduated from UN courses through the Ministry of Internal Affairs, Romania, thus becoming a UN international police officer, which gave me the opportunity to participate in peacekeeping missions in areas of interest to the UN.",
+                            "tags": ["International Law", "Military", "Peace Keeping"]
                         },
                         "es": {
-                            "title": "**Máster** en Inteligencia Artificial",
-                            "info": "Universidad de París",
-                            "text": "<p>Completé un programa de máster integral centrado en temas de IA de vanguardia, incluyendo:</p> <ul><li>Aprendizaje Automático</li><li>Procesamiento del Lenguaje Natural (PLN)</li><li>Redes Neuronales</li></ul> <p class='mt-3'>Apliqué investigación y teoría para desarrollar soluciones prácticas impulsadas por IA, combinando la excelencia académica con la innovación en el mundo real.</p>",
-                            "tags": []
+                            "title": "**Oficial de Policía** de la ONU",
+                            "info": "Ministerio del Interior, Rumania",
+                            "text": "Seguí y completé cursos de la ONU a través del Ministerio del Interior de Rumania, convirtiéndome así en un policía internacional de la ONU, lo que me dio la oportunidad de participar en misiones de mantenimiento de la paz en áreas de interés para la ONU.",
+                            "tags": ["International Law", "Military", "Peace Keeping"]
                         },
                         "fr": {
-                            "title": "**Master** en Intelligence Artificielle",
+                            "title": "**Officier de Police** de l’ONU",
                             "info": "Université de Paris",
-                            "text": "<p>J'ai terminé un programme de Master complet axé sur les sujets de pointe en IA, y compris:</p> <ul><li>Apprentissage Automatique</li><li>Traitement du Langage Naturel (TLN)</li><li>Réseaux Neuronaux</li></ul> <p class='mt-3'>J'ai appliqué la recherche et la théorie pour développer des solutions IA pratiques, alliant excellence académique et innovation réelle.</p>",
-                            "tags": []
+                            "text": "J’ai suivi et terminé des cours de l’ONU par le biais du Ministère des Affaires intérieures de Roumanie, devenant ainsi un policier international de l’ONU, ce qui m’a offert la possibilité de participer à des missions de maintien de la paix dans des zones d’intérêt pour l’ONU.",
+                            "tags": ["International Law", "Military", "Peace Keeping"]
                         },
-                        "ko": {
-                            "title": "인공지능 **석사**",
-                            "info": "파리 대학교",
-                            "text": "<p>최첨단 인공지능 주제에 중점을 둔 석사 과정을 완료했습니다. 다룬 주제는 다음과 같습니다:</p> <ul><li>머신러닝</li><li>자연어 처리 (NLP)</li><li>신경망</li></ul> <p class='mt-3'>연구와 이론을 실제 AI 솔루션 개발에 적용하여 학문적 우수성과 실질적 혁신을 결합했습니다.</p>",
-                            "tags": []
+                        "it": {
+                            "title": "**Ufficiale di Polizia** dell’ONU",
+                            "info": "Université de Paris",
+                            "text": "Ho seguito e completato corsi ONU attraverso il Ministero degli Affari Interni della Romania, diventando così un poliziotto internazionale dell’ONU, il che mi ha dato l’opportunità di partecipare a missioni di mantenimento della pace in aree di interesse per l’ONU.",
+                            "tags": ["International Law", "Military", "Peace Keeping"]
+                        },
+                        "ro": {
+                            "title": "**Politist International** O.N.U.",
+                            "info": "Ministerul Afacerilor Interne, România",
+                            "text": "Am urmat și absolvit cursuri ONU prin Ministerul Afacerilor Interne, România, astfel devenind polițist internațional ONU, oferindu-mi posibilitatea de a participa la misiuni de menținere a păcii în zone care sunt de interes ONU.",
+                            "tags": ["International Law", "Military", "Peace Keeping"]
                         }
+                        
+                        
+                        
                     }
                 },
 
                 {
                     "icon": {
-                        "img": "images/pictures/place-4.png",
+                        "img": "images/pictures/logo-imosolas.webp",
                         "fa": "",
                         "faColors": {"bg": null, "fill": null}
                     },
                     "dates": {
-                        "start": "09/01/2022",
-                        "end": "06/01/2024"
+                        "start": "09/01/2023",
+                        "end": "10/01/2023"
                     },
                     "locales": {
                         "en": {
-                            "title": "**PhD** in Computer Science",
-                            "info": "Harvard University",
-                            "text": "<p>Currently pursuing a PhD with a focus on deep learning and its real-world applications, particularly in:</p> <ul><li>Computer Vision</li><li>Innovative AI research</li><li>Developing novel algorithms for image recognition</li></ul> <p class='mt-3'>Engaged in cutting-edge research and contributing to AI advancement through publications in top-tier conferences.</p>",
-                            "tags": ["Deep Learning", "Computer Vision", "AI Research", "Algorithms"]
+                            "title": "Maritime **Security Officer** (Cruise Ships)",
+                            "info": "International Convention on Standards of Training, Certification and Watchkeeping for Seafarers (STCW)",
+                            "text": "<p>I completed the course, obtaining certificates in:</p><ul><li>survival techniques</li><li>passenger safety and crew safety training</li><li>fire prevention and firefighting</li><li>elementary first aid</li><li>personal safety and social responsibilities</li><li>the use of force through physical and mechanical means</li><li>crowd management</li></ul> <p class='mt-3'>All of these have allowed me to perform my duties as a security officer on cruise ships, thus giving me the opportunity to travel extensively and work on some of the largest and most beautiful cruise ships in the world.</p>",
+                            "tags": ["Maritime Security", "Safety", "International Law", "CruiseShips"]
                         },
                         "es": {
-                            "title": "**Doctorado** en Ciencias de la Computación",
-                            "info": "Universidad de Harvard",
-                            "text": "<p>Cursando un doctorado con enfoque en aprendizaje profundo y sus aplicaciones en el mundo real, específicamente en:</p> <ul><li>Visión por Computadora</li><li>Investigación innovadora en IA</li><li>Desarrollo de nuevos algoritmos para el reconocimiento de imágenes</li></ul> <p class='mt-3'>Involucrado en investigaciones de vanguardia y contribuyendo al avance de la IA a través de publicaciones en conferencias de primer nivel.</p>",
-                            "tags": ["Aprendizaje Profundo", "Visión por Computadora", "Investigación IA", "Algoritmos"]
+                            "title": "**Oficial de Seguridad** Marítima (Barcos de Crucero)",
+                            "info": "Convención Internacional sobre Normas de Formación, Certificación y Guardia para la Gente de Mar (STCW)",
+                            "text": "<p>Completé el curso obteniendo certificados en:</p><ul><li>técnicas de supervivencia</li><li>seguridad de los pasajeros y entrenamiento de seguridad del personal</li><li>prevención y extinción de incendios</li><li>primeros auxilios elementales</li><li>seguridad personal y responsabilidades sociales</li><li>y el uso de la fuerza mediante medios físicos y mecánicos</li><li>gestión de multitudes</li></ul> <p class='mt-3'>Todo esto me ha permitido ejercer mi función como oficial de seguridad en barcos de crucero, brindándome la oportunidad de viajar mucho y trabajar en algunos de los barcos de crucero más grandes y hermosos del mundo.</p>",
+                            "tags": ["Maritime Security", "Safety", "International Law", "CruiseShips"]
                         },
                         "fr": {
-                            "title": "**Doctorat** en Informatique",
-                            "info": "Université de Harvard",
-                            "text": "<p>En cours de doctorat avec un accent sur l'apprentissage profond et ses applications pratiques, notamment dans:</p> <ul><li>Vision par Ordinateur</li><li>Recherche IA innovante</li><li>Développement de nouveaux algorithmes de reconnaissance d'images</li></ul> <p class='mt-3'>Impliqué dans des recherches de pointe et contribuant à l'avancement de l'IA par des publications dans des conférences de renom.</p>",
-                            "tags": ["Apprentissage Profond", "Vision par Ordinateur", "Recherche IA", "Algorithmes"]
+                            "title": "**Officier de Sécurité** Maritime (Navires de Croisière)",
+                            "info": "Convention internationale sur les normes de formation des gens de mer, de délivrance des brevets et de veille (STCW)",
+                            "text": "<p>J’ai terminé le cours en obtenant des certificats en:</p><ul><li>techniques de survie</li><li>sécurité des passagers et formation à la sécurité du personnel</li><li>prévention et lutte contre les incendies</li><li>premiers secours élémentaires</li><li>sécurité personnelle et responsabilités sociales</li><li>l’utilisation de la force par des moyens physiques et mécaniques</li><li>gestion des foules</li></ul> <p class='mt-3'>All of these have allowed me to perform my duties as a security officer on cruise ships, thus giving me the opportunity to travel extensively and work on some of the largest and most beautiful cruise ships in the world.</p>",
+                            "tags": ["Maritime Security", "Safety", "International Law", "CruiseShips"]
                         },
-                        "ko": {
-                            "title": "컴퓨터 과학 **박사**",
-                            "info": "하버드 대학교",
-                            "text": "<p>딥러닝과 그 실제 응용 분야에 중점을 둔 박사 과정을 수행 중입니다. 특히 다음에 초점을 맞추고 있습니다:</p> <ul><li>컴퓨터 비전</li><li>혁신적인 AI 연구</li><li>이미지 인식을 위한 새로운 알고리즘 개발</li></ul> <p class='mt-3'>최첨단 연구에 참여하고, 유명 학회에서 발표하여 AI 기술 발전에 기여하고 있습니다.</p>",
-                            "tags": ["딥러닝", "컴퓨터 비전", "AI 연구", "알고리즘"]
-                        }
+                        "ro": {
+                            "title": "**Ofițer de Securitate** Maritim (Nave de Croazieră)",
+                            "info": "Convenția Internațională privind Standardele de Instruire, Certificare și Serviciu de Cart pentru Navigatori (STCW)",
+                            "text": "<p>Am absolvit cursul obținând brevete în:</p><ul><li>tehnici de supraviețuire</li><li>siguranța pasagerilor și antrenamentul de siguranță al personalului</li><li>prevenirea și stingerea incendiilor</li><li>prim-ajutor elementar</li><li>siguranța personalului și responsabilități sociale</li><li>folosirea forței prin mijloace fizice dar și prin mijloace mecanice</li><li>managementul maselor de oameni</li></ul> <p class='mt-3'>Toate acestea mi-au permis să-mi exercit funcția de ofițer de securitate pe nave de croazieră, astfel având oportunitatea de a călători foarte mult și de a avea ca loc de muncă unele dintre cele mai mari și mai frumoase nave de croazieră din lume.</p>",
+                            "tags": ["Maritime Security", "Safety", "International Law", "CruiseShips"]
+                        },
+                        "it": {
+                            "title": "**Ufficiale di Sicurezza** Marittima (Navi da Crociera)",
+                            "info": "Convenzione internazionale sugli standard di addestramento, certificazione e tenuta della guardia per i marittimi (STCW)",
+                            "text": "<p>Ho completato il corso ottenendo certificati in:</p><ul><li>tecniche di sopravvivenza</li><li>sicurezza dei passeggeri e addestramento alla sicurezza del personale</li><li>prevenzione e spegnimento degli incendi</li><li>pronto soccorso elementare</li><li>sicurezza personale e responsabilità sociali</li><li>l’uso della forza attraverso mezzi fisici e meccanici</li><li>gestione della folla</li></ul> <p class='mt-3'>Tutto ciò mi ha permesso di svolgere il mio ruolo di ufficiale di sicurezza sulle navi da crociera, dandomi così l’opportunità di viaggiare molto e di lavorare su alcune delle navi da crociera più grandi e belle del mondo.</p>",
+                            "tags": ["Maritime Security", "Safety", "International Law", "CruiseShips"]
+                        }         
+                        
                     }
                 }
             ]

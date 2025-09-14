@@ -111,12 +111,13 @@
                     },
 
                     "links": [
-                        {"faIcon": "fa-brands fa-github", "href": "https://github.com/alexjoita/QR-Generator"},
-                        {"faIcon": "fa-brands fa-npm", "href": "https://npm.com"}
+                        {"faIcon": "fa-brands fa-github", "href": "https://github.com/alexjoita/qrcode_generator"},
+                        {"faIcon": "fa-solid fa-arrow-pointer", "href": "https://alexjoita.com/qr_generator.html"}
+                      
                     ],
 
                     "media": {
-                        "youtubeVideo": "https://www.youtube.com/watch?v=32XsfeIX_rM",
+                        
                         "screenshots": {
                             "aspectRatio": "9:16",
                             "images": ["images/pictures/project-python1.png",

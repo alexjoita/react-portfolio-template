@@ -18,11 +18,18 @@
             "title_long": "Me **Contacter**"
         },
 
-        "ko": {
-            "title": "연락처",
-            "title_long_prefix": "주저하지 말고",
-            "title_long": "**연락** 주세요"
+        "it": {
+            "title": "Contatto",
+            "title_long_prefix": "Non esitate a",
+            "title_long": "**Contattarmi** "
+        },
+
+        "ro": {
+            "title": "Contact",
+            "title_long_prefix": "Nu ezitați să ",
+            "title_long": "mă **contactați** "
         }
+
     },
 
     "articles": [
@@ -34,7 +41,8 @@
                 "en": {"title": "Send me a **message**"},
                 "es": {"title": "Envíame un **mensaje**"},
                 "fr": {"title": "Envoyez-moi un **message**"},
-                "ko": {"title": "**메시지를** 보내주세요"}
+                "it": {"title": "Inviare un **messaggio**"},
+                "ro": {"title": "Trimite-mi un **mesaj**"}
             },
 
             "items": null
@@ -50,14 +58,15 @@
                 "en": {"title": "Or if you **prefer**..."},
                 "es": {"title": "O si **prefieres**..."},
                 "fr": {"title": "Ou si vous **préférez**..."},
-                "ko": {"title": "또는 **원하시면**..."}
+                "it": {"title": "O se **preferisci**"},
+                "ro": {"title": "Sau dacă **preferi**..."}
             },
 
             "items": [
                 {
-                    "value": "+1 (123) 456-7890",
+                    "value": "+4 (07) 65.***.***",
                     "links": [
-                        {"href": "tel:11234567890"}
+                        {"href": "tel:0040765910830"}
                     ],
                     "icon": {
                         "img": null,
@@ -68,14 +77,15 @@
                         "en": {"title": "Phone"},
                         "es": {"title": "Teléfono"},
                         "fr": {"title": "Téléphone"},
-                        "ko": {"title": "전화"}
+                        "it": {"title": "Telefono"},
+                        "ro": {"title": "Telefon"}
                     }
                 },
 
                 {
-                    "value": "mark.choi@email.com",
+                    "value": "alexjoita@alexjoita.com",
                     "links": [
-                        {"href": "mailto:mark.choi@email.com"}
+                        {"href": "mailto:alexjoita@alexjoita.com"}
                     ],
                     "icon": {
                         "img": null,
@@ -83,15 +93,14 @@
                         "faColors": {"bg": null, "fill": null}
                     },
                     "locales": {
-                        "en": {"title": "E-mail"},
-                        "ko": {"title": "이메일"}
+                        "en": {"title": "E-mail"}                        
                     }
                 },
 
                 {
-                    "value": "@markchoi",
+                    "value": "@alex-joita1988",
                     "links": [
-                        {"href": "https://linkedin.com"}
+                        {"href": "https://www.linkedin.com/in/alex-joita1988/"}
                     ],
                     "icon": {
                         "img": null,
@@ -104,9 +113,9 @@
                 },
 
                 {
-                    "value": "Mark Choi",
+                    "value": "alex.joita",
                     "links": [
-                        {"href": "https://facebook.com"}
+                        {"href": "https://www.facebook.com/alex.joita"}
                     ],
                     "icon": {
                         "img": null,
@@ -119,9 +128,9 @@
                 },
 
                 {
-                    "value": "@markchoi",
+                    "value": "@alexjoita",
                     "links": [
-                        {"href": "https://instagram.com"}
+                        {"href": "https://instagram.com/alexjoita"}
                     ],
                     "icon": {
                         "img": null,
@@ -134,9 +143,24 @@
                 },
 
                 {
-                    "value": "@markchoi",
+                    "value": "@AlexJoita88",
                     "links": [
-                        {"href": "https://tiktok.com"}
+                        {"href": "https://www.youtube.com/@AlexJoita88"}
+                    ],
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-brands fa-youtube",
+                        "faColors": {"bg": null, "fill": null}
+                    },
+                    "locales": {
+                        "en": {"title": "YouTube"}
+                    }
+                },
+
+                {
+                    "value": "@alex.joita",
+                    "links": [
+                        {"href": "https://www.tiktok.com/@alex.joita"}
                     ],
                     "icon": {
                         "img": null,

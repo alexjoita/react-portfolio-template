@@ -4,28 +4,35 @@
             "title": "Welcome!",
             "title_menu": "About me",
             "title_long_prefix": "Hello...",
-            "title_long": "I'm **Mark Choi!**"
-        },
-
-        "es": {
-            "title": "¡Saludos!",
-            "title_menu": "Sobre mí",
-            "title_long_prefix": "Hola...",
-            "title_long": "Soy **Mark Choi!**"
+            "title_long": "I'm **Alex Joita!**"
         },
 
         "fr": {
             "title": "Salut !",
             "title_menu": "À propos",
             "title_long_prefix": "Salut...",
-            "title_long": "Je suis **Mark Choi!**"
+            "title_long": "Je suis **Alex Joita!**"
         },
 
-        "ko": {
-            "title": "환영합니다!",
-            "title_menu": "소개",
-            "title_long_prefix": "안녕하세요...",
-            "title_long": "저는 **Mark Choi** 입니다!"
+        "it": {
+            "title": "Prego!",
+            "title_menu": "Un po' di me",
+            "title_long_prefix": "Ciao...",
+            "title_long": "Io sono **Alex Joita**!"
+        },
+
+        "es": {
+            "title": "¡Saludos!",
+            "title_menu": "Sobre mí",
+            "title_long_prefix": "Hola...",
+            "title_long": "Soy **Alex Joita!**"
+        },
+
+        "ro": {
+            "title": "Salut!",
+            "title_menu": "Despre mine",
+            "title_long_prefix": "Salutare...",
+            "title_long": "Sunt **Alex Joita!**"
         }
     },
 
@@ -41,12 +48,13 @@
                 "en": {},
                 "es": {},
                 "fr": {},
-                "ko": {}
+                "it": {},
+                "ro": {}
             },
 
             "items": [
                 {
-                    "value": "Cupertino – CA",
+                    "value": "Craiova - RO & Bergamo - IT",
                     "links": [
                         {"href": null}
                     ],
@@ -57,9 +65,9 @@
                     }
                 },
                 {
-                    "value": "mark.choi@dev.com",
+                    "value": "alexjoita@alexjoita.com",
                     "links": [
-                        {"href": "mailto:mark.choi@dev.com"}
+                        {"href": "mailto:alexjoita@alexjoita.com"}
                     ],
                     "icon": {
                         "img": null,
@@ -68,13 +76,13 @@
                     }
                 },
                 {
-                    "value": "@ryanbalieiro",
+                    "value": "@alexjoita",
                     "links": [
-                        {"href": "https://github.com/ryanbalieiro"}
+                        {"href": "https://instagram.com/alexjoita"}
                     ],
                     "icon": {
                         "img": null,
-                        "fa": "fa-brands fa-github",
+                        "fa": "fa-brands fa-instagram",
                         "faColors": {"bg": null, "fill": null}
                     }
                 }
@@ -89,21 +97,23 @@
                 "en": {"title": "**A little bit** about me..."},
                 "es": {"title": "**Un poco** sobre mí..."},
                 "fr": {"title": "**Un peu** à propos de moi..."},
-                "ko": {"title": "저에 **대해 조금**..."}
+                "ro": {"title": "**Puțin** despre mine..."},
+                "it": {"title": "**Un po'** di me..."}
             },
 
             "items": [
                 {
                     "icon": {
-                        "img": "images/svg/logo.svg",
+                        "img": "images/pictures/aj-logo-profile.png",
                         "fa": null,
                         "faColors": {"bg": null, "fill": null}
                     },
                     "locales": {
-                        "en": {"text": "<p>I’m a PHP developer with <b>over a decade</b> of experience, specializing in backend development with some frontend work as well. I also have hands-on experience with C++, C#, Go, and Python in production environments.</p><p>This diverse background gives me the flexibility to adapt to a wide range of project needs.</p><p>I look forward to collaborating <b>with you!</b>"},
-                        "es": {"text": "<p>Soy un desarrollador de PHP con <b>más de una década</b> de experiencia, especializado en desarrollo backend y con algo de experiencia en frontend. También tengo experiencia práctica en entornos de producción con C++, C#, Go y Python.</p><p>Este variado historial me permite adaptarme a una amplia gama de necesidades de proyectos.</p><p>¡Espero con interés colaborar <b>contigo!</b></p>"},
-                        "fr": {"text": "<p>Je suis développeur PHP avec <b>plus d'une décennie</b> d'expérience, spécialisé dans le développement backend avec un peu de travail en frontend également. J'ai aussi de l'expérience en production avec les technologies C++, C#, Go et Python.</p><p>Ce parcours diversifié me permet de m'adapter à une large gamme de besoins de projets.</p><p>Je suis impatient de collaborer <b>avec vous !</b></p>"},
-                        "ko": {"text": "<p>저는 백엔드 개발을 전문으로 하고, 프론트엔드 작업도 일부 수행해온 <b>10년 이상의</b> 경력을 가진 PHP 개발자입니다. 또한 C++, C#, Go, Python 스택을 사용한 프로덕션 경험도 있습니다.</p><p>이 다양한 배경 덕분에 프로젝트의 다양한 요구에 유연하게 대처할 수 있습니다.</p><p><b>당신과 협업</b>하기를 기대하고 있습니다!</p>"}
+                        "en": {"text":"<p>Hi, I’m Alex! -  web developer, designer, and photographer with a passion for creating and learning. I’m a self-taught tech enthusiast, constantly expanding my knowledge to stay ahead in the industry.</p><p> I take pride in developing and delivering high-quality products that merge creativity with functionality. </p><p>Let’s build something <b>amazing together!</b>"},
+                        "es": {"text": "<p>¡Hola! Soy Alex, desarrollador web, diseñador y fotógrafo, apasionado por la creación y el aprendizaje. Soy autodidacta y un entusiasta de la tecnología, siempre ampliando mis conocimientos para mantenerme a la vanguardia de la industria.</p><p> Me enorgullece desarrollar y entregar productos de alta calidad que combinan creatividad y funcionalidad.</p><p> ¡Construyamos algo <b>increíble juntos!</b></p>"},
+                        "fr": {"text": "<p>Bonjour, je suis Alex ! Développeur web, designer et photographe, passionné par la création et l'apprentissage. Autodidacte et passionné de technologie, j'élargis constamment mes connaissances pour rester à la pointe de l'industrie.</p><p>Je suis fier de développer et de livrer des produits de haute qualité qui allient créativité et fonctionnalité.</p><p> Construisons quelque chose <b>d'incroyable ensemble !!</b></p>"},
+                        "it": {"text": "<p>Ciao, sono Alex! Sviluppatore web, designer e fotografo, appassionato di creatività e apprendimento. Sono un autodidatta e un entusiasta della tecnologia, sempre impegnato ad ampliare le mie conoscenze per rimanere al passo con il settore.</p><p> Sono orgoglioso di sviluppare e consegnare prodotti di alta qualità che uniscono creatività e funzionalità.</p><p> Costruiamo qualcosa <b>di straordinario insieme!</b></p>"},
+                        "ro": {"text": "<p>Salut, eu sunt Alex! - Dezvoltator Web, designer, fotograf și sunt pasionat de tehnologie. Am învățat singur și în mod constant îmi dezvolt cunoștintele și abilitatile punând accent pe calitate. Mă mândresc cu dezvoltarea și livrarea de produse de înaltă calitate care îmbină creativitatea cu funcționalitatea.</p><p> Hai să construim ceva <b>uimitor împreună!  </b></p>"}
                     }
                 }
             ]
@@ -117,14 +127,15 @@
                 "en": {"title": "Client **testimonials**"},
                 "es": {"title": "Testimonios de **clientes**"},
                 "fr": {"title": "Témoignages de **clients**"},
-                "ko": {"title": "**고객** 추천사"}
+                "ro": {"title": "Testimoniale **clienți**"},
+                "it": {"title": "Testimonianze **dei clienti**"}
             },
 
             "items": [
                 {
-                    "value": "Anita Bath",
+                    "value": "Ana-Maria Birsan",
                     "links": [
-                        {"href": "https://linkedin.com"}
+                       {"href": "https://linkedin.com"}
                     ],
                     "icon": {
                         "img": "images/pictures/person-1.png",
@@ -133,28 +144,32 @@
                     },
                     "locales": {
                         "en": {
-                            "info": "CEO at <b>SalesForce</b>",
-                            "text": "Working with Mark was a transformative experience. His programming skills and dedication not only improved our project but also inspired the entire team."
+                            "info": "Entrepreneur",
+                            "text": "The web designer truly understood my brand and created a website that perfectly reflects my company's personality. The design is modern, clean, and easy to navigate. I’ve received countless compliments on how professional and user-friendly the site is!"
                         },
                         "es": {
-                            "info": "CEO en <b>SalesForce</b>",
-                            "text": "Trabajar con Mark fue una experiencia transformadora. Sus habilidades de programación y dedicación no solo mejoraron nuestro proyecto, sino que también inspiraron a todo el equipo."
+                            "info": "Entrepreneur",
+                            "text": "El diseñador web realmente entendió mi marca y creó un sitio web que refleja perfectamente la personalidad de mi empresa. El diseño es moderno, limpio y fácil de navegar. ¡He recibido innumerables cumplidos sobre lo profesional y fácil de usar que es el sitio!"
                         },
                         "fr": {
-                            "info": "PDG de <b>SalesForce</b>",
-                            "text": "Travailler avec Mark a été une expérience transformative. Ses compétences en programmation et son dévouement ont non seulement amélioré notre projet, mais ont également inspiré toute l'équipe."
+                            "info": "Entrepreneur",
+                            "text": "Le designer web a vraiment compris ma marque et a créé un site web qui reflète parfaitement la personnalité de mon entreprise. Le design est moderne, épuré et facile à naviguer. J'ai reçu d'innombrables compliments sur la professionnalité et la convivialité du site !"
                         },
-                        "ko": {
-                            "info": "세일즈포스  CEO",
-                            "text": "Mark와의 협업은 변화를 가져오는 경험이었습니다. 그의 프로그래밍 기술과 헌신은 우리 프로젝트를 개선할 뿐만 아니라 팀 전체에 영감을 주었습니다."
+                        "ro": {
+                            "info": "Entrepreneur",
+                            "text": "Colaborarea cu acest dezvoltator web a fost o adevărată plăcere. A dat viață ideilor mele într-un mod care a depășit așteptările mele. Site-ul nu este doar vizual uimitor, dar și foarte funcțional. Nu aș putea fi mai fericită cu rezultatul final!"
+                        },
+                        "it": {
+                            "info": "Entrepreneur",
+                            "text": "Lavorare con questo sviluppatore web è stato un vero piacere. Hanno dato vita alle mie idee in un modo che ha superato le mie aspettative. Il sito web non è solo visivamente straordinario, ma anche molto funzionale. Non potrei essere più felice del risultato finale!"
                         }
                     }
                 },
 
                 {
-                    "value": "Lou Natic",
+                    "value": "Lucas Mitchell",
                     "links": [
-                        {"href": "https://github.com"}
+                        {"href": null}
                     ],
                     "icon": {
                         "img": "images/pictures/person-3.png",
@@ -163,26 +178,30 @@
                     },
                     "locales": {
                         "en": {
-                            "info": "Lead Developer at <b>GitHub</b>",
-                            "text": "Having Mark on our team was an invaluable asset. His deep programming insights and mentorship not only elevated our projects but also empowered us to tackle every challenge with confidence and creativity."
+                            "info": "Senior Project Manager at <b>TechSolutions Inc.</b>",
+                            "text": "Alex truly understood my vision for the brand and delivered a website that perfectly reflects my company’s personality. His communication was amazing—he responded to my emails in no time and was always happy to help. The design is modern, clean, and user-friendly. The best part? His prices are more than reasonable for the exceptional quality of work he provides. I’m so happy with the outcome and would recommend him to anyone!"
                         },
                         "es": {
-                            "info": "Desarrollador Principal en <b>GitHub </b>",
-                            "text": "Tener a Mark en nuestro equipo fue un activo invaluable. Sus profundas ideas sobre programación y su mentoría no solo elevaron nuestros proyectos, sino que también nos empoderaron para enfrentar cada desafío con confianza."
+                            "info": "Senior Project Manager at <b>TechSolutions Inc.</b>",
+                            "text": "Alex entendió perfectamente mi visión para la marca y entregó un sitio web que refleja a la perfección la personalidad de mi empresa. Su comunicación fue increíble: respondía a mis correos electrónicos en un abrir y cerrar de ojos y siempre estaba dispuesto a ayudar. El diseño es moderno, limpio y fácil de usar. ¿Lo mejor? Sus precios son más que razonables para la calidad excepcional del trabajo que ofrece. Estoy tan contento con el resultado y lo recomendaría a cualquiera."
                         },
                         "fr": {
-                            "info": "Développeur Principal chez <b>GitHub </b>",
-                            "text": "Avoir Mark dans notre équipe a été un atout inestimable. Ses connaissances approfondies en programmation et son mentorat ont non seulement élevé nos projets, mais nous ont également permis de relever chaque défi avec confiance."
+                            "info": "Senior Project Manager at <b>TechSolutions Inc.</b>",
+                            "text": "Alex a vraiment compris ma vision pour la marque et a livré un site web qui reflète parfaitement la personnalité de mon entreprise. Sa communication était incroyable : il répondait à mes e-mails en un rien de temps et était toujours prêt à aider. Le design est moderne, épuré et convivial. Le meilleur, c'est que ses prix sont plus que raisonnables pour la qualité exceptionnelle du travail qu'il fournit. Je suis tellement satisfait du résultat et je le recommanderais à tout le monde !"
                         },
-                        "ko": {
-                            "info": "<b>GitHub</b> 수석 개발자",
-                            "text": "우리 팀에 Mark가 있다는 것은 귀중한 자산이었습니다. 그의 깊은 프로그래밍 통찰력과 멘토링은 우리의 프로젝트를 높이고 모든 도전에 자신감과 창의성으로 대응할 수 있게 해주었습니다."
+                        "ro": {
+                            "info": "Senior Project Manager at <b>TechSolutions Inc.</b>",
+                            "text": "Alex a înțeles cu adevărat viziunea mea pentru brand și a livrat un site care reflectă perfect personalitatea companiei mele. Comunicarea a fost incredibilă – răspundea la e-mailurile mele într-un timp foarte scurt și era întotdeauna disponibil să ajute. Designul este modern, curat și ușor de utilizat. Cea mai bună parte? Prețurile sale sunt mai mult decât rezonabile pentru calitatea excepțională a muncii pe care o oferă. Sunt atât de fericit cu rezultatul și l-aș recomanda oricui!"
+                        },
+                        "it": {
+                            "info": "Senior Project Manager at <b>TechSolutions Inc.</b>",
+                            "text": "Alex ha davvero capito la mia visione per il marchio e ha consegnato un sito web che riflette perfettamente la personalità della mia azienda. La sua comunicazione è stata incredibile: rispondeva alle mie e-mail in pochissimo tempo ed era sempre disponibile ad aiutare. Il design è moderno, pulito e facile da usare. La cosa migliore? I suoi prezzi sono più che ragionevoli per la qualità eccezionale del lavoro che offre. Sono così felice del risultato e lo raccomanderei a chiunque!"
                         }
                     }
                 },
 
                 {
-                    "value": "Paige Turner",
+                    "value": "Olivia Carter",
                     "links": [
                         {"href": null}
                     ],
@@ -193,28 +212,32 @@
                     },
                     "locales": {
                         "en": {
-                            "info": "Managing Director at <b>Dingga</b>",
-                            "text": "Collaborating with Mark was a game changer for our development process. His expertise and problem-solving abilities were invaluable to our success."
+                            "info": "Head of Research & Development at <b>AlphaTech Labs</b>",
+                            "text": "I've worked with many web developers in the past, but Alex has been by far the best. He was always quick to respond to my messages, and his communication was clear and professional. The website was delivered on time, and his pricing was very reasonable for such high-quality work. I couldn’t be more pleased with the final product and would absolutely recommend him to anyone needing web development or design services!"
                         },
                         "es": {
-                            "info": "Directora General en <b>Dingga</b>",
-                            "text": "Colaborar con Mark fue un cambio de juego para nuestro proceso de desarrollo. Su experiencia y habilidades para resolver problemas fueron invaluables para nuestro éxito."
+                            "info": "Head of Research & Development at <b>AlphaTech Labs</b>",
+                            "text": "He trabajado con muchos desarrolladores web en el pasado, pero Alex ha sido de lejos el mejor. Siempre respondía rápidamente a mis mensajes, y su comunicación era clara y profesional. El sitio web fue entregado a tiempo y sus precios fueron muy razonables para un trabajo de tan alta calidad. No podría estar más contento con el producto final y lo recomendaría absolutamente a cualquiera que necesite servicios de desarrollo o diseño web."
                         },
                         "fr": {
-                            "info": "Directrice Générale chez <b>Dingga</b>",
-                            "text": "Collaborer avec Mark a été un tournant pour notre processus de développement. Son expertise et ses capacités à résoudre des problèmes ont été inestimables pour notre succès."
+                            "info": "Head of Research & Development at <b>AlphaTech Labs</b>",
+                            "text": "J'ai travaillé avec de nombreux développeurs web dans le passé, mais Alex a été de loin le meilleur. Il répondait toujours rapidement à mes messages, et sa communication était claire et professionnelle. Le site web a été livré à temps, et ses prix étaient très raisonnables pour un travail de si haute qualité. Je ne pourrais pas être plus satisfait du produit final et je le recommanderais sans hésiter à toute personne ayant besoin de services de développement ou de design web !"
                         },
-                        "ko": {
-                            "info": "딩가 전무이사",
-                            "text": "Mark와의 협업은 우리의 개발 프로세스에 혁신을 가져왔습니다. 그의 전문성과 문제 해결 능력은 우리의 성공에 없어서는 안 될 요소였습니다."
+                        "ro": {
+                            "info": "Head of Research & Development at <b>AlphaTech Labs</b>",
+                            "text": "Am lucrat cu mulți dezvoltatori web în trecut, dar Alex a fost de departe cel mai bun. Răspundea întotdeauna rapid la mesajele mele, iar comunicarea a fost clară și profesională. Site-ul a fost livrat la timp, iar prețurile sale au fost foarte rezonabile pentru un astfel de lucru de înaltă calitate. Nu aș putea fi mai mulțumit de produsul final și l-aș recomanda cu siguranță oricui are nevoie de servicii de dezvoltare sau design web!"
+                        },
+                        "it": {
+                            "info": "Head of Research & Development at <b>AlphaTech Labs</b>",
+                            "text": "Ho lavorato con molti sviluppatori web in passato, ma Alex è stato di gran lunga il migliore. Rispondeva sempre rapidamente ai miei messaggi, e la sua comunicazione era chiara e professionale. Il sito web è stato consegnato puntualmente e i suoi prezzi erano molto ragionevoli per un lavoro di così alta qualità. Non potrei essere più soddisfatto del prodotto finale e lo raccomanderei assolutamente a chiunque abbia bisogno di servizi di sviluppo o design web!"
                         }
                     }
                 },
 
                 {
-                    "value": "Chris P. Bacon",
+                    "value": "Matteo Bellini",
                     "links": [
-                        {"href": "https://dribbble.com"}
+                        {"href": "https://alexjoita.com"}
                     ],
                     "icon": {
                         "img": "images/pictures/person-4.png",
@@ -223,20 +246,24 @@
                     },
                     "locales": {
                         "en": {
-                            "info": "Creative Director at <b>Dribbble</b>",
-                            "text": "Mark's attention to detail and his innovative thinking brought a fresh perspective to our design process. He truly elevated our team's work and helped us deliver results beyond expectations."
+                            "info": "Director of International Relations at <b>Verona Global Enterprises </b>",
+                            "text": "I initially collaborated with Alex just to create a logo. Later on, I needed an e-commerce website, and I was very happy that I could collaborate with him again. After some time, I reached out to Alex once more for maintenance and SEO for a marketing campaign. Every time I called him to ask something, his response was:  I can help you if you want. I know how to do that too :). We became friends. He is the friend who knows everything. Thanks a lot, Alex, and I wish you much success in everything you do!"
                         },
                         "es": {
-                            "info": "Directora Creativa en <b>Dribbble</b>",
-                            "text": "La atención al detalle de Mark y su pensamiento innovador aportaron una nueva perspectiva a nuestro proceso de diseño. Realmente elevó el trabajo de nuestro equipo y nos ayudó a ofrecer resultados más allá de lo esperado."
+                            "info": "Director of International Relations at <b>Verona Global Enterprises </b>",
+                            "text": "Inicialmente, colaboré con Alex solo para crear un logo. Más tarde, necesité un sitio web de comercio electrónico y me alegró mucho poder colaborar nuevamente con él. Después de un tiempo, volví a contactar a Alex para asegurarme del mantenimiento y SEO para una campaña de marketing. Cada vez que lo llamaba para preguntarle algo, su respuesta era: Puedo ayudarte si quieres. Sé cómo hacer eso también:). Nos hicimos amigos. Es el amigo que lo sabe todo. ¡Muchas gracias, Alex, y te deseo mucho éxito en todo lo que hagas!"
                         },
                         "fr": {
-                            "info": "Directrice Créative chez <b>Dribbble</b>",
-                            "text": "L'attention aux détails de Mark et sa pensée innovante ont apporté une nouvelle perspective à notre processus de design. Il a véritablement élevé le travail de notre équipe et nous a aidés à livrer des résultats au-delà des attentes."
+                            "info": "Director of International Relations at <b>Verona Global Enterprises </b>",
+                            "text": "Au départ, j'ai collaboré avec Alex uniquement pour créer un logo. Par la suite, j'ai eu besoin d'un site e-commerce et j'étais vraiment content de pouvoir à nouveau collaborer avec lui. Après un certain temps, j'ai de nouveau contacté Alex pour assurer la maintenance et le SEO pour une campagne de marketing. Chaque fois que je l'appelais pour lui poser une question, sa réponse était : Je peux t'aider si tu veux. Je sais faire ça aussi:). Nous sommes devenus amis. C'est l'ami qui sait tout. Merci beaucoup, Alex, et je te souhaite beaucoup de succès dans tout ce que tu fais !"
                         },
-                        "ko": {
-                            "info": "<b>Dribbble</b> 크리에이티브 디렉터",
-                            "text": "Mark의 세부 사항에 대한 주의와 혁신적인 사고는 우리 디자인 프로세스에 신선한 관점을 제공했습니다. 그는 팀의 작업을 향상시키고 기대 이상의 결과를 제공하는 데 큰 도움을 주었습니다."
+                        "ro": {
+                            "info": "Director of International Relations at <b>Verona Global Enterprises </b>",
+                            "text": "Am colaborat cu Alex initial doar pentru a-mi face un logo. Ulterior, am avut nevoie si de un site e-commerce si m-am bucurat foarte tare ca am putut colabora din nou. Peste ceva timp, am apelat din nou la Alex pentru a-mi asigura mentenanta si SEO pentru o campanie de marketing. De fiecare data cand il sunam sa-l intreb cate ceva, raspunsul era: Pot sa te ajut eu, daca vrei. Stiu sa fac si asta :). Am devenit prieteni. Este prietenul care le stie pe toate. Mersi mult, Alex si iti doresc mult succes in tot ceea ce faci!"
+                        },
+                        "it": {
+                            "info": "Director of International Relations at <b>Verona Global Enterprises </b>",
+                            "text": "Inizialmente ho collaborato con Alex solo per creare un logo. Successivamente, ho avuto bisogno di un sito e-commerce e sono stato molto felice di poter collaborare di nuovo con lui. Dopo un po' di tempo, ho contattato di nuovo Alex per occuparmi della manutenzione e SEO per una campagna di marketing. Ogni volta che lo chiamavo per chiedergli qualcosa, la sua risposta era: Posso aiutarti se vuoi. So fare anche quello:). Siamo diventati amici. È l'amico che sa tutto. Grazie mille, Alex, e ti auguro tanto successo in tutto ciò che fai!"
                         }
                     }
                 }
@@ -253,7 +280,8 @@
                 "en": {"title": "Personal **interests**"},
                 "es": { "title": "Intereses **personales**" },
                 "fr": { "title": "Intérêts **personnels** " },
-                "ko": { "title": "개인 **관심사**" }
+                "ro": { "title": "**Hobby-uri** " },
+                "it": { "title": "Hobby e interessi**" }
             },
 
             "items": [
@@ -267,19 +295,23 @@
                     "locales": {
                         "en": {
                             "title": "Playing guitar",
-                            "info": "Exploring different genres and improving my skills."
+                            "info": "I discovered this passion quite late. I enjoy relaxing by playing the guitar, especially rock and folk ballads."
                         },
                         "es": {
                             "title": "Tocar la guitarra",
-                            "info": "Explorando diferentes géneros y mejorando mis habilidades."
+                            "info": "Descubrí esta pasión bastante tarde. Me gusta relajarme tocando la guitarra, especialmente baladas de rock y folk."
                         },
                         "fr": {
                             "title": "Jouer de la guitare",
-                            "info": "Explorer différents genres et améliorer mes compétences."
+                            "info": "J'ai découvert cette passion assez tard. J'aime me détendre en jouant de la guitare, surtout des ballades rock et folk."
                         },
-                        "ko": {
-                            "title": "기타 연주",
-                            "info": "다양한 장르를 탐험하고 기술을 향상시키기."
+                        "ro": {
+                            "title": "Chitara",
+                            "info": "Am descoperit această pasiune destul de târziu. Îmi place să mă relaxez cântând la chitară, în special balade rock și folk."
+                        },
+                        "it": {
+                            "title": "Chitarra",
+                            "info": "Ho scoperto questa passione abbastanza tardi. Mi piace rilassarmi suonando la chitarra, specialmente ballate rock e folk."
                         }
                     }
                 },
@@ -293,20 +325,24 @@
                     "value": null,
                     "locales": {
                         "en": {
-                            "title": "AI video editing",
-                            "info": "Learning to use AI tools to enhance my videos."
+                            "title": "Video/Photo editing",
+                            "info": "Using different tools, even AI, to ediv my videos/photos."
                         },
                         "es": {
-                            "title": "Edición de video con IA",
-                            "info": "Aprendiendo a usar herramientas de IA para mejorar mis videos."
+                            "title": "Edición de video/foto",
+                            "info": "Usando diferentes herramientas, incluso IA, para editar mis videos/fotos."
                         },
                         "fr": {
-                            "title": "Montage vidéo avec IA",
-                            "info": "Apprendre à utiliser des outils d'IA pour améliorer mes vidéos."
+                            "title": "Montage vidéo/photo",
+                            "info": "Utiliser différents outils, y compris l'IA, pour éditer mes vidéos/photos."
                         },
-                        "ko": {
-                            "title": "AI 영상 편집",
-                            "info": "AI 도구를 사용하여 내 영상을 향상시키는 방법 배우기."
+                        "ro": {
+                            "title": "Editare foto/video",
+                            "info": " Folosind diverse unelte, chiar și IA, pentru a edita videoclipurile/fotografiile mele."
+                        },
+                        "it": {
+                            "title": "Montaggio video/foto",
+                            "info": " Usando diversi strumenti, inclusa l'IA, per modificare i miei video/foto."
                         }
                     }
                 },
@@ -331,9 +367,13 @@
                             "title": "Illustration",
                             "info": "Pratiquer l'art numérique et explorer de nouveaux styles."
                         },
-                        "ko": {
-                            "title": "일러스트레이션",
-                            "info": "디지털 아트를 연습하고 새로운 스타일을 탐험하기."
+                        "ro": {
+                            "title": "Artă digitală",
+                            "info": "Practic arta digitală și explorez noi stiluri."
+                        },
+                        "it": {
+                            "title": "illustrazione",
+                            "info": "Pratico arte digitale ed esploro nuovi stili."
                         }
                     }
                 },
@@ -341,26 +381,30 @@
                 {
                     "icon": {
                         "img": null,
-                        "fa": "fa-solid fa-chart-line",
+                        "fa": "fa-solid fa-bullseye",
                         "faColors": null
                     },
                     "value": null,
                     "locales": {
                         "en": {
-                            "title": "Investing",
-                            "info": "Learning the basics of stocks and personal finance."
+                            "title": "Archery",
+                            "info": " I enjoy archery (compound) and whenever I have the chance, I go outdoors to train myself."
                         },
                         "es": {
-                            "title": "Invertir",
-                            "info": "Aprendiendo los conceptos básicos de acciones y finanzas personales."
+                            "title": "Tiro con arco",
+                            "info": "Me gusta hacer tiro con arco (compound) y siempre que tengo la oportunidad, salgo al aire libre a entrenar."
                         },
                         "fr": {
-                            "title": "Investir",
-                            "info": "Apprendre les bases des actions et des finances personnelles."
+                            "title": "Tir à l'arc",
+                            "info": "J'aime faire du tir à l'arc (compound) et chaque fois que j'en ai l'occasion, je vais m'entraîner en plein air."
                         },
-                        "ko": {
-                            "title": "투자",
-                            "info": "주식과 개인 재정의 기초 배우기."
+                        "ro": {
+                            "title": "Tir cu arcul",
+                            "info": "Îmi place să fac tir cu arcul (compound) și ori de câte ori am ocazia, merg în aer liber să mă antrenez."
+                        },
+                        "it": {
+                            "title": "Tiro con l'arco",
+                            "info": "Mi piace fare tiro con l'arco (compound) e ogni volta che ne ho l'occasione, vado ad allenarmi all'aperto."
                         }
                     }
                 },
@@ -368,26 +412,30 @@
                 {
                     "icon": {
                         "img": null,
-                        "fa": "fa-solid fa-pencil-alt",
+                        "fa": "fa-solid fa-motorcycle",
                         "faColors": null
                     },
                     "value": null,
                     "locales": {
                         "en": {
-                            "title": "UX design",
-                            "info": "Studying user experience principles."
+                            "title": "Motorcycling",
+                            "info": "I'm passionate about almost anything with an engine :) but especially two-wheeled motorcycles."
                         },
                         "es": {
-                            "title": "Diseño UX",
-                            "info": "Estudiando los principios de la experiencia del usuario."
+                            "title": " Motociclismo",
+                            "info": "Me apasiona casi todo lo que tiene motor :) pero especialmente las motocicletas de dos ruedas."
                         },
                         "fr": {
-                            "title": "Conception UX",
-                            "info": "Étudier les principes de l'expérience utilisateur."
+                            "title": "Motocyclisme",
+                            "info": "Je suis passionné par presque tout ce qui a un moteur :) mais surtout les motos à deux roues."
                         },
-                        "ko": {
-                            "title": "UX 디자인",
-                            "info": "사용자 경험 원칙을 공부하기."
+                        "ro": {
+                            "title": "Motociclism",
+                            "info": "Mă pasionează cam tot ce are motor :) dar în mod special motoarele pe 2 roți."
+                        },
+                        "it": {
+                            "title": "Motociclismo",
+                            "info": "Mi appassiona quasi tutto ciò che ha un motore :) ma in particolare le moto a due ruote."
                         }
                     }
                 },
@@ -401,20 +449,24 @@
                     "value": null,
                     "locales": {
                         "en": {
-                            "title": "Photo editing",
-                            "info": "Enhancing photos through creative editing techniques."
+                            "title": "Photography",
+                            "info": " I love to capture places, events, people. I create memories."
                         },
                         "es": {
-                            "title": "Edición de fotos",
-                            "info": "Mejorando fotos a través de técnicas creativas de edición."
+                            "title": "Fotografía ",
+                            "info": "Me gusta capturar lugares, eventos, personas. Creo recuerdos."
                         },
                         "fr": {
-                            "title": "Retouche photo",
-                            "info": "Améliorer des photos avec des techniques de montage créatives."
+                            "title": "La photographie ",
+                            "info": "J'aime immortaliser des lieux, des événements, des personnes. Je crée des souvenirs."
                         },
-                        "ko": {
-                            "title": "사진 편집",
-                            "info": "창의적인 편집 기술을 통해 사진을 향상시키기."
+                        "ro": {
+                            "title": "Fotografia",
+                            "info": "îmi place să imortalizez locuri, evenimente, oameni. Creez amintiri."
+                        },
+                        "it": {
+                            "title": "Fotografia",
+                            "info": "Mi piace immortalare luoghi, eventi, persone. Creo ricordi."
                         }
                     }
                 }

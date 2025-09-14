@@ -1,7 +1,7 @@
 {
     "locales": {
         "en": {
-            "title": "Life recently",
+            "title": "Updates",
             "title_menu": "Updates",
             "title_long_prefix": "Take a look at my",
             "title_long": "Recent **Updates**"
@@ -21,11 +21,19 @@
             "title_long": "Dernières **Mises à Jour**"
         },
 
-        "ko": {
-            "title": "최근의 삶",
-            "title_menu": "업데이트",
-            "title_long_prefix": "내 최근",
-            "title_long": "**업데이트**를 확인해 보세요"
+        
+        "ro": {
+            "title": "Viaţa recentă",
+            "title_menu": "Actualizări",
+            "title_long_prefix": "Descoperă",
+            "title_long": "Ultimele **Actualizări**"
+        },
+
+        "it": {
+            "title": "Vita recente",
+            "title_menu": "Aggiornamenti",
+            "title_long_prefix": "Scopri gli",
+            "title_long": "ultimi "
         }
     },
 
@@ -56,9 +64,13 @@
                             "title": "03",
                             "info": "Applications publiées"
                         },
-                        "ko": {
+                        "ro": {
                             "title": "03",
-                            "info": "출시된 앱"
+                            "info": "Applicaţii publicate"
+                        },
+                        "it": {
+                            "title": "03",
+                            "info": "Applicazioni pubblicati"
                         }
                     }
                 },
@@ -70,20 +82,25 @@
                     },
                     "locales": {
                         "en": {
-                            "title": "100+",
+                            "title": "10+",
                             "info": "Stars on GitHub"
                         },
                         "es": {
-                            "title": "100+",
+                            "title": "10+",
                             "info": "Estrellas en GitHub"
                         },
                         "fr": {
-                            "title": "100+",
+                            "title": "10+",
                             "info": "Étoiles sur GitHub"
                         },
-                        "ko": {
-                            "title": "100+",
-                            "info": "GitHub 별"
+
+                        "ro": {
+                            "title": "10+",
+                            "info": "Stele primite pe  GitHub"
+                        },
+                        "it": {
+                            "title": "10+",
+                            "info": "GitHub stelle"
                         }
                     }
                 },
@@ -95,20 +112,26 @@
                     },
                     "locales": {
                         "en": {
-                            "title": "12",
+                            "title": "14",
                             "info": "Countries visited"
                         },
                         "es": {
-                            "title": "12",
+                            "title": "14",
                             "info": "Países visitados"
                         },
                         "fr": {
-                            "title": "12",
+                            "title": "14",
                             "info": "Pays visités"
                         },
-                        "ko": {
-                            "title": "12",
-                            "info": "방문한 나라"
+
+                        "ro": {
+                            "title": "14",
+                            "info": "Ţări vizitate"
+                        },
+
+                        "it": {
+                            "title": "14",
+                            "info": "Paesi visitati"
                         }
                     }
                 },
@@ -120,20 +143,26 @@
                     },
                     "locales": {
                         "en": {
-                            "title": "07",
+                            "title": "03",
                             "info": "Open-source projects"
                         },
                         "es": {
-                            "title": "07",
+                            "title": "03",
                             "info": "Proyectos de código abierto"
                         },
                         "fr": {
-                            "title": "07",
+                            "title": "03",
                             "info": "Projets open-source"
                         },
-                        "ko": {
-                            "title": "07",
-                            "info": "오픈 소스 프로젝트"
+
+                        "ro": {
+                            "title": "03",
+                            "info": "Proiecte open-source"
+                        },
+
+                        "it": {
+                            "title": "03",
+                            "info": "Progetti open source"
                         }
                     }
                 },
@@ -145,20 +174,26 @@
                     },
                     "locales": {
                         "en": {
-                            "title": "20,000",
+                            "title": ">10,000",
                             "info": "Coffees consumed"
                         },
                         "es": {
-                            "title": "20,000",
+                            "title": ">10,000",
                             "info": "Cafés consumidos"
                         },
                         "fr": {
-                            "title": "20,000",
+                            "title": ">10,000",
                             "info": "Cafés consommés"
                         },
-                        "ko": {
-                            "title": "20,000",
-                            "info": "마신 커피"
+
+                        "ro": {
+                            "title": ">10,000",
+                            "info": "Cafele consumate"
+                        },
+
+                        "it": {
+                            "title": ">10,000",
+                            "info": "Caffè consumati"
                         }
                     }
                 }
@@ -174,98 +209,110 @@
                 "en": { "title": "Quick **Facts**" },
                 "es": { "title": "Feed de **Noticias**" },
                 "fr": { "title": "Fil d'**Actualités**" },
-                "ko": { "title": "**뉴스** 피드" }
+                "ro": { "title": "Scurte **Info**" },
+                "it": { "title": "Brevi **informazioni**" }
             },
 
             "items": [
                 {
                     "dates": {
-                        "start": "09/01/2022",
+                        "start": "01/15/2017",
                         "end": null
                     },
                     "links": [],
                     "locales": {
                         "en": {
-                            "title": "Relocated to **California!**",
-                            "text": "Successfully transitioned to California to explore new career opportunities in the tech industry, leveraging the vibrant local ecosystem to enhance my professional growth."
+                            "title": "**Professional conversion**.",
+                            "text": "After 10 years of working as a police officer within the Ministry of Internal Affairs in Romania, I started working in the I.T. field, with my first freelancing projects being logo design."
                         },
                         "es": {
-                            "title": "¡Me mudé a **California!**",
-                            "text": "Transición exitosa a California para explorar nuevas oportunidades profesionales en la industria tecnológica, aprovechando el vibrante ecosistema local para mejorar mi crecimiento profesional."
+                            "title": "**Conversión profesional** y lanzado mi sitio **web personal**.",
+                            "text": "Después de 10 años de trabajo como oficial de policía en el Ministerio del Interior de Rumanía, comencé a trabajar en el campo de la tecnología de la información, siendo mis primeros proyectos freelance el diseño de logotipos."
                         },
                         "fr": {
-                            "title": "Déménagement en **Californie !**",
-                            "text": "Transition réussie en Californie pour explorer de nouvelles opportunités de carrière dans l'industrie technologique, tirant parti de l'écosystème local dynamique pour améliorer ma croissance professionnelle."
+                            "title": "**Reconversion professionnelle** et j'ai lancé mon site **web personnel**.",
+                            "text": "Après 10 ans de travail en tant qu'officier de police au sein du ministère de l'Intérieur en Roumanie, j'ai commencé à travailler dans le domaine de l'informatique, mes premiers projets en freelance étant la création de logos."
                         },
-                        "ko": {
-                            "title": "**캘리포니아로 이사했습니다!**",
-                            "text": "기술 산업의 새로운 직업 기회를 탐색하기 위해 캘리포니아로 성공적으로 이주하였으며, 지역 생태계를 활용하여 전문성을 향상시키고 있습니다."
+                        "ro": {
+                            "title": "**Reconversie Profesională** și am lansat **site-ul** meu **personal**.",
+                            "text": "După 10 ani de muncă fiind ofiţer de poliţie în cadrul Ministerul de Interne din România, am început să activez în domeniul I.T., primele proiecte de freelancing fiind de creare logo."
+                        },
+                        "it": {
+                            "title": "**Conversione Professionale** e lanciato il mio **sito web** personale.",
+                            "text": "Dopo 10 anni di lavoro come ufficiale di polizia all'interno del Ministero degli Interni della Romania, ho iniziato a lavorare nel campo dell'informatica, con i miei primi progetti freelance che riguardavano la creazione di loghi."
                         }
                     }
                 },
 
                 {
                     "dates": {
-                        "start": "05/12/2023",
+                        "start": "07/01/2008",
                         "end": null
                     },
                     "links": [
-                        {"string": "see_more", "href": "https://youtube.com"}
+                        {"string": "see_more", "href": "https://www.youtube.com/@AlexJoita88"}
                     ],
                     "locales": {
                         "en": {
                             "title": "Started my own **YouTube channel**!",
-                            "text": "Launched a YouTube channel focused on programming tutorials, sharing insights and techniques on various technologies, and engaging with a community of aspiring developers."
+                            "text": "I launched my own YouTube channel where I posted my first videos of me practicing various hobbies (dancing, cars, etc.) and later added funny sketches, tutorials, as well as various tips & tricks tutorials and pictures from the places I've traveled to and enjoyed."
                         },
                         "es": {
                             "title": "¡Inicié mi propio **canal de YouTube!**",
-                            "text": "Lancé un canal de YouTube enfocado en tutoriales de programación, compartiendo ideas y técnicas sobre diversas tecnologías, y participando en una comunidad de desarrolladores aspirantes."
+                            "text": "Lancé mi propio canal de YouTube donde publiqué mis primeros videos de mí practicando diversos pasatiempos (baile, coches, etc.) y luego agregué sketches divertidos, tutoriales, así como diversos tutoriales de consejos y trucos y fotos de los lugares que he visitado y que me han gustado."
                         },
                         "fr": {
                             "title": "Création de ma propre **chaîne YouTube** !",
-                            "text": "Lancement d'une chaîne YouTube axée sur des tutoriels de programmation, partageant des idées et des techniques sur diverses technologies, et interagissant avec une communauté de développeurs en herbe."
+                            "text": "J'ai lancé ma propre chaîne YouTube où j'ai publié mes premières vidéos de moi pratiquant divers loisirs (danse, voitures, etc.) et plus tard, j'ai ajouté des sketchs drôles, des tutoriels, ainsi que divers tutoriels de conseils et astuces et des photos des endroits où j'ai voyagé et que j'ai appréciés."
                         },
-                        "ko": {
-                            "title": "자신의 **유튜브 채널을** 시작했습니다!",
-                            "text": "프로그래밍 튜토리얼에 초점을 맞춘 유튜브 채널을 시작하여 다양한 기술에 대한 통찰력과 기법을 공유하고, 개발자 지망생 커뮤니티와 소통하고 있습니다."
+                        "ro": {
+                            "title": "Crearea propriului **canal de YouTube** !",
+                            "text": "Mi-am lansat propriul canal de YouTube unde am publicat primele video-uri cu mine în timp ce practicam diverse hobby-uri (dans, mașini, etc.) și mai târziu am adăugat sketch-uri amuzante, tutoriale, dar și diverse tutoriale cu tips & tricks și imagini cu locurile prin care am călătorit și care mi-au plăcut."
+                        },
+                       "it": {
+                            "title": "Ho aperto il mio  **canale YouTube** !",
+                            "text": "Ho lanciato il mio canale YouTube dove ho pubblicato i miei primi video in cui praticavo vari hobby (danza, auto, ecc.) e successivamente ho aggiunto sketch divertenti, tutorial, oltre a vari tutorial con consigli e trucchi e immagini dei luoghi che ho visitato e che mi sono piaciuti."
                         }
                     }
                 },
 
                 {
                     "dates": {
-                        "start": "11/05/2024",
+                        "start": "07/01/2018",
                         "end": null
                     },
                     "links": [],
                     "locales": {
                         "en": {
-                            "title": "Working on a new **mobile project**!",
-                            "text": "Currently developing a mobile application that integrates innovative features and user-friendly design, aimed at enhancing user experience and addressing specific market needs."
+                            "title": "Trying to become a  **web developer**! :)",
+                            "text": "Having already a bit of experience in freelancing by creating logos, I decided to learn how to make websites as well, so I started learning HTML and CSS. I quickly moved on to WordPress, with which I created my first websites for clients."
                         },
                         "es": {
-                            "title": "¡Trabajando en un nuevo **proyecto móvil**!",
-                            "text": "Actualmente desarrollando una aplicación móvil que integra características innovadoras y un diseño fácil de usar, con el objetivo de mejorar la experiencia del usuario y atender necesidades específicas del mercado."
+                            "title": "¡Intentando convertirme en **desarrollador web**! :)",
+                            "text": "Ya teniendo algo de experiencia en freelancing creando logotipos, decidí aprender a hacer sitios web también, así que comencé a aprender HTML y CSS. Rápidamente pasé a WordPress, con el cual creé mis primeros sitios web para clientes."
                         },
                         "fr": {
-                            "title": "Travail sur un nouveau **projet mobile** !",
-                            "text": "Actuellement en train de développer une application mobile qui intègre des fonctionnalités innovantes et un design convivial, visant à améliorer l'expérience utilisateur et à répondre à des besoins spécifiques du marché."
+                            "title": "Essayer de devenir **développeur web** ! :)",
+                            "text": "Ayant déjà une petite expérience en freelance en créant des logos, j'ai décidé d'apprendre à créer des sites web aussi, alors j'ai commencé à apprendre le HTML et le CSS. J'ai rapidement migré vers WordPress, avec lequel j'ai créé mes premiers sites web pour des clients."
                         },
-                        "ko": {
-                            "title": "새 **모바일 프로젝트** 작업 중!",
-                            "text": "혁신적인 기능과 사용자 친화적인 디자인을 통합한 모바일 애플리케이션을 현재 개발 중이며, 사용자 경험을 향상하고 특정 시장의 요구를 충족하는 것을 목표로 하고 있습니다."
+                        "ro": {
+                            "title": "Încerc să devin **dezvoltator web***! :)",
+                            "text": "Având deja o mică experiență în freelancing făcând logo-uri, am decis să învăț să fac și website-uri și astfel am început să învăț HTML, CSS. Imediat am migrat către WordPress, cu ajutorul căruia am creat primele website-uri pentru clienți."
+                        },
+                        "it": {
+                            "title": "Sto cercando di diventare uno **sviluppatore web**! :)",
+                            "text": "Avendo già una piccola esperienza nel freelancing creando loghi, ho deciso di imparare a fare anche siti web, quindi ho iniziato a imparare HTML e CSS. Subito dopo sono passato a WordPress, con il quale ho creato i miei primi siti web per clienti."
                         }
+                        
                     }
                 },
 
                 {
                     "dates": {
-                        "start": "12/12/2024",
+                        "start": "12/12/2017",
                         "end": null
                     },
-                    "links": [
-                        { "string": "see_more", "href": "https://ryanbalieiro.github.io/react-portfolio-template/" }
-                    ],
+                    "links": [],
                     "locales": {
                         "en": {
                             "title": "Launched my **personal website**!",
@@ -279,9 +326,13 @@
                             "title": "Lancement de mon **site web personnel** !",
                             "text": "Création d'un site web personnel pour présenter mes projets, partager mon parcours en programmation et fournir des ressources pour d'autres développeurs."
                         },
-                        "ko": {
-                            "title": "**개인 웹사이트**를 시작했습니다!",
-                            "text": "내 프로젝트를 소개하고 프로그래밍 여정을 공유하며 다른 개발자들을 위한 리소스를 제공하기 위해 개인 웹사이트를 만들었습니다."
+                        "ro": {
+                            "title": "Lansarea **site-ului web personal** !",
+                            "text": "Am creat un site personal pentru a arăta proiectele şi pentru a împărtăşi părerile în ceea ce priveşte programarea dar şi pentru a oferi resurse celorlalţi dezvoltatori din branşă."
+                        },
+                        "it": {
+                            "title": "Ho lanciato il mio **sito web personale**.",
+                            "text": "Ho creato un sito web personale per mostrare i miei progetti, condividere il mio percorso nella programmazione e fornire risorse per altri sviluppatori."
                         }
                     }
                 }

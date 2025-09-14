@@ -5,22 +5,22 @@
 
     "preloader": {
         "enabled": true,
-        "title": "React <b>Portfolio</b>",
-        "subtitle": "by Ryan Balieiro"
+        "title": "Alex <b>Joita</b>",
+        "subtitle": "Portfolio"
     },
 
     "profile": {
         "name": "Alex Joita",
         "stylizedName": "<strong>Alex **Joita**</strong>",
         "logoUrl": "images/svg/logo.svg",
-        "profilePictureUrl": "images/pictures/avatar.jpg",
+        "profilePictureUrl": "images/pictures/logo-logo.jpg",
 
         "locales": {
             "en": {"role": "Web Developer"},
             "es": {"role": "Desarrollador Web"},
             "fr": {"role": "Développeur Web"},
-            "it": {"role": "웹 개발자"},
-            "ro": {"role": "Dezvoltator Web"}
+            "it": {"role": "Sviluppatore web"},
+            "ro": {"role": "Dezvoltator web"}
         }
     },
 
@@ -32,8 +32,8 @@
             "en": {"message": "Available for freelance!"},
             "es": {"message": "¡Disponible para freelance!"},
             "fr": {"message": "Disponible pour freelance !"},
-            "it": {"message": "프리랜스 가능합니다!"},
-            "ro": {"message": "Disponibil pentru proiecte noi!"}
+            "it": {"message": "Disponibile per lavoro autonomo"},
+            "ro": {"message": "Disponibil pentru freelance!"}
         }
     },
 
@@ -78,15 +78,15 @@
         },
 
         {
-            "name": "Romana",
+            "name": "Română",
             "id": "ro",
             "flagUrl": "images/flags/ro.png"
         }
     ],
 
     "emailjs": {
-        "publicKey": "tzObcsmOwHvPy6Rhp",
-        "serviceId": "service_4h8g7vb",
-        "templateId": "template_seyjkzn"
+        "publicKey": "CLNO3AKosbBJVZLop",
+        "serviceId": "service_zqrzcwg",
+        "templateId": "template_rk6a4cr"
     }
 }
