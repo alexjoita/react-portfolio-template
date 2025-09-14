@@ -18,10 +18,16 @@
             "title_long": "Mon **Portfolio**"
         },
 
-        "ko": {
-            "title": "포트폴리오",
-            "title_long_prefix": "이것은 내",
-            "title_long": "**포트폴리오**입니다"
+        "ro": {
+            "title": "Portofoliu",
+            "title_long_prefix": "Descoperă",
+            "title_long": "**Portfoliul** Meu "
+        },
+
+        "it": {
+            "title": "Portfolio",
+            "title_long_prefix": "Scopri",
+            "title_long": "il mio **Portfolio**"
         }
     },
 
@@ -39,7 +45,8 @@
                         "en": {"singular": "App", "plural": "Apps"},
                         "es": {"singular": "App", "plural": "Apps"},
                         "fr": {"singular": "App", "plural": "Apps"},
-                        "ko": {"singular": "앱", "plural": "앱들"}
+                        "ro": {"singular": "App", "plural": "Apps"},
+                        "it": {"singular": "App", "plural": "Apps"}
                     }
                 },
                 {
@@ -48,7 +55,38 @@
                         "en": {"singular": "Website", "plural": "Web"},
                         "es": {"singular": "Sitio web", "plural": "Web"},
                         "fr": {"singular": "Site web", "plural": "Web"},
-                        "ko": {"singular": "웹사이트", "plural": "웹"}
+                        "ro": {"singular": "Site-uri web", "plural": "Web"},
+                        "it": {"singular": "Sito web", "plural": "Web"}
+                    }
+                },
+                {
+                    "id": "logo",
+                    "locales": {
+                        "en": {"singular": "Logo", "plural": "Logo"},
+                        "es": {"singular": "Logo", "plural": "Logo"},
+                        "fr": {"singular": "Logo", "plural": "Logo"},
+                        "ro": {"singular": "Logo", "plural": "Logo"},
+                        "it": {"singular": "Logo", "plural": "Logo"}
+                    }
+                },
+                {
+                    "id": "video",
+                    "locales": {
+                        "en": {"singular": "Video edit", "plural": "Video edit"},
+                        "es": {"singular": "Edición de vídeo", "plural": "Edición de vídeo"},
+                        "fr": {"singular": "Montage vidéo", "plural": "Montage vidéo"},
+                        "ro": {"singular": "Editare video", "plural": "Editare video"},
+                        "it": {"singular": "Montaggio video", "plural": "Montaggio video"}
+                    }
+                },
+                {
+                    "id": "photo",
+                    "locales": {
+                        "en": {"singular": "Photography", "plural": "Photo"},
+                        "es": {"singular": "Foto", "plural": "Foto"},
+                        "fr": {"singular": "Photographie", "plural": "Photo"},
+                        "ro": {"singular": "Fotografie", "plural": "Foto"},
+                        "it": {"singular": "Foto", "plural": "Foto"}
                     }
                 },
                 {
@@ -57,153 +95,224 @@
                         "en": {"singular": "Utility", "plural": "Utilities"},
                         "es": {"singular": "Utilidad", "plural": "Utilidades"},
                         "fr": {"singular": "Utilitaire", "plural": "Utilitaires"},
-                        "ko": {"singular": "유틸리티", "plural": "유틸리티들"}
+                        "ro": {"singular": "Utilitare", "plural": "Utilitare"},
+                        "it": {"singular": "Utilita", "plural": "Utilita"}
                     }
                 }
             ],
 
             "items": [
                 {
-                    "categoryId": "utilities",
+                    "categoryId": "apps",
                     "icon": {
-                        "img": "images/pictures/project-logo-3.png",
+                        "img": "images/pictures/project-python2.png",
                         "fa": "",
                         "faColors": {"bg": null, "fill": null}
                     },
 
                     "links": [
-                        {"faIcon": "fa-brands fa-github", "href": "https://github.com"},
+                        {"faIcon": "fa-brands fa-github", "href": "https://github.com/alexjoita/QR-Generator"},
                         {"faIcon": "fa-brands fa-npm", "href": "https://npm.com"}
                     ],
 
                     "media": {
                         "youtubeVideo": "https://www.youtube.com/watch?v=32XsfeIX_rM",
                         "screenshots": {
-                            "aspectRatio": null,
-                            "images": []
+                            "aspectRatio": "9:16",
+                            "images": ["images/pictures/project-python1.png",
+                                        "images/pictures/project-python2.png",
+                                       "images/pictures/project-python3.png",
+                                        "images/pictures/project-python4.png",
+                                        "images/pictures/project-python5.png"]
+                            
                         }
                     },
 
                     "locales": {
                         "en": {
-                            "title": "BrainPulse",
-                            "text": "A <b>RESTful API</b> backend built with <b>Node.js</b>, designed for high-performance data processing and real-time event handling.",
-                            "tags": ["API", "REST", "Backend"]
+                            "title": "QR Code Generator",
+                            "text": "This is a small application created with Python that can generate QR codes with different styles. Also, to assist the user, I created a simple graphical interface through which the data to be integrated into the QR code can be entered, and at the same time, the final product can be customized.",
+                            "tags": ["API", "Python", "Backend"]
                         },
                         "es": {
-                            "title": "BrainPulse",
-                            "text": "Una <b>API RESTful</b> construida con <b>Node.js</b>, diseñada para el procesamiento de datos de alto rendimiento y la gestión de eventos en tiempo real.",
-                            "tags": ["API", "REST", "Backend"]
+                            "title": "QR Code Generator",
+                            "text": "Esta es una pequeña aplicación realizada con Python que puede generar códigos QR con diferentes estilos. Además, para ayudar al usuario, creé una interfaz gráfica simple mediante la cual se pueden introducir los datos que se integrarán en el código QR y, al mismo tiempo, se puede personalizar el producto final.",
+                            "tags": ["API", "Python", "Backend"]
                         },
                         "fr": {
-                            "title": "BrainPulse",
-                            "text": "Un backend <b>API RESTful</b> construit avec <b>Node.js</b>, conçu pour le traitement de données haute performance et la gestion d'événements en temps réel.",
-                            "tags": ["API", "REST", "Backend"]
+                            "title": "QR Code Generator",
+                            "text": "C'est une petite application réalisée avec Python qui permet de générer des codes QR avec différents styles. De plus, pour aider l'utilisateur, j'ai créé une interface graphique simple dans laquelle les données à intégrer dans le code QR peuvent être saisies, et en même temps, le produit final peut être personnalisé.",
+                            "tags": ["API", "Python", "Backend"]
                         },
-                        "ko": {
-                            "title": "BrainPulse",
-                            "text": "<b>Node.js</b>로 구축된 <b>RESTful API</b> 백엔드로, 고성능 데이터 처리 및 실시간 이벤트 처리용으로 설계되었습니다.",
-                            "tags": ["API", "REST", "Backend"]
+                        "it": {
+                            "title": "QR Code Generator",
+                            "text": "Questa è una piccola applicazione realizzata con Python che permette di generare codici QR con stili diversi. Inoltre, per supportare l'utente, ho creato un'interfaccia grafica semplice tramite la quale è possibile inserire i dati che verranno integrati nel codice QR e, allo stesso tempo, personalizzare il prodotto finale.",
+                            "tags": ["API", "Python", "Backend"]
+                        },
+                        "ro": {
+                            "title": "QR Code Generator",
+                            "text": "Este o mică aplicație realizată cu Python prin care se pot genera coduri QR cu diferite stiluri. De asemenea, pentru a veni în sprijinul utilizatorului, am creat o interfață grafică simplă prin care se pot introduce datele care urmează să fie integrate în codul QR și, în același timp, produsul final poate fi personalizat.",
+                            "tags": ["API", "Python", "Backend"]
                         }
                     }
                 },
 
                 {
-                    "categoryId": "apps",
+                    "categoryId": "video",
                     "icon": {
                         "img": "images/pictures/project-logo-7.png",
                         "fa": "",
                         "faColors": {"bg": null, "fill": null}
                     },
 
+                    "links": [],
+
+                    "media": {
+                        "youtubeVideo": "https://www.youtube.com/watch?v=_sAI6xwc96M",
+                        "screenshots": {
+                            "aspectRatio": "9:16",
+                            "images": []
+                        }
+                    },
+
+                    "locales": {
+                        "en": {
+                            "title": "Real Estate Video",
+                            "text": "This video was made using a drone at the request of a real estate client. The footage was captured at an exclusive location, and then the video editing was done in Adobe Premiere Pro.",
+                            "tags": ["Drone", "Adobee Premiere Pro", "Real Estate"]
+                        },
+                        "es": {
+                            "title": "Real Estate Video",
+                            "text": "Este video fue realizado utilizando un dron a solicitud de un cliente de bienes raíces. La filmación se hizo en una ubicación exclusiva, y luego se realizó la edición del video en Adobe Premiere Pro.",
+                            "tags": ["Drone", "Adobee Premiere Pro", "Real Estate"]
+                        },
+                        "fr": {
+                            "title": "Real Estate Video",
+                            "text": "Cette vidéo a été réalisée à l'aide d'un drone à la demande d'un client immobilier. Le tournage a eu lieu dans un endroit exclusif, puis le montage vidéo a été effectué dans Adobe Premiere Pro.",
+                            "tags": ["Drone", "Adobee Premiere Pro", "Real Estate"]
+                        },
+                        "ro": {
+                            "title": "Real Estate Video",
+                            "text": "Acest video a fost realizat folosind o dronă la cererea unui client din domeniul imobiliar. Filmarea a fost realizată într-o locație exclusivistă, iar apoi editarea video a fost făcută în Adobe Premiere Pro.",
+                            "tags": ["Drone", "Adobee Premiere Pro", "Real Estate"]
+                        },
+                        "it": {
+                            "title": "Real Estate Video",
+                            "text": "Questo video è stato realizzato utilizzando un drone su richiesta di un cliente nel settore immobiliare. Le riprese sono state effettuate in una location esclusiva, successivamente il montaggio video è stato fatto in Adobe Premiere Pro.",
+                            "tags": ["Drone", "Adobee Premiere Pro", "Real Estate"]
+                        }
+                    }
+                },
+
+
+                {
+                    "categoryId": "logo",
+                    "icon": {
+                        "img": "images/pictures/logo/logo1.jpg",
+                        "fa": "",
+                        "faColors": {"bg": null, "fill": null}
+                    },
+
                     "links": [
-                        {"faIcon": "fa-brands fa-apple", "href": "https://apple.com"},
-                        {"faIcon": "fa-brands fa-google-play", "href": "https://google.com"}
                     ],
 
                     "media": {
-                        "youtubeVideo": "https://www.youtube.com/watch?v=TfgBHC5gvTI",
+                        "youtubeVideo": "",
                         "screenshots": {
                             "aspectRatio": "9:16",
                             "images": [
-                                "images/pictures/project-screenshot-1.webp",
-                                "images/pictures/project-screenshot-2.webp",
-                                "images/pictures/project-screenshot-3.webp",
-                                "images/pictures/project-screenshot-4.webp",
-                                "images/pictures/project-screenshot-5.webp"
+                                "images/pictures/logo/logo2.webp",
+                                "images/pictures/logo/logo3.webp",
+                                "images/pictures/logo/logo4.webp",
+                                "images/pictures/logo/logo5.webp",
+                                "images/pictures/logo/logo6.webp",
+                                "images/pictures/logo/logo7.webp",
+                                "images/pictures/logo/logo8.webp",
+                                "images/pictures/logo/logo9.webp",
+                                "images/pictures/logo/logo10.webp",
+                                "images/pictures/logo/logo11.webp",
+                                "images/pictures/logo/logo12.webp",
+                                "images/pictures/logo/logo13.webp",
+                                "images/pictures/logo/logo14.webp",
+                                "images/pictures/logo/logo15.webp",
+                                "images/pictures/logo/logo16.webp",
+                                "images/pictures/logo/logo17.webp",
+                                "images/pictures/logo/logo18.webp",
+                                "images/pictures/logo/logo19.webp",
+                                "images/pictures/logo/logo20.webp"
+                               
                             ]
                         }
                     },
 
                     "locales": {
                         "en": {
-                            "title": "MailM8",
-                            "text": "A cross-platform email client built with <b>Flutter</b>, providing efficient communication with an intuitive UI for <b>managing emails</b>.",
-                            "tags": ["Flutter", "E-mail", "Communication"]
+                            "title": "Logo / Vectorial Design",
+                            "text": " Logo and branding are essential elements of a company’s identity. <b>A logo </b> is a unique visual symbol that represents the company and its values, often acting as the first point of recognition for customers. Branding, on the other hand, includes the entire visual and emotional identity of a company, including colors, typography, tone of voice, and overall style, all of which work together to create a memorable and consistent image in the minds of consumers.",
+                            "tags": ["Marketing", "Visual Identity", "Communication", "Business", "Branding"]
                         },
                         "es": {
-                            "title": "MailM8",
-                            "text": "Un cliente de correo electrónico multiplataforma construido con <b>Flutter</b>, que ofrece comunicación eficiente y una interfaz intuitiva para la <b>gestión de correos electrónicos</b>.",
-                            "tags": ["Flutter", "Correo", "Comunicación"]
+                            "title": "Logo / Vectorial Design",
+                            "text": ": El logotipo y la marca son elementos esenciales de la identidad de una empresa. Un logotipo es un símbolo visual único que representa a la empresa y sus valores, actuando a menudo como el primer punto de reconocimiento para los clientes. La marca, por otro lado, incluye toda la identidad visual y emocional de una empresa, que abarca colores, tipografía, tono de voz y estilo general, todos los cuales trabajan juntos para crear una imagen memorable y coherente en la mente de los consumidores.",
+                            "tags": ["Marketing", "Identidad Visual", "Comunicación","Negocios","Branding"]
                         },
                         "fr": {
-                            "title": "MailM8",
-                            "text": "Un client de messagerie multiplateforme construit avec <b>Flutter</b>, offrant une communication efficace et une interface intuitive pour <b>gérer les e-mails</b>.",
-                            "tags": ["Flutter", "E-mail", "Communication"]
+                            "title": "Logo / Vectorial Design",
+                            "text": "Le logo et la marque sont des éléments essentiels de l'identité d'une entreprise. Un logo est un symbole visuel unique qui représente l'entreprise et ses valeurs, agissant souvent comme le premier point de reconnaissance pour les clients. Le branding, quant à lui, inclut l'ensemble de l'identité visuelle et émotionnelle d'une entreprise, y compris les couleurs, la typographie, le ton de voix et le style général, tous ces éléments travaillant ensemble pour créer une image mémorable et cohérente dans l'esprit des consommateurs.",
+                            "tags": ["Marketing", "Identité Visuelle", "Communication","Affaires","Branding"]
                         },
-                        "ko": {
-                            "title": "MailM8",
-                            "text": "<b>Flutter</b>로 구축된 크로스플랫폼 이메일 클라이언트로, 이메일 <b>관리</b>를 위한 직관적인 UI를 통해 효율적인 소통을 제공합니다.",
-                            "tags": ["Flutter", "이메일", "소통"]
+                        "it": {
+                            "title": "Logo / Vectorial Design",
+                            "text": " Il logo e il branding sono elementi essenziali dell'identità di un'azienda. Un logo è un simbolo visivo unico che rappresenta l'azienda e i suoi valori, agendo spesso come il primo punto di riconoscimento per i clienti. Il branding, d'altra parte, comprende l'intera identità visiva ed emotiva di un'azienda, inclusi colori, tipografia, tono di voce e stile generale, tutti elementi che lavorano insieme per creare un'immagine memorabile e coerente nella mente dei consumatori.",
+                            "tags": ["Marketing", "Identità Visiva", "Comunicazione","Affari","Branding"]
+                        },
+                        "ro": {
+                            "title": "Logo / Vectorial Design",
+                            "text": " Logo-ul și branding-ul sunt elemente esențiale ale identității unei companii. Un logo este un simbol vizual unic care reprezintă compania și valorile sale, acționând adesea ca primul punct de recunoaștere pentru clienți. Branding-ul, pe de altă parte, include întreaga identitate vizuală și emoțională a unei companii, incluzând culorile, tipografia, tonul vocii și stilul general, toate acestea lucrând împreună pentru a crea o imagine memorabilă și consistentă în mintea consumatorilor.",
+                            "tags": ["Marketing", "Identitate Vizuală", "Comunicare","Afaceri","Branding"]
                         }
+
                     }
                 },
 
                 {
-                    "categoryId": "apps",
+                    "categoryId": "video",
                     "icon": {
                         "img": "images/pictures/project-logo-6.png",
                         "fa": "",
                         "faColors": {"bg": null, "fill": null}
                     },
 
-                    "links": [
-                        {"faIcon": "fa-brands fa-apple", "href": "https://apple.com"},
-                        {"faIcon": "fa-brands fa-google-play", "href": "https://google.com"}
-                    ],
+                    "links": [],
 
                     "media": {
-                        "youtubeVideo": null,
+                        "youtubeVideo": "https://www.youtube.com/watch?v=JHAtg1fm0xA",
                         "screenshots": {
                             "aspectRatio": "16:9",
-                            "images": [
-                                "images/pictures/project-screenshot-6.png",
-                                "images/pictures/project-screenshot-7.png",
-                                "images/pictures/project-screenshot-8.png"
-                            ]
+                            "images": []
                         }
                     },
 
                     "locales": {
                         "en": {
-                            "title": "Stackers",
-                            "text": "A fully-featured productivity app developed with <b>React Native</b>, enabling users to organize tasks, notes, and projects across multiple devices. It offers <b>cloud sync</b>, intuitive UI, and collaboration features.",
-                            "tags": ["React", "Organization", "Notes"]
+                            "title": "Galbenu Lake, RO",
+                            "text": "",
+                            "tags": ["Drone", "Adobe Premiere Pro", "4k"]
                         },
                         "es": {
-                            "title": "Stackers",
-                            "text": "Una app de productividad con todas las funciones, desarrollada con <b>React Native</b>, que permite a los usuarios organizar tareas, notas y proyectos en varios dispositivos. Ofrece <b>sincronización en la nube</b>, interfaz intuitiva y características de colaboración.",
-                            "tags": ["React", "Organización", "Notas"]
+                            "title": "Lago Amarillo, RO",
+                            "text": "",
+                            "tags": ["Drone", "Adobe Premiere Pro", "4k"]
                         },
                         "fr": {
-                            "title": "Stackers",
-                            "text": "Une application de productivité complète développée avec <b>React Native</b>, permettant aux utilisateurs d'organiser tâches, notes et projets sur plusieurs appareils. Elle offre <b>synchronisation cloud</b>, interface intuitive et fonctionnalités de collaboration.",
-                            "tags": ["React", "Organisation", "Notes"]
+                            "title": "Lac Jaune, RO",
+                            "text": "",
+                            "tags": ["Drone", "Adobe Premiere Pro", "4k"]
                         },
-                        "ko": {
-                            "title": "Stackers",
-                            "text": "<b>React Native</b>로 개발된 기능이 풍부한 생산성 앱으로, 사용자가 여러 기기에서 작업, 메모, 프로젝트를 <b>클라우드 동기화</b>와 직관적인 UI로 관리할 수 있습니다.",
-                            "tags": ["React", "조직", "메모"]
+                        "it": {
+                            "title": "Lago Giallo, RO",
+                            "text": "",
+                            "tags": ["Drone", "Adobe Premiere Pro", "4k"]
                         }
                     }
                 },
@@ -217,43 +326,151 @@
                     },
 
                     "links": [
-                        {"faIcon": "fa-solid fa-link", "href": "https://cash.com"}
+                        {"faIcon": "fa-solid fa-link", "href": "https://ramfiscal.ro"}
                     ],
 
                     "media": {
-                        "youtubeVideo": "https://www.youtube.com/watch?v=MQe_MoJ7Iww",
+                        "youtubeVideo": "",
                         "screenshots": {
-                            "aspectRatio": null,
-                            "images": []
+                            "aspectRatio": "9:16",
+                            "images": [ "images/pictures/screenshot7.png",
+                                        "images/pictures/screenshot8.png",
+                                        "images/pictures/screenshot9.png"]
                         }
                     },
 
                     "locales": {
                         "en": {
-                            "title": "SmartCash",
-                            "text": "A finance website built using <b>Next.js</b>, allowing users to <b>track budgets</b> and manage their money with interactive charts and insights.",
-                            "tags": ["Next.js", "Finance", "Money"]
+                            "title": "RamFiscal",
+                            "text": "An e-commerce website built using <b>Wordpress</b> and <b>WooCommerce</b> plugin, allowing users to <b>place order</b> for their favourite products.",
+                            "tags": ["Wordpress", "WooCommerce", "SEO"]
                         },
                         "es": {
-                            "title": "SmartCash",
-                            "text": "Un sitio web financiero construido con <b>Next.js</b>, que permite a los usuarios <b>seguir presupuestos</b> y gestionar su dinero con gráficos interactivos e ideas.",
-                            "tags": ["Next.js", "Finanzas", "Dinero"]
+                            "title": "RamFiscal",
+                            "text": "Un sitio web de comercio electrónico creado con Wordpress y el plugin WooCommerce, que permite a los usuarios realizar pedidos de sus productos favoritos.",
+                            "tags": ["Wordpress", "WooCommerce", "SEO"]
                         },
                         "fr": {
-                            "title": "SmartCash",
-                            "text": "Un site web financier construit avec <b>Next.js</b>, permettant aux utilisateurs de <b>suivre les budgets</b> et de gérer leur argent avec des graphiques interactifs et des analyses.",
-                            "tags": ["Next.js", "Finance", "Argent"]
+                            "title": "RamFiscal",
+                            "text": "Un site de commerce électronique construit avec Wordpress et le plugin WooCommerce, permettant aux utilisateurs de passer commande pour leurs produits préférés.",
+                            "tags": ["Wordpress", "WooCommerce", "SEO"]
                         },
-                        "ko": {
-                            "title": "SmartCash",
-                            "text": "<b>Next.js</b>로 구축된 금융 웹사이트로, 사용자가 <b>예산을 추적</b>하고 상호작용하는 차트와 통찰력으로 자금을 관리할 수 있습니다.",
-                            "tags": ["Next.js", "금융", "돈"]
+                        "ro": {
+                            "title": "RamFiscal",
+                            "text": "Un site de comerț electronic creat cu Wordpress și pluginul WooCommerce, care permite utilizatorilor să plaseze comenzi pentru produsele lor preferate.",
+                            "tags": ["Wordpress", "WooCommerce", "SEO"]
+                        },
+                        "it": {
+                            "title": "RamFiscal",
+                            "text": "Un sito di e-commerce costruito con Wordpress e il plugin WooCommerce, che consente agli utenti di effettuare ordini per i loro prodotti preferiti.",
+                            "tags": ["Wordpress", "WooCommerce", "SEO"]
                         }
                     }
                 },
 
                 {
-                    "categoryId": "apps",
+                    "categoryId": "websites",
+                    "icon": {
+                        "img": "images/pictures/avatar.jpg",
+                        "fa": "",
+                        "faColors": {"bg": null, "fill": null}
+                    },
+
+                    "links": [
+                        {"faIcon": "fa-solid fa-link", "href": "https://alexjoita.com/#contact/"}
+                    ],
+
+                    "media": {
+                        "youtubeVideo": "",
+                        "screenshots": {
+                            "aspectRatio": "9:16",
+                            "images": [ ]
+                        }
+                    },
+
+                    "locales": {
+                        "en": {
+                            "title": "alexjoita.com",
+                            "text": "This website is a showcase (portfolio) site created using React. It is basically a web application with a minimalist style, combining functionality with design. Do you want a website like this? Contact me! ;)",
+                            "tags": ["React", "Bootstrap","Javascrip"]
+                        },
+                        "es": {
+                            "title": "alexjoita.com",
+                            "text": "Este sitio web es un sitio de presentación (portafolio) creado utilizando React. Básicamente, es una aplicación web con un estilo minimalista que combina funcionalidad con diseño. ¿Quieres un sitio como este? ¡Contáctame! ;)",
+                            "tags": ["React", "Bootstrap","Javascrip"]
+                        },
+                        "fr": {
+                            "title": "alexjoita.com",
+                            "text": "Ce site web est un site de présentation (portfolio) créé avec React. C'est essentiellement une application web au style minimaliste qui allie fonctionnalité et design. Tu veux un site comme celui-ci ? Contacte-moi ! ;)",
+                            "tags": ["React", "Bootstrap","Javascrip"]
+                        },
+                        "ro": {
+                            "title": "alexjoita.com",
+                            "text": "Acest site este un site de prezentare (portofoliu) creat utilizând React. Practic, este o aplicație web cu un stil minimalist care combină funcționalitatea cu designul. Vrei și tu un site ca acesta? Contactează-mă! ;)",
+                            "tags": ["React", "Bootstrap","Javascrip"]
+                        },
+                        "it": {
+                            "title": "alexjoita.com",
+                            "text": "Questo sito web è un sito vetrina (portfolio) creato utilizzando React. È fondamentalmente un'applicazione web con uno stile minimalista che unisce funzionalità e design. Vuoi anche tu un sito come questo? Contattami! ;)",
+                            "tags": ["React", "Bootstrap","Javascrip"]
+                        }
+                    }
+                },
+                {
+                    "categoryId": "websites",
+                    "icon": {
+                        "img": "images/pictures/daune360_logo.png",
+                        "fa": "",
+                        "faColors": {"bg": null, "fill": null}
+                    },
+
+                    "links": [
+                        {"faIcon": "fa-solid fa-link", "href": "https://daune360.ro"}
+                    ],
+
+                    "media": {
+                        "youtubeVideo": "",
+                        "screenshots": {
+                            "aspectRatio": "9:16",
+                            "images": [ "images/pictures/screenshot10.png",
+                            "images/pictures/screenshot11.png",
+                            "images/pictures/screenshot12.png",
+                        "images/pictures/screenshot13.png"] 
+                        }
+                    },
+
+                    "locales": {
+                        "en": {
+                            "title": "daune360.ro",
+                            "text": "This website is a presentation site for a business in the automotive industry. The site was created with WordPress, optimized and prepared for SEO. I also created and optimized functions for Google Search Console, Google Analytics, and SEO using the YOAST SEO plugin.",
+                            "tags": ["Wordpress", "SEO","Google Analytics"]
+                        },
+                        "es": {
+                            "title": "daune360.ro",
+                            "text": "Este sitio web es una página de presentación para un negocio en la industria automotriz. El sitio fue creado con WordPress, optimizado y preparado para SEO. También creé y optimicé funciones para Google Search Console, Google Analytics y SEO utilizando el plugin YOAST SEO.",
+                            "tags": ["Wordpress", "SEO","Google Analytics"]
+                        },
+                        "fr": {
+                            "title": "daune360.ro",
+                            "text": "Ce site web est un site de présentation pour une entreprise dans l'industrie automobile. Le site a été créé avec WordPress, optimisé et préparé pour le SEO. J'ai également créé et optimisé les fonctions pour Google Search Console, Google Analytics et le SEO en utilisant le plugin YOAST SEO.",
+                            "tags": ["Wordpress", "SEO","Google Analytics"]
+                        },
+                        "ro": {
+                            "title": "daune360.ro",
+                            "text": "Acest website este unul de prezentare al unui business în industria auto. Site-ul a fost realizat cu WordPress, optimizat și pregătit pentru SEO. De asemenea, am creat și optimizat funcțiile pentru Google Search Console, Google Analytics și SEO folosind pluginul YOAST SEO.",
+                            "tags": ["Wordpress", "SEO","Google Analytics"]
+                        },
+                        "it": {
+                            "title": "daune360.ro",
+                            "text": "Questo sito web è un sito di presentazione per un'azienda nel settore automobilistico. Il sito è stato realizzato con WordPress, ottimizzato e preparato per la SEO. Ho anche creato e ottimizzato le funzioni per Google Search Console, Google Analytics e la SEO utilizzando il plugin YOAST SEO.",
+                            "tags": ["Wordpress", "SEO","Google Analytics"]
+                        }
+                    }
+                },
+
+
+                {
+                    "categoryId": "video",
                     "icon": {
                         "img": "images/pictures/project-logo-2.png",
                         "fa": "",
@@ -261,38 +478,37 @@
                     },
 
                     "links": [
-                        {"faIcon": "fa-brands fa-apple", "href": "https://apple.com"},
-                        {"faIcon": "fa-brands fa-google-play", "href": "https://google.com"}
+                      
                     ],
 
                     "media": {
-                        "youtubeVideo": null,
+                        "youtubeVideo": "https://www.youtube.com/watch?v=4Neva_kD8L4",
                         "screenshots": {
-                            "aspectRatio": null,
+                            "aspectRatio": "16:9",
                             "images": []
                         }
                     },
 
                     "locales": {
                         "en": {
-                            "title": "Snappy",
-                            "text": "A powerful photography app designed with <b>Swift</b> for iOS and Android, featuring <b>advanced camera controls</b>, editing tools, and AI-powered filters for quick photo enhancements.",
-                            "tags": ["Swift", "Photography", "Camera"]
+                            "title": "Moto Tour",
+                            "text": "",
+                            "tags": ["Adobe Premiere Pro", "GoPro", "Motorcycle"]
                         },
                         "es": {
-                            "title": "Snappy",
-                            "text": "Una app de fotografía potente diseñada con <b>Swift</b> para iOS y Android, con <b>controles avanzados de cámara</b>, herramientas de edición y filtros potenciados por IA para mejoras rápidas de fotos.",
-                            "tags": ["Swift", "Fotografía", "Cámara"]
+                            "title": "Recorrido en Moto",
+                            "text": "",
+                            "tags": ["Adobe Premiere Pro", "GoPro", "Motorcycle"]
                         },
                         "fr": {
-                            "title": "Snappy",
-                            "text": "Une application de photographie puissante conçue avec <b>Swift</b> pour iOS et Android, avec des <b>contrôles avancés de la caméra</b>, des outils d'édition et des filtres IA pour des améliorations rapides des photos.",
-                            "tags": ["Swift", "Photographie", "Caméra"]
+                            "title": "Tour à moto",
+                            "text": "",
+                            "tags": ["Adobe Premiere Pro", "GoPro", "Motorcycle"]
                         },
-                        "ko": {
-                            "title": "Snappy",
-                            "text": "<b>Swift</b>로 설계된 강력한 사진 앱으로, iOS 및 Android에서 <b>고급 카메라 제어</b>, 편집 도구, AI 기반 필터를 통해 빠르게 사진을 보정할 수 있습니다.",
-                            "tags": ["Swift", "사진", "카메라"]
+                        "it": {
+                            "title": "Giro in Moto",
+                            "text": "",
+                            "tags": ["Adobe Premiere Pro", "GoPro", "Motorcycle"]
                         }
                     }
                 },
@@ -301,175 +517,124 @@
                     "categoryId": "websites",
                     "icon": {
                         "img": "images/pictures/project-logo-5.png",
-                        "fa": "",
-                        "faColors": {"bg": null, "fill": null}
-                    },
-
-                    "links": [
-                        {"faIcon": "fa-solid fa-link", "href": "https://sweetscoops.com"}
-                    ],
-
-                    "media": {
-                        "youtubeVideo": null,
-                        "screenshots": {
-                            "aspectRatio": null,
-                            "images": []
-                        }
-                    },
-
-                    "locales": {
-                        "en": {
-                            "title": "Sweet Scoops",
-                            "text": "A recipe website built with <b>WordPress</b> and WooCommerce, featuring a rich collection of <b>dessert recipes</b> and an integrated e-commerce platform.",
-                            "tags": ["WooCommerce", "Food", "Desserts"]
-                        },
-                        "es": {
-                            "title": "Sweet Scoops",
-                            "text": "Un sitio web de recetas construido con <b>WordPress</b> y WooCommerce, con una rica colección de <b>recetas de postres</b> y una plataforma de comercio electrónico integrada.",
-                            "tags": ["WooCommerce", "Comida", "Postres"]
-                        },
-                        "fr": {
-                            "title": "Sweet Scoops",
-                            "text": "Un site de recettes construit avec <b>WordPress</b> et WooCommerce, présentant une riche collection de <b>recettes de desserts</b> et une plateforme de commerce électronique intégrée.",
-                            "tags": ["WooCommerce", "Cuisine", "Desserts"]
-                        },
-                        "ko": {
-                            "title": "Sweet Scoops",
-                            "text": "<b>WordPress</b>와 WooCommerce로 구축된 레시피 웹사이트로, 풍부한 <b>디저트 레시피</b> 모음과 통합된 전자상거래 플랫폼을 제공합니다.",
-                            "tags": ["WooCommerce", "음식", "디저트"]
-                        }
-                    }
-                },
-
-                {
-                    "categoryId": "websites",
-                    "icon": {
-                        "img": null,
                         "fa": "fa-solid fa-guitar",
                         "faColors": {"bg": "#111", "fill": "#EEE"}
                     },
 
                     "links": [
-                        {"faIcon": "fa-solid fa-link", "href": "https://rockverse.com"}
+                        {"faIcon": "fa-solid fa-link", "href": "https://speak-out.ro"}
                     ],
 
                     "media": {
                         "youtubeVideo": "",
                         "screenshots": {
-                            "aspectRatio": null,
-                            "images": []
+                            "aspectRatio": "9:16",
+                            "images": [
+                                "images/pictures/screenshot1.png",
+                                "images/pictures/screenshot2.png",
+                                "images/pictures/screenshot3.png",
+                                "images/pictures/screenshot4.png",
+                                "images/pictures/screenshot5.png",
+                                "images/pictures/screenshot6.png"
+                                
+                            ]
                         }
                     },
 
                     "locales": {
                         "en": {
-                            "title": "RockVerse",
-                            "text": "A dynamic music and entertainment website developed with <b>Django</b>, showcasing rock music news, events, and <b>streaming content</b>.",
-                            "tags": ["Django", "Music", "Rock"]
+                            "title": "Speak-OUT!",
+                            "text": "A website of a company that organizes foreign language courses and provides various services in the field of translation and interpretation.",
+                            "tags": ["Wordpress", "Responsive", "SEO"]
                         },
                         "es": {
-                            "title": "RockVerse",
-                            "text": "Un sitio web dinámico de música y entretenimiento desarrollado con <b>Django</b>, que muestra noticias de música rock, eventos y <b>contenido en streaming</b>.",
-                            "tags": ["Django", "Música", "Rock"]
+                            "title": "Speak-OUT!",
+                            "text": "Un sitio web de una empresa que organiza cursos de idiomas extranjeros y ofrece diversos servicios en el área de traducción e interpretación.",
+                            "tags": ["Wordpress", "Responsive", "SEO"]
                         },
                         "fr": {
-                            "title": "RockVerse",
-                            "text": "Un site web de musique et de divertissement dynamique développé avec <b>Django</b>, mettant en avant des nouvelles, événements et <b>contenu en streaming</b> sur le rock.",
-                            "tags": ["Django", "Musique", "Rock"]
+                            "title": "Speak-OUT!",
+                            "text": "Un site web d'une entreprise qui organise des cours de langues étrangères et offre divers services dans le domaine de la traduction et de l'interprétation.",
+                            "tags": ["Wordpress", "Responsive", "SEO"]
                         },
-                        "ko": {
-                            "title": "RockVerse",
-                            "text": "<b>Django</b>로 개발된 동적인 음악 및 엔터테인먼트 웹사이트로, 록 음악 뉴스, 이벤트 및 <b>스트리밍 콘텐츠</b>를 제공합니다.",
-                            "tags": ["Django", "음악", "록"]
+                        "it": {
+                            "title": "Speak-OUT!",
+                            "text": "Un sito web di un'azienda che organizza corsi di lingue straniere e fornisce vari servizi nel campo della traduzione e interpretariato.",
+                            "tags": ["Wordpress", "Responsive", "SEO"]
+                        },"ro": {
+                            "title": "Speak-OUT!",
+                            "text": "Un website depre o companie care organizează cursuri de limbi străine şi prestează diferite servicii în zona de traduceri şi translaţii.  ",
+                            "tags": ["Wordpress", "Responsive", "SEO"]
                         }
                     }
                 },
 
-                {
-                    "categoryId": "utilities",
-                    "icon": {
-                        "img": "images/pictures/project-logo-4.png",
-                        "fa": "",
-                        "faColors": {"bg": null, "fill": null}
-                    },
-
-                    "links": [
-                    ],
-
-                    "media": {
-                        "youtubeVideo": "https://www.youtube.com/watch?v=bf3Lz33nHy0",
-                        "screenshots": {
-                            "aspectRatio": null,
-                            "images": []
-                        }
-                    },
-
-                    "locales": {
-                        "en": {
-                            "title": "Soccer Analytics",
-                            "text": "An AI-powered sports analytics platform built with <b>Python</b> and <b>TensorFlow</b>, offering detailed soccer <b>predictions</b> and team management tools.",
-                            "tags": ["AI", "Prediction", "Soccer"]
-                        },
-                        "es": {
-                            "title": "Soccer Analytics",
-                            "text": "Una plataforma de análisis deportivo impulsada por IA construida con <b>Python</b> y <b>TensorFlow</b>, que ofrece <b>predicciones</b> detalladas de fútbol y herramientas de gestión de equipos.",
-                            "tags": ["IA", "Predicción", "Fútbol"]
-                        },
-                        "fr": {
-                            "title": "Soccer Analytics",
-                            "text": "Une plateforme d'analytique sportive alimentée par IA construite avec <b>Python</b> et <b>TensorFlow</b>, offrant des <b>prédictions</b> détaillées pour le football et des outils de gestion d'équipe.",
-                            "tags": ["IA", "Prédiction", "Football"]
-                        },
-                        "ko": {
-                            "title": "Soccer Analytics",
-                            "text": "<b>Python</b> 및 <b>TensorFlow</b>로 구축된 AI 기반 스포츠 분석 플랫폼으로, 축구에 대한 <b>예측</b> 및 팀 관리 도구를 제공합니다.",
-                            "tags": ["AI", "예측", "축구"]
-                        }
-                    }
-                },
+                
 
                 {
-                    "categoryId": "apps",
+                    "categoryId": "photo",
                     "icon": {
-                        "img": "",
+                        "img": "images/pictures/project-logo-2.png",
                         "fa": "fa-solid fa-truck-fast",
                         "faColors": {"bg": "#007396", "fill": "#EEE"}
                     },
 
                     "links": [
-                        {"faIcon": "fa-brands fa-apple", "href": "https://apple.com"},
-                        {"faIcon": "fa-brands fa-google-play", "href": "https://google.com"},
-                        {"faIcon": "fa-brands fa-windows", "href": "https://windows.com"}
+                        {"faIcon": "fa-solid fa-link", "href": "http://photo.alexjoita.com"}
                     ],
 
                     "media": {
                         "youtubeVideo": null,
                         "screenshots": {
-                            "aspectRatio": null,
-                            "images": []
+                            "aspectRatio": "2:2",
+                            "images": ["images/pictures/photo1.jpg",
+                                    "images/pictures/photo2.jpg",
+                                    "images/pictures/photo3.jpg",
+                                    "images/pictures/photo4.jpg",
+                                    "images/pictures/photo5.jpg",
+                                    "images/pictures/photo6.jpg",
+                                    "images/pictures/photo7.jpg",
+                                    "images/pictures/photo8.jpg",
+                                    "images/pictures/photo9.jpg",
+                                    "images/pictures/photo10.jpg",
+                                    "images/pictures/photo11.jpg",
+                                    "images/pictures/photo12.jpg",
+                                    "images/pictures/photo13.jpg",
+                                    "images/pictures/photo14.jpg",
+                                    "images/pictures/photo15.jpg",
+                                    "images/pictures/photo16.jpg",
+                                    "images/pictures/photo17.jpg",
+                                    "images/pictures/photo18.jpg",
+                                    "images/pictures/photo19.jpg",
+                                    "images/pictures/photo20.jpg"]
                         }
                     },
 
                     "locales": {
                         "en": {
-                            "title": "QuickDrop",
-                            "text": "A cross-platform delivery app built with <b>React Native</b> and a <b>Node.js backend</b>, featuring <b>real-time tracking</b> and seamless integration with multiple platforms.",
-                            "tags": ["React Native", "Delivery", "Real-Time Tracking"]
+                            "title": "Photos",
+                            "text": "Here are some of the photographs taken by me using various styles (portrait, street, nature, animals). The photos are taken with a professional camera (Nikon Z6ii) along with premium lenses. View the gallery containing some of the photos or visit the PHOTO website for more details.",
+                            "tags": ["Photography", "RAW", "Photo Editing"]
                         },
                         "es": {
-                            "title": "QuickDrop",
-                            "text": "Una app de entregas multiplataforma construida con <b>React Native</b> y un backend de <b>Node.js</b>, con <b>seguimiento en tiempo real</b> e integración perfecta en múltiples plataformas.",
-                            "tags": ["React Native", "Entrega", "Seguimiento"]
+                            "title": "Fotografías",
+                            "text": "Aquí están algunas de las fotografías tomadas por mí utilizando diversos estilos (retrato, calle, naturaleza, animales). Las fotos están tomadas con una cámara profesional (Nikon Z6ii) junto con lentes premium. Visualiza la galería que contiene algunas de las fotos o accede al sitio web FOTO para más detalles.",
+                            "tags": ["Photography", "RAW", "Photo Editing"]
                         },
                         "fr": {
-                            "title": "QuickDrop",
-                            "text": "Une application de livraison multiplateforme construite avec <b>React Native</b> et un backend <b>Node.js</b>, avec <b>suivi en temps réel</b> et intégration fluide sur plusieurs plateformes.",
-                            "tags": ["React Native", "Livraison", "Suivi"]
+                            "title": "Photographies",
+                            "text": "Voici quelques-unes des photographies prises par moi en utilisant divers styles (portrait, rue, nature, animaux). Les photos ont été prises avec un appareil photo professionnel (Nikon Z6ii) accompagné d'objectifs premium. Consultez la galerie contenant certaines photos ou visitez le site PHOTO pour plus de détails.",
+                            "tags": ["Photography", "RAW", "Photo Editing"]
                         },
-                        "ko": {
-                            "title": "QuickDrop",
-                            "text": "<b>React Native</b>와 <b>Node.js</b> 백엔드로 구축된 크로스플랫폼 배송 앱으로, <b>실시간 추적</b> 및 여러 플랫폼과의 원활한 통합을 제공합니다.",
-                            "tags": ["React Native", "배송", "실시간 추적"]
+                        "it": {
+                            "title": "Fotografie",
+                            "text": "Ecco alcune delle fotografie scattate da me utilizzando vari stili (ritratto, strada, natura, animali). Le foto sono state scattate con una fotocamera professionale (Nikon Z6ii) insieme a obiettivi premium. Visualizza la galleria che contiene alcune delle foto o accedi al sito FOTO per maggiori dettagli.",
+                            "tags": ["Photography", "RAW", "Photo Editing"]
+                        },
+                        "ro": {
+                            "title": "Fotografie",
+                            "text": "Aici sunt o parte din fotografiile realizate de mine folosind diverse stiluri (portret, stradă, natură, animale). Fotografiile sunt realizate cu o cameră profesională (Nikon Z6ii) împreună cu obiective premium. Vizualizează galeria ce conține o parte din fotografii sau accesează site-ul FOTO pentru mai multe detalii.",
+                            "tags": ["Photography", "RAW", "Photo Editing"]
                         }
                     }
                 }
